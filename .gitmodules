@@ -8,3 +8,8 @@
 	url = /cbica/projects/RBC/freesurfer_stats/input_data/PNC_fmriprep_fs
 	datalad-id = 723c7ee4-ea9a-4aa7-bdb5-27cb4d20eba3
 	datalad-url = /cbica/projects/RBC/freesurfer_stats/input_data/PNC_fmriprep_fs
+[submodule "fstabulate-containers"]
+	path = fstabulate-containers
+	url = /cbica/projects/RBC/freesurfer_stats/PNC/fs-tabulate/fstabulate-containers
+	datalad-id = bec408bc-e7aa-4cd2-b455-f18f1597830a
+	datalad-url = /cbica/projects/RBC/freesurfer_stats/PNC/fs-tabulate/fstabulate-containers
