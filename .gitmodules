@@ -3,3 +3,8 @@
 	url = https://github.com/PennLINC/freesurfer_tabulate.git
 	datalad-id = 99859582-d83b-414d-b348-da8d4a803603
 	datalad-url = https://github.com/PennLINC/freesurfer_tabulate.git
+[submodule "inputs/data"]
+	path = inputs/data
+	url = /cbica/projects/RBC/freesurfer_stats/input_data/PNC_fmriprep_fs
+	datalad-id = 723c7ee4-ea9a-4aa7-bdb5-27cb4d20eba3
+	datalad-url = /cbica/projects/RBC/freesurfer_stats/input_data/PNC_fmriprep_fs
