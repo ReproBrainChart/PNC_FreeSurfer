@@ -1,0 +1,5 @@
+[submodule "freesurfer_tabulate"]
+	path = freesurfer_tabulate
+	url = https://github.com/PennLINC/freesurfer_tabulate.git
+	datalad-id = 99859582-d83b-414d-b348-da8d4a803603
+	datalad-url = https://github.com/PennLINC/freesurfer_tabulate.git
