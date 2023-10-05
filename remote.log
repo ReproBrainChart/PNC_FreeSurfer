@@ -1,1 +1,2 @@
+1bedf87e-e2c1-436e-a034-e449016cabed autoenable=true bucket=fcp-indi datacenter=US encryption=none exporttree=no fileprefix=data/Projects/RBC/PNC_FreeSurfer/ host=s3.amazonaws.com name=fcp-indi partsize=1GiB port=80 public=yes storageclass=STANDARD type=S3 timestamp=1696517547.896689534s
 4d82b2b0-7ece-4f71-9ac9-b6237b35ec9c archive-id=da925640-e6e2-4c4b-ba6a-60af03fb9014 autoenable=true encryption=none externaltype=ora name=output-storage type=external url=ria+file:///cbica/projects/RBC/freesurfer_stats/PNC/fs-tabulate/output_ria timestamp=1696184770.655375119s
