@@ -1,0 +1,50 @@
+{
+    "study": {
+        "LongName": "Study identifier",
+        "Levels": {
+            "PNC": "PNC"
+        }
+    },
+    "ses_id": {
+        "LongName": "Session identifier",
+        "Description": "The session identifier indicates the session during which the subject was scanned."
+    },
+    "euler": {
+        "LongName": "Euler Number",
+        "Description": "A measure of the topological complexity of the reconstructed cortical surface as calculated by the sum of the vertices and faces subtracted by the number of faces. Lower values below an ideal value of 2 indicate more defects in surface reconstruction.",
+        "TermURL": "https://doi.org/10.1016/j.neuroimage.2017.12.059"
+    },
+    "rater_1": {
+        "LongName": "Rater 1's Rating",
+        "Description": "A value between 0 and 1, with 1 indicating good-quality data and 0 indicating bad-quality data."
+    },
+    "rater_3": {
+        "LongName": "Rater 3's Rating",
+        "Description": "A value between 0 and 1, with 1 indicating good-quality data and 0 indicating bad-quality data."
+    },
+    "rater_4": {
+        "LongName": "Rater 4's Rating",
+        "Description": "A value between 0 and 1, with 1 indicating good-quality data and 0 indicating bad-quality data."
+    },
+    "rater_5": {
+        "LongName": "Rater 5's Rating",
+        "Description": "A value between 0 and 1, with 1 indicating good-quality data and 0 indicating bad-quality data."
+    },
+    "rater_6": {
+        "LongName": "Rater 6's Rating",
+        "Description": "A value between 0 and 1, with 1 indicating good-quality data and 0 indicating bad-quality data."
+    },
+    "across_rater_average": {
+        "LongName": "Average Rating Across Raters",
+        "Description": "A value between 0 and 1, with 1 indicating good-quality data and 0 indicating bad-quality data."
+    },
+    "qc_determination": {
+        "LongName": "QC Determination",
+        "Description": "The final determination of the scan's quality.",
+        "Levels": {
+            "Fail": "The scan fails QC",
+            "Artifact": "The scan includes an artifact that makes it of questionable quality",
+            "Pass": "The scan passes QC and should be included in analyses"
+        }
+    }
+}
