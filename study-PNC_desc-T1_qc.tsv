@@ -1,1593 +1,1593 @@
-participant_id	study	ses_id	euler	rater_1	rater_3	rater_4	rater_5	rater_6	across_rater_average	qc_determination
-sub-1000393599	PNC	ses-1	-172			1	1	1	1	Pass
-sub-1000881804	PNC	ses-1	-123	1	1	1	1	1	1	Pass
-sub-1001970838	PNC	ses-1	-63		1	1		1	1	Pass
-sub-100527940	PNC	ses-1	-317	1	1				1	Pass
-sub-1006151876	PNC	ses-1	-70	1	1	1	1	1	1	Pass
-sub-1007995238	PNC	ses-1	-73	1	1	1	1	1	1	Pass
-sub-1011497669	PNC	ses-1	-144	1	1				1	Pass
-sub-1012530688	PNC	ses-1	-993	0	0	0			0	Fail
-sub-1017092387	PNC	ses-1	-108	1	1	1	1	1	1	Pass
-sub-1020132225	PNC	ses-1	-100			1	1	1	1	Pass
-sub-1023701836	PNC	ses-1	-134			1	1	1	1	Pass
-sub-1025031408	PNC	ses-1	-134		1	1		1	1	Pass
-sub-1027389114	PNC	ses-1	-73			1	1	1	1	Pass
-sub-1030193285	PNC	ses-1	-95	1	1				1	Pass
-sub-103652366	PNC	ses-1	-154		1	1		1	1	Pass
-sub-1037644062	PNC	ses-1	-103			1	1	1	1	Pass
-sub-1039797417	PNC	ses-1	-482	0	0.25	0	0	0	0.05	Artifact
-sub-1039936647	PNC	ses-1	-123	1			1		1	Pass
-sub-1043634177	PNC	ses-1	-255	1	1	1	1	1	1	Pass
-sub-1044438549	PNC	ses-1	-147	1	1	1			1	Pass
-sub-1046353426	PNC	ses-1	-81			1	1	1	1	Pass
-sub-1046399178	PNC	ses-1	-139	1			1		1	Pass
-sub-1048162151	PNC	ses-1	-92			1	1	1	1	Pass
-sub-1050116930	PNC	ses-1	-98			1	1	1	1	Pass
-sub-1057423710	PNC	ses-1	-74	1	1	1	1	1	1	Pass
-sub-105914514	PNC	ses-1	-583	0.5	0.25	0.5			0.416666667	Artifact
-sub-1060532313	PNC	ses-1	-64	1	1				1	Pass
-sub-1060668554	PNC	ses-1	-124		1	1		1	1	Pass
-sub-1065666069	PNC	ses-1	-71	1	1	1	1	1	1	Pass
-sub-1068261111	PNC	ses-1	-50	1	1				1	Pass
-sub-1070737504	PNC	ses-1	-72	1	1				1	Pass
-sub-107578676	PNC	ses-1	-184	1			1		1	Pass
-sub-1076565274	PNC	ses-1	-138	1	1				1	Pass
-sub-1081366850	PNC	ses-1	-144		1	1		1	1	Pass
-sub-1081730904	PNC	ses-1	-109	1	1				1	Pass
-sub-1084225445	PNC	ses-1	-111	1	1				1	Pass
-sub-1084860562	PNC	ses-1	-115			1	1	1	1	Pass
-sub-108828000	PNC	ses-1	-92		1	1		1	1	Pass
-sub-1088695522	PNC	ses-1	-89	1	1				1	Pass
-sub-1091857727	PNC	ses-1	-104		1	1		1	1	Pass
-sub-1094939473	PNC	ses-1	-453	0.75			0.25		0.5	Artifact
-sub-1095340536	PNC	ses-1	-108	1	1	1	0.75	1	0.95	Artifact
-sub-1097398405	PNC	ses-1	-530		0.5	0.25		0	0.25	Artifact
-sub-1101490424	PNC	ses-1	-123		1	1		1	1	Pass
-sub-1103118018	PNC	ses-1	-63	1			1		1	Pass
-sub-1105526680	PNC	ses-1	-92	1			1		1	Pass
-sub-1110356321	PNC	ses-1	-128		1	1		1	1	Pass
-sub-1111014310	PNC	ses-1	-89			1	1	1	1	Pass
-sub-1113295648	PNC	ses-1	-139		1	1		1	1	Pass
-sub-1114035056	PNC	ses-1	-90			1	1	0.75	0.916666667	Artifact
-sub-1120275692	PNC	ses-1	-61	1	1				1	Pass
-sub-1120459625	PNC	ses-1	-61		1	1		1	1	Pass
-sub-1120521402	PNC	ses-1	-149	1	1	1	1	1	1	Pass
-sub-1123556411	PNC	ses-1	-123	1			1		1	Pass
-sub-1125207511	PNC	ses-1	-265	1			1		1	Pass
-sub-113335479	PNC	ses-1	-195		1	1		1	1	Pass
-sub-1133357643	PNC	ses-1	-206	1	1	1			1	Pass
-sub-1134044888	PNC	ses-1	-138			1	1	1	1	Pass
-sub-1137076695	PNC	ses-1	-108	1	1				1	Pass
-sub-1137996270	PNC	ses-1	-411			1	0.75	0.75	0.833333333	Artifact
-sub-1139941451	PNC	ses-1	-88		1	1		1	1	Pass
-sub-11407866	PNC	ses-1	-95	1			1		1	Pass
-sub-1145936325	PNC	ses-1	-184	1	0.75				0.875	Artifact
-sub-1150278162	PNC	ses-1	-67		1	1		1	1	Pass
-sub-1150591062	PNC	ses-1	-158	1			1		1	Pass
-sub-1152449741	PNC	ses-1	-56			1	1	1	1	Pass
-sub-1156073272	PNC	ses-1	-86			1	1	1	1	Pass
-sub-1157233457	PNC	ses-1	-83	1			1		1	Pass
-sub-11574123	PNC	ses-1	-91	1			1		1	Pass
-sub-1157595916	PNC	ses-1	-81			1	1	0.75	0.916666667	Artifact
-sub-115784129	PNC	ses-1	-137			1	1	0.75	0.916666667	Artifact
-sub-1161329133	PNC	ses-1	-161			1	1	1	1	Pass
-sub-1161373229	PNC	ses-1	-91	1	1	1	1	1	1	Pass
-sub-1161831083	PNC	ses-1	-250	1		0.5	0.75	0.5	0.6875	Artifact
-sub-1162141764	PNC	ses-1	-63	1			1		1	Pass
-sub-1163553824	PNC	ses-1	-93	1			1		1	Pass
-sub-1164794273	PNC	ses-1	-115	1	1	1	1	1	1	Pass
-sub-1168021938	PNC	ses-1	-84		1	1		1	1	Pass
-sub-1169616649	PNC	ses-1	-168	1	1				1	Pass
-sub-1170788175	PNC	ses-1	-90		1	1		1	1	Pass
-sub-1172262944	PNC	ses-1	-72	1	1	1	1	1	1	Pass
-sub-1177503761	PNC	ses-1	-79	1	1				1	Pass
-sub-1184389633	PNC	ses-1	-153		1	1		1	1	Pass
-sub-1185574887	PNC	ses-1	-95		1	1		1	1	Pass
-sub-1190308761	PNC	ses-1	-58	1	1	1	1	1	1	Pass
-sub-119126177	PNC	ses-1	-108	1			1		1	Pass
-sub-1196527465	PNC	ses-1	-111	1	1				1	Pass
-sub-1197045954	PNC	ses-1	-254	1	1				1	Pass
-sub-1198356813	PNC	ses-1	-114			1	1	1	1	Pass
-sub-1200684014	PNC	ses-1	-147	1			1		1	Pass
-sub-1201047966	PNC	ses-1	-72			1	1	1	1	Pass
-sub-1204013299	PNC	ses-1	-243	0.75	1	1	0.75	1	0.9	Artifact
-sub-1204359507	PNC	ses-1	-118	1	1				1	Pass
-sub-1207361199	PNC	ses-1	-135		1	1		1	1	Pass
-sub-1214132906	PNC	ses-1	-87	1			1		1	Pass
-sub-1216701855	PNC	ses-1	-132		1	1		1	1	Pass
-sub-121697273	PNC	ses-1	-99	1	1				1	Pass
-sub-1217141098	PNC	ses-1	-72	1			1		1	Pass
-sub-1220374725	PNC	ses-1	-97	1	1				1	Pass
-sub-1221640483	PNC	ses-1	-62			1	1	1	1	Pass
-sub-1222330281	PNC	ses-1	-109	1	1	1	1	1	1	Pass
-sub-1222568744	PNC	ses-1	-111			1	1	1	1	Pass
-sub-1228855311	PNC	ses-1	-115			1	1	1	1	Pass
-sub-1228891697	PNC	ses-1	-92	1	1				1	Pass
-sub-1235977088	PNC	ses-1	-150	1			1		1	Pass
-sub-1236117854	PNC	ses-1	-186	1	1	1	1	1	1	Pass
-sub-1238240598	PNC	ses-1	-88	1	1	1	1	1	1	Pass
-sub-1238756309	PNC	ses-1	-61	1	1	1	1	1	1	Pass
-sub-1240942354	PNC	ses-1	-69			1	1	1	1	Pass
-sub-1248515966	PNC	ses-1	-103	1	1	1	1	1	1	Pass
-sub-1250648840	PNC	ses-1	-100			1	1	1	1	Pass
-sub-1254730664	PNC	ses-1	-232	1			1		1	Pass
-sub-1279886614	PNC	ses-1	-118	1			1		1	Pass
-sub-1280157702	PNC	ses-1	-149			1	1	1	1	Pass
-sub-1293529777	PNC	ses-1	-165	1	1				1	Pass
-sub-1296243384	PNC	ses-1	-77		1	1		1	1	Pass
-sub-1299596535	PNC	ses-1	-85		1	1		1	1	Pass
-sub-1299713973	PNC	ses-1	-127			1	1	1	1	Pass
-sub-130118047	PNC	ses-1	-100		1	1		1	1	Pass
-sub-1303822344	PNC	ses-1	-145		1	1		1	1	Pass
-sub-1303893979	PNC	ses-1	-184			1	1	0.25	0.75	Artifact
-sub-1304389731	PNC	ses-1	-155	1			1		1	Pass
-sub-1307181116	PNC	ses-1	-71		1	1		1	1	Pass
-sub-1308201745	PNC	ses-1	-203			1	1	0.75	0.916666667	Artifact
-sub-1310206420	PNC	ses-1	-376			1	0.75	0.25	0.666666667	Artifact
-sub-1310346718	PNC	ses-1	-120		1	1		1	1	Pass
-sub-1313957126	PNC	ses-1	-76	1			1		1	Pass
-sub-131655018	PNC	ses-1	-111		1	1		1	1	Pass
-sub-1317462	PNC	ses-1	-64	1	1				1	Pass
-sub-1332795634	PNC	ses-1	-131	1	1	1	1	1	1	Pass
-sub-1334116930	PNC	ses-1	-71	1	1				1	Pass
-sub-1336976954	PNC	ses-1	-98			1	1	1	1	Pass
-sub-1337936015	PNC	ses-1	-109		1	1		1	1	Pass
-sub-1340072536	PNC	ses-1	-153		1	1		1	1	Pass
-sub-1342685465	PNC	ses-1	-73	1	1				1	Pass
-sub-134279804	PNC	ses-1	-92	1	1	1	1	1	1	Pass
-sub-1344101127	PNC	ses-1	-65		1	1		1	1	Pass
-sub-1346910582	PNC	ses-1	-154		1	1		1	1	Pass
-sub-1348459455	PNC	ses-1	-116		1	1		1	1	Pass
-sub-1351409340	PNC	ses-1	-148	1	1	1	1	1	1	Pass
-sub-1357417369	PNC	ses-1	-87		1	1		1	1	Pass
-sub-1365145510	PNC	ses-1	-128	1		1	1	1	1	Pass
-sub-1378634377	PNC	ses-1	-126		1	1		1	1	Pass
-sub-1380078917	PNC	ses-1	-51			1	1	1	1	Pass
-sub-1381671196	PNC	ses-1	-98		1	1		1	1	Pass
-sub-1382465428	PNC	ses-1	-90	1	1				1	Pass
-sub-138434806	PNC	ses-1	-153	1	1				1	Pass
-sub-1384982728	PNC	ses-1	-120	1	1				1	Pass
-sub-1386561348	PNC	ses-1	-127	1	1				1	Pass
-sub-1391684772	PNC	ses-1	-212	1	1	1	1	1	1	Pass
-sub-1393778620	PNC	ses-1	-161			1	1	1	1	Pass
-sub-1394077291	PNC	ses-1	-140	1	1				1	Pass
-sub-1400509715	PNC	ses-1	-189	1	1	1	1	1	1	Pass
-sub-1402618672	PNC	ses-1	-242	1	1				1	Pass
-sub-1403873511	PNC	ses-1	-97			1	1	1	1	Pass
-sub-1410948099	PNC	ses-1	-110	1	1	1			1	Pass
-sub-1412450749	PNC	ses-1	-90			1	1	1	1	Pass
-sub-1413282375	PNC	ses-1	-172	1	0.5	0.25	0.75	0.25	0.55	Artifact
-sub-1417920839	PNC	ses-1	-76		1	1		1	1	Pass
-sub-1433666289	PNC	ses-1	-300		0.75	1		0.75	0.833333333	Artifact
-sub-1437821247	PNC	ses-1	-101	1			1		1	Pass
-sub-1438348583	PNC	ses-1	-130	1			1		1	Pass
-sub-1440643572	PNC	ses-1	-139	1			1		1	Pass
-sub-1440768299	PNC	ses-1	-53	1	1	1	1	1	1	Pass
-sub-1446259968	PNC	ses-1	-107			1	1	1	1	Pass
-sub-1446589628	PNC	ses-1	-196	1	1	1	1	1	1	Pass
-sub-1447464089	PNC	ses-1	-73		1	1		1	1	Pass
-sub-1448081953	PNC	ses-1	-68	1	1	1	1	1	1	Pass
-sub-1448457386	PNC	ses-1	-182		1	1		1	1	Pass
-sub-1452555764	PNC	ses-1	-80	1			1		1	Pass
-sub-1453109530	PNC	ses-1	-119	1	1				1	Pass
-sub-1453143940	PNC	ses-1	-159		1	1		1	1	Pass
-sub-1457648056	PNC	ses-1	-56			1	1	1	1	Pass
-sub-1457842729	PNC	ses-1	-201	1			1		1	Pass
-sub-1459501611	PNC	ses-1	-107			1	1	1	1	Pass
-sub-1466472141	PNC	ses-1	-78	1	1				1	Pass
-sub-1467419170	PNC	ses-1	-78	1	1	1			1	Pass
-sub-1467713509	PNC	ses-1	-112	1	1				1	Pass
-sub-1469221931	PNC	ses-1	-191			1	1	1	1	Pass
-sub-1471046861	PNC	ses-1	-149	1	1	1			1	Pass
-sub-1472207263	PNC	ses-1	-93	1			1		1	Pass
-sub-1476023122	PNC	ses-1	-54	1			1		1	Pass
-sub-1477683629	PNC	ses-1	-183	1			1		1	Pass
-sub-1479578650	PNC	ses-1	-71	1	1				1	Pass
-sub-1481550494	PNC	ses-1	-65	1	1				1	Pass
-sub-1483500237	PNC	ses-1	-96			1	1	1	1	Pass
-sub-1484543503	PNC	ses-1	-91		1	1		1	1	Pass
-sub-1485100276	PNC	ses-1	-139	1	1	1	1	1	1	Pass
-sub-1485727346	PNC	ses-1	-88	1	1				1	Pass
-sub-1489422464	PNC	ses-1	-146	1	1	1	1	1	1	Pass
-sub-1492693407	PNC	ses-1	-136			1	1	1	1	Pass
-sub-1494969836	PNC	ses-1	-68	1	1				1	Pass
-sub-1496827612	PNC	ses-1	-85		1	1		1	1	Pass
-sub-1497934968	PNC	ses-1	-138	1	1				1	Pass
-sub-1498873540	PNC	ses-1	-67			1	1	1	1	Pass
-sub-1502224855	PNC	ses-1	-777	0	0				0	Fail
-sub-1506379233	PNC	ses-1	-84			1	1	1	1	Pass
-sub-1506723543	PNC	ses-1	-100	1	1				1	Pass
-sub-1510691965	PNC	ses-1	-117	0.75	1	1	0.75	1	0.9	Artifact
-sub-1511417686	PNC	ses-1	-103	1	1	1			1	Pass
-sub-1512248949	PNC	ses-1	-70	1			1		1	Pass
-sub-1512440794	PNC	ses-1	-156	1	1	1	1	1	1	Pass
-sub-1512563087	PNC	ses-1	-149	1	1	1	1	1	1	Pass
-sub-1513736265	PNC	ses-1	-106	1	1				1	Pass
-sub-1513930399	PNC	ses-1	-154			1	1	1	1	Pass
-sub-1516788178	PNC	ses-1	-84	1			1		1	Pass
-sub-1521763392	PNC	ses-1	-82	1			1		1	Pass
-sub-1525589082	PNC	ses-1	-230	1	1				1	Pass
-sub-1526154632	PNC	ses-1	-40		1	1		1	1	Pass
-sub-1531348005	PNC	ses-1	-822	0	0	0.25	0.25	0	0.1	Artifact
-sub-1531930180	PNC	ses-1	-80			1	1	1	1	Pass
-sub-1533767893	PNC	ses-1	-129			1	1	0.75	0.916666667	Artifact
-sub-1536441148	PNC	ses-1	-108	1			1		1	Pass
-sub-1545837513	PNC	ses-1	-122			1	1	1	1	Pass
-sub-154667058	PNC	ses-1	-162	1			1		1	Pass
-sub-1547173705	PNC	ses-1	-143	1			1		1	Pass
-sub-1547321683	PNC	ses-1	-183	1	1				1	Pass
-sub-1547584703	PNC	ses-1	-81	1	1	1	1	1	1	Pass
-sub-1560233178	PNC	ses-1	-152	1	1	1	1	1	1	Pass
-sub-1560828340	PNC	ses-1	-91	1			1		1	Pass
-sub-1564801354	PNC	ses-1	-198			1	1	1	1	Pass
-sub-1566869901	PNC	ses-1	-82	1			1		1	Pass
-sub-1569318720	PNC	ses-1	-101	1	1	1	1	1	1	Pass
-sub-1569761975	PNC	ses-1	-113	1	1				1	Pass
-sub-1570413707	PNC	ses-1	-59	1			1		1	Pass
-sub-1572161461	PNC	ses-1	-81		1	1		1	1	Pass
-sub-1579351358	PNC	ses-1	-118	1	1	1	1	1	1	Pass
-sub-1580563603	PNC	ses-1	-143	1	1				1	Pass
-sub-1584150953	PNC	ses-1	-103	1			1		1	Pass
-sub-1585331466	PNC	ses-1	-111	1	1				1	Pass
-sub-1586254402	PNC	ses-1	-107		1	1		1	1	Pass
-sub-158779019	PNC	ses-1	-77	1	1				1	Pass
-sub-1590131354	PNC	ses-1	-47		1	1		1	1	Pass
-sub-1592697722	PNC	ses-1	-142	1			1		1	Pass
-sub-1592786106	PNC	ses-1	-192	1			1		1	Pass
-sub-1593612444	PNC	ses-1	-151	1	1				1	Pass
-sub-1594198178	PNC	ses-1	-73	1	1	1	1	1	1	Pass
-sub-1602583606	PNC	ses-1	-141		1	1		1	1	Pass
-sub-1604003015	PNC	ses-1	-111	1			1		1	Pass
-sub-1604268733	PNC	ses-1	-115	1			1		1	Pass
-sub-1605617010	PNC	ses-1	-97		1	1		1	1	Pass
-sub-1607063270	PNC	ses-1	-150			1	1	1	1	Pass
-sub-1607889954	PNC	ses-1	-62	1			1		1	Pass
-sub-1612290284	PNC	ses-1	-108	1	1	1	1	1	1	Pass
-sub-1613166374	PNC	ses-1	-140	1	1	1	1	1	1	Pass
-sub-1614363829	PNC	ses-1	-122	1			1		1	Pass
-sub-1615516059	PNC	ses-1	-49			1	1	1	1	Pass
-sub-1616242378	PNC	ses-1	-123	1	1				1	Pass
-sub-1620557808	PNC	ses-1	-128			1	1	1	1	Pass
-sub-1621617031	PNC	ses-1	-213		1	1		1	1	Pass
-sub-162526644	PNC	ses-1	-143			1	1	1	1	Pass
-sub-1630775946	PNC	ses-1	-125	1	1	1	1	1	1	Pass
-sub-1630871538	PNC	ses-1	-163	1	1				1	Pass
-sub-1631350938	PNC	ses-1	-88			1	1	1	1	Pass
-sub-163259093	PNC	ses-1	-57		1	1		1	1	Pass
-sub-1636295669	PNC	ses-1	-139		1	1		1	1	Pass
-sub-1636587618	PNC	ses-1	-190			1	1	1	1	Pass
-sub-1637723952	PNC	ses-1	-114		1	1		1	1	Pass
-sub-1638126951	PNC	ses-1	-76			1	1	1	1	Pass
-sub-1638715823	PNC	ses-1	-174	1			1		1	Pass
-sub-1643083161	PNC	ses-1	-83		1	1		1	1	Pass
-sub-1643725238	PNC	ses-1	-58		1	1		1	1	Pass
-sub-1645871327	PNC	ses-1	-74	1	1				1	Pass
-sub-1648798153	PNC	ses-1	-241	1			1		1	Pass
-sub-1649501759	PNC	ses-1	-361	1	0.75				0.875	Artifact
-sub-1651940244	PNC	ses-1	-179	1	1	1			1	Pass
-sub-1653206368	PNC	ses-1	-113	1	1	1	1	1	1	Pass
-sub-1654119012	PNC	ses-1	-104	1	1	1	1	1	1	Pass
-sub-1654508502	PNC	ses-1	-25	1	0.75	1	0.75	1	0.9	Artifact
-sub-1654523276	PNC	ses-1	-119	1	1	1	1	1	1	Pass
-sub-1656931768	PNC	ses-1	-290	1			1		1	Pass
-sub-1660839245	PNC	ses-1	-211	1	1				1	Pass
-sub-16684978	PNC	ses-1	-95		1	1		1	1	Pass
-sub-1671345251	PNC	ses-1	-76		1	1		1	1	Pass
-sub-1673549883	PNC	ses-1	-164	1			1		1	Pass
-sub-1678076849	PNC	ses-1	-307		0.5	0.75		0.75	0.666666667	Artifact
-sub-1679688116	PNC	ses-1	-58	1			1		1	Pass
-sub-1682850665	PNC	ses-1	-153		1	1		1	1	Pass
-sub-1686389288	PNC	ses-1	-62		1	1		1	1	Pass
-sub-1687224870	PNC	ses-1	-165	1			1		1	Pass
-sub-1687315516	PNC	ses-1	-239	1	1				1	Pass
-sub-1695950181	PNC	ses-1	-98	1	1	1	1	1	1	Pass
-sub-1696518862	PNC	ses-1	-57			1	1	1	1	Pass
-sub-1697787695	PNC	ses-1	-119	1	1	1	1	1	1	Pass
-sub-1697816442	PNC	ses-1	-102		1	1		1	1	Pass
-sub-1705895007	PNC	ses-1	-85	1	1				1	Pass
-sub-1708583305	PNC	ses-1	-101	1			1		1	Pass
-sub-1710493410	PNC	ses-1	-75			1	1	1	1	Pass
-sub-1711930631	PNC	ses-1	-62	1	1	1	1	1	1	Pass
-sub-1724567179	PNC	ses-1	-77		1	1		1	1	Pass
-sub-1730231179	PNC	ses-1	-101	1	1				1	Pass
-sub-1730541924	PNC	ses-1	-166	1			1		1	Pass
-sub-1735315447	PNC	ses-1	-214	1	1				1	Pass
-sub-1735338986	PNC	ses-1	-57	1			1		1	Pass
-sub-1736791488	PNC	ses-1	-227		0.75	1		1	0.916666667	Artifact
-sub-1738235220	PNC	ses-1	-183		1	1		0.75	0.916666667	Artifact
-sub-1742732745	PNC	ses-1	-288		0.75	1		0.5	0.75	Artifact
-sub-1743802575	PNC	ses-1	-114	1	1	1	1	1	1	Pass
-sub-1744430207	PNC	ses-1	-110	1			1		1	Pass
-sub-1748232481	PNC	ses-1	-102			1	1	1	1	Pass
-sub-1752698697	PNC	ses-1	-109		1	1		1	1	Pass
-sub-1753282419	PNC	ses-1	-111			1	1	1	1	Pass
-sub-176129790	PNC	ses-1	-93	1	1	1	1	1	1	Pass
-sub-1761473096	PNC	ses-1	-127		1	1		1	1	Pass
-sub-1761492502	PNC	ses-1	-80		1	1		1	1	Pass
-sub-1762027912	PNC	ses-1	-54		1	1		1	1	Pass
-sub-1762102677	PNC	ses-1	-153	1	1	1	1	1	1	Pass
-sub-1764158413	PNC	ses-1	-104	1	1	1	1	1	1	Pass
-sub-1767985023	PNC	ses-1	-206	1			1		1	Pass
-sub-1770415263	PNC	ses-1	-99	1	1	1	1	1	1	Pass
-sub-1773584299	PNC	ses-1	-161	1	1				1	Pass
-sub-1778227059	PNC	ses-1	-143	1	1				1	Pass
-sub-1779232530	PNC	ses-1	-183	1	1	1	1	1	1	Pass
-sub-177928631	PNC	ses-1	-111	1	1				1	Pass
-sub-1779531630	PNC	ses-1	-251			1	1	1	1	Pass
-sub-1781205887	PNC	ses-1	-115	1	1	1	1	1	1	Pass
-sub-1781775187	PNC	ses-1	-109	1	1				1	Pass
-sub-1782265789	PNC	ses-1	-114	1	1				1	Pass
-sub-1785444398	PNC	ses-1	-70	1	1				1	Pass
-sub-1786222403	PNC	ses-1	-155	1	1				1	Pass
-sub-1786758517	PNC	ses-1	-164	1			1		1	Pass
-sub-1786969075	PNC	ses-1	-165		1	1		1	1	Pass
-sub-1789695979	PNC	ses-1	-107		1	1		1	1	Pass
-sub-1790488894	PNC	ses-1	-96	1	1	1	1	1	1	Pass
-sub-1794346030	PNC	ses-1	-118	1	1	1	1	1	1	Pass
-sub-1794800030	PNC	ses-1	-140	0.5	1				0.75	Artifact
-sub-1795409854	PNC	ses-1	-146	1			1		1	Pass
-sub-1799875502	PNC	ses-1	-99	1			1		1	Pass
-sub-1804076739	PNC	ses-1	-93		1	1		1	1	Pass
-sub-1804310687	PNC	ses-1	-104	1	1				1	Pass
-sub-1812622069	PNC	ses-1	-141	1			1		1	Pass
-sub-1814037649	PNC	ses-1	-86	1	1				1	Pass
-sub-1818459775	PNC	ses-1	-102			1	1	1	1	Pass
-sub-1819013777	PNC	ses-1	-107			1	1	1	1	Pass
-sub-1819473619	PNC	ses-1	-95			1	1	1	1	Pass
-sub-182017409	PNC	ses-1	-180	1			1		1	Pass
-sub-1822850038	PNC	ses-1	-97	1	1	1	1	1	1	Pass
-sub-1823231434	PNC	ses-1	-72			1	1	1	1	Pass
-sub-1826680116	PNC	ses-1	-121			1	1	1	1	Pass
-sub-1827965364	PNC	ses-1	-99		1	1		1	1	Pass
-sub-1828951258	PNC	ses-1	-78	1	1				1	Pass
-sub-1829191843	PNC	ses-1	-156		1	1		1	1	Pass
-sub-1829488364	PNC	ses-1	-88			1	1	1	1	Pass
-sub-1830789740	PNC	ses-1	-63	1	1	1	1	1	1	Pass
-sub-1832999514	PNC	ses-1	-75	1	1	1	1	1	1	Pass
-sub-1833416906	PNC	ses-1	-83		1	1		1	1	Pass
-sub-1836756700	PNC	ses-1	-92	1	1	1	1	1	1	Pass
-sub-1838048191	PNC	ses-1	-115	1	1	1	1	1	1	Pass
-sub-1838464457	PNC	ses-1	-79	1			1		1	Pass
-sub-1841154314	PNC	ses-1	-105	1			1		1	Pass
-sub-1852239521	PNC	ses-1	-182			1	1	1	1	Pass
-sub-1852377689	PNC	ses-1	-77	1	1	1	1	1	1	Pass
-sub-1854364375	PNC	ses-1	-65			1	1	1	1	Pass
-sub-1857834970	PNC	ses-1	-204	1	1	1	1	1	1	Pass
-sub-1858784998	PNC	ses-1	-80	1	1				1	Pass
-sub-1859900144	PNC	ses-1	-111	1	1	1	1	1	1	Pass
-sub-1860819350	PNC	ses-1	-110		1	1		1	1	Pass
-sub-1860870575	PNC	ses-1	-63	1			1		1	Pass
-sub-1861299663	PNC	ses-1	-188	1	0.5	0.75	0.75	0.5	0.7	Artifact
-sub-1861767482	PNC	ses-1	-45	1	1				1	Pass
-sub-1867827374	PNC	ses-1	-99			1	1	1	1	Pass
-sub-1870893305	PNC	ses-1	-61			1	1	1	1	Pass
-sub-1871767977	PNC	ses-1	-86	1	1	1	1	1	1	Pass
-sub-1873729948	PNC	ses-1	-102	1			1		1	Pass
-sub-1876155559	PNC	ses-1	-118	1			1		1	Pass
-sub-1877783147	PNC	ses-1	-81		1	1		1	1	Pass
-sub-1885577882	PNC	ses-1	-218	0.5	0.75				0.625	Artifact
-sub-1887252222	PNC	ses-1	-136	1	1				1	Pass
-sub-1887390452	PNC	ses-1	-88	1			1		1	Pass
-sub-1890822437	PNC	ses-1	-157	1	1				1	Pass
-sub-1892704317	PNC	ses-1	-121	1			1		1	Pass
-sub-1896354997	PNC	ses-1	-95	1	1				1	Pass
-sub-189913356	PNC	ses-1	-591	0.25	0.5	0.5	0.5	0	0.35	Artifact
-sub-190100766	PNC	ses-1	-89	1	1				1	Pass
-sub-1901159589	PNC	ses-1	-155	1	1	1	1	1	1	Pass
-sub-1901910719	PNC	ses-1	-95		1	1		1	1	Pass
-sub-1904270196	PNC	ses-1	-130	1	1				1	Pass
-sub-1904603550	PNC	ses-1	-450			0.5	1	0	0.5	Artifact
-sub-1905979097	PNC	ses-1	-66			1	1	1	1	Pass
-sub-1908390739	PNC	ses-1	-103	1	1				1	Pass
-sub-1908959165	PNC	ses-1	-100		1	1		1	1	Pass
-sub-1910420386	PNC	ses-1	-112			1	1	1	1	Pass
-sub-1915723430	PNC	ses-1	-90	1	1				1	Pass
-sub-1915807892	PNC	ses-1	-91	1			1		1	Pass
-sub-1919055552	PNC	ses-1	-130	1	1	1	1	1	1	Pass
-sub-192039987	PNC	ses-1	-602			0	0	0	0	Fail
-sub-1922557027	PNC	ses-1	-219	1	1	1	1	1	1	Pass
-sub-192271174	PNC	ses-1	-131		1	1		1	1	Pass
-sub-1924109233	PNC	ses-1	-67		1	1		1	1	Pass
-sub-192413932	PNC	ses-1	-126			1	1	1	1	Pass
-sub-1924149526	PNC	ses-1	-142		1	1		1	1	Pass
-sub-1924569075	PNC	ses-1	-146	1	1	1	1	1	1	Pass
-sub-1929155048	PNC	ses-1	-69	1	1	1			1	Pass
-sub-1930702369	PNC	ses-1	-97	1	1	1	1	1	1	Pass
-sub-1934623281	PNC	ses-1	-134	1	1	1	1	0.75	0.95	Artifact
-sub-1939119029	PNC	ses-1	-100	1	1	1	1	1	1	Pass
-sub-1942822174	PNC	ses-1	-183			1	1	1	1	Pass
-sub-194293030	PNC	ses-1	-153	1			1		1	Pass
-sub-1942988748	PNC	ses-1	-127	1			1		1	Pass
-sub-194324018	PNC	ses-1	-73	1			1		1	Pass
-sub-1944147637	PNC	ses-1	-106	1			1		1	Pass
-sub-195168692	PNC	ses-1	-197		1	1		1	1	Pass
-sub-1960268000	PNC	ses-1	-107	1			1		1	Pass
-sub-1963601913	PNC	ses-1	-123		1	1		1	1	Pass
-sub-1965701522	PNC	ses-1	-243		1	1		1	1	Pass
-sub-1968175551	PNC	ses-1	-128	1	1	1	1	1	1	Pass
-sub-1977306864	PNC	ses-1	-188	1	1				1	Pass
-sub-198051119	PNC	ses-1	-40	1	1	1	1	1	1	Pass
-sub-1989985299	PNC	ses-1	-87			1	1	1	1	Pass
-sub-1991567562	PNC	ses-1	-114	1	1				1	Pass
-sub-1991951207	PNC	ses-1	-95			1	1	1	1	Pass
-sub-1992060521	PNC	ses-1	-134	1			1		1	Pass
-sub-199547104	PNC	ses-1	-80	1	1	1	1	1	1	Pass
-sub-1996891106	PNC	ses-1	-596		0	0		0	0	Fail
-sub-1997401992	PNC	ses-1	-170	1			1		1	Pass
-sub-199809850	PNC	ses-1	-101	1			1		1	Pass
-sub-1998578790	PNC	ses-1	-89	1	1	1	1	1	1	Pass
-sub-2000585278	PNC	ses-1	-75	1			1		1	Pass
-sub-200066829	PNC	ses-1	-102	1			1		1	Pass
-sub-2001714085	PNC	ses-1	-164	1	1	1	1	1	1	Pass
-sub-2002122030	PNC	ses-1	-173	1	1	1	1	1	1	Pass
-sub-2010454025	PNC	ses-1	-150	1	1	1	1	1	1	Pass
-sub-2017344284	PNC	ses-1	-191	0.75	1	1	1	1	0.95	Artifact
-sub-2017765808	PNC	ses-1	-160		1	1		1	1	Pass
-sub-2022868892	PNC	ses-1	-154	1	1				1	Pass
-sub-2023285198	PNC	ses-1	-140			1	1	1	1	Pass
-sub-2026754591	PNC	ses-1	-102			1	1	1	1	Pass
-sub-2033463791	PNC	ses-1	-98	1	1				1	Pass
-sub-2037552598	PNC	ses-1	-139		1	1		1	1	Pass
-sub-2038321583	PNC	ses-1	-311			1	0.75	0.5	0.75	Artifact
-sub-2041229468	PNC	ses-1	-65		1	1		1	1	Pass
-sub-2047559103	PNC	ses-1	-56	1	1	1	1	1	1	Pass
-sub-2047595784	PNC	ses-1	-96	1	1				1	Pass
-sub-2048917421	PNC	ses-1	-88		1	1		1	1	Pass
-sub-2051099070	PNC	ses-1	-112	0.75	0.75	1	1	0.75	0.85	Artifact
-sub-2057058534	PNC	ses-1	-73	1	1	1	1	1	1	Pass
-sub-2058693392	PNC	ses-1	-120			1	1	1	1	Pass
-sub-2060298621	PNC	ses-1	-71	1	1	1	1	1	1	Pass
-sub-2066354189	PNC	ses-1	-156	1			1		1	Pass
-sub-2070099435	PNC	ses-1	-128	1	1				1	Pass
-sub-2070724014	PNC	ses-1	-109	1			1		1	Pass
-sub-2074348568	PNC	ses-1	-282	1	1				1	Pass
-sub-2074860152	PNC	ses-1	-66	1			1		1	Pass
-sub-2085520575	PNC	ses-1	-114			1	1	1	1	Pass
-sub-2087996196	PNC	ses-1	-159	1	1	1	1	1	1	Pass
-sub-2093758775	PNC	ses-1	-98	1			1		1	Pass
-sub-2097242394	PNC	ses-1	-96	1	1	1	1	1	1	Pass
-sub-2100052286	PNC	ses-1	-74		1	1		1	1	Pass
-sub-2103228157	PNC	ses-1	-169			1	1	1	1	Pass
-sub-210534092	PNC	ses-1	-86	1			1		1	Pass
-sub-2105801105	PNC	ses-1	-91			1	1	0.75	0.916666667	Artifact
-sub-2108841974	PNC	ses-1	-129	1			1		1	Pass
-sub-2108937486	PNC	ses-1	-97	1	1	1	1	1	1	Pass
-sub-2110496117	PNC	ses-1	-83	1	1	1	1	1	1	Pass
-sub-211169351	PNC	ses-1	-94	1			1		1	Pass
-sub-2112119995	PNC	ses-1	-151			1	0.75	0.5	0.75	Artifact
-sub-2112189288	PNC	ses-1	-240			1	1	1	1	Pass
-sub-2112415953	PNC	ses-1	-73		1	1		1	1	Pass
-sub-2117857991	PNC	ses-1	-446		0.5	1		0.5	0.666666667	Artifact
-sub-2129564650	PNC	ses-1	-130		1	1		1	1	Pass
-sub-2131488178	PNC	ses-1	-130			1	1	1	1	Pass
-sub-2133389205	PNC	ses-1	-109			1	1	1	1	Pass
-sub-2134697000	PNC	ses-1	-79		1	1		1	1	Pass
-sub-2139026534	PNC	ses-1	-87	1			1		1	Pass
-sub-2146308400	PNC	ses-1	-131	1	1				1	Pass
-sub-2148378283	PNC	ses-1	-112	1			1		1	Pass
-sub-2151592349	PNC	ses-1	-146			1	1	1	1	Pass
-sub-2152052186	PNC	ses-1	-315	1			1		1	Pass
-sub-2154725318	PNC	ses-1	-92			1	1	1	1	Pass
-sub-2161418201	PNC	ses-1	-106		1	1		1	1	Pass
-sub-2165388202	PNC	ses-1	-126	1			1		1	Pass
-sub-2166835733	PNC	ses-1	-153			1	1	1	1	Pass
-sub-2167615125	PNC	ses-1	-200			1	1	1	1	Pass
-sub-2170759229	PNC	ses-1	-77	1	1				1	Pass
-sub-2170880573	PNC	ses-1	-138	1			1		1	Pass
-sub-2171168019	PNC	ses-1	-68	0.75			1		0.875	Artifact
-sub-2171240541	PNC	ses-1	-46	1	1	1	1	1	1	Pass
-sub-2172281415	PNC	ses-1	-69	1			1		1	Pass
-sub-2175309663	PNC	ses-1	-175	1	1				1	Pass
-sub-2175676858	PNC	ses-1	-120			1	1	1	1	Pass
-sub-2179545776	PNC	ses-1	-189	1	1	0.75			0.916666667	Artifact
-sub-2180081033	PNC	ses-1	-78		1	1		1	1	Pass
-sub-2180316189	PNC	ses-1	-145	1	1				1	Pass
-sub-2180688285	PNC	ses-1	-255			1	1	0.25	0.75	Artifact
-sub-2180799847	PNC	ses-1	-214	1	1	1	1	1	1	Pass
-sub-2180976537	PNC	ses-1	-87	1	1				1	Pass
-sub-2182362214	PNC	ses-1	-82	1	1				1	Pass
-sub-2184988827	PNC	ses-1	-74	1	1				1	Pass
-sub-2192302358	PNC	ses-1	-85	1			1		1	Pass
-sub-2194652555	PNC	ses-1	-130			1	1	1	1	Pass
-sub-2200266312	PNC	ses-1	-97			1	1	1	1	Pass
-sub-2200670875	PNC	ses-1	-111	1	1				1	Pass
-sub-2202346713	PNC	ses-1	-77			1	1	1	1	Pass
-sub-2207352563	PNC	ses-1	-534	0.25			1		0.625	Artifact
-sub-2209414761	PNC	ses-1	-401	0.5	0.25	0.5	0.5	0	0.35	Artifact
-sub-2215153516	PNC	ses-1	-84	1	1	1	1	1	1	Pass
-sub-2216595430	PNC	ses-1	-136	1	1	1	1	1	1	Pass
-sub-221853583	PNC	ses-1	-93			1	1	1	1	Pass
-sub-2222241318	PNC	ses-1	-67	1	1				1	Pass
-sub-2225237681	PNC	ses-1	-79	1	1	1	1	1	1	Pass
-sub-2231031108	PNC	ses-1	-126	1			1		1	Pass
-sub-2235019065	PNC	ses-1	-76		1	1		1	1	Pass
-sub-2239217267	PNC	ses-1	-125			1	1	1	1	Pass
-sub-2240499373	PNC	ses-1	-112	1	1				1	Pass
-sub-2240703148	PNC	ses-1	-95	1	1	1	1	1	1	Pass
-sub-2242628840	PNC	ses-1	-210		1	1		1	1	Pass
-sub-2247752771	PNC	ses-1	-236		1	1		1	1	Pass
-sub-2248403809	PNC	ses-1	-232			1	1	1	1	Pass
-sub-2249335715	PNC	ses-1	-93			1	1	0.75	0.916666667	Artifact
-sub-225017631	PNC	ses-1	-142	1	1	1	1	1	1	Pass
-sub-2253200176	PNC	ses-1	-94		1	1		1	1	Pass
-sub-2254317902	PNC	ses-1	-72			1	1	0.75	0.916666667	Artifact
-sub-2256834144	PNC	ses-1	-52	1	1	1	1	1	1	Pass
-sub-2258551019	PNC	ses-1	-456	0	0.25				0.125	Artifact
-sub-2259039644	PNC	ses-1	-164			1	1	0.75	0.916666667	Artifact
-sub-2262929710	PNC	ses-1	-160	1			1		1	Pass
-sub-2263443077	PNC	ses-1	-110	1	1				1	Pass
-sub-2269734277	PNC	ses-1	-269		1	1		1	1	Pass
-sub-2271737742	PNC	ses-1	-67	1	1	1	1	1	1	Pass
-sub-2272230240	PNC	ses-1	-82			1	1	1	1	Pass
-sub-2280234873	PNC	ses-1	-72		1	1		1	1	Pass
-sub-2285120424	PNC	ses-1	-90	1	1	1	1	1	1	Pass
-sub-228519096	PNC	ses-1	-332	0.75	1				0.875	Artifact
-sub-2286509730	PNC	ses-1	-393	0.75	0.5				0.625	Artifact
-sub-2289849916	PNC	ses-1	-62			1	1	1	1	Pass
-sub-2292204095	PNC	ses-1	-48	1	1				1	Pass
-sub-2293300734	PNC	ses-1	-127	1	1	1	1	1	1	Pass
-sub-2295699564	PNC	ses-1	-52			1	1	1	1	Pass
-sub-2298674157	PNC	ses-1	-109	1	1	1	1	1	1	Pass
-sub-2299321259	PNC	ses-1	-118		1	1		1	1	Pass
-sub-2305221381	PNC	ses-1	-67	1	1	1	1	1	1	Pass
-sub-2305446143	PNC	ses-1	-98	1	1				1	Pass
-sub-2308648032	PNC	ses-1	-98			1	1	1	1	Pass
-sub-2311595124	PNC	ses-1	-131	1			1		1	Pass
-sub-2311827557	PNC	ses-1	-120	1	1	1	1	1	1	Pass
-sub-2312088658	PNC	ses-1	-76	1	1				1	Pass
-sub-2318003050	PNC	ses-1	-124			1	1	1	1	Pass
-sub-2318786012	PNC	ses-1	-112			1	1	1	1	Pass
-sub-2319274290	PNC	ses-1	-137			1	1	1	1	Pass
-sub-2319442352	PNC	ses-1	-108			1	1	1	1	Pass
-sub-2319858717	PNC	ses-1	-185			1	1	1	1	Pass
-sub-2321665294	PNC	ses-1	-164	1	0.5	0.75	0.5	1	0.75	Artifact
-sub-2322119606	PNC	ses-1	-113	1			1		1	Pass
-sub-2323472643	PNC	ses-1	-127			1	1	1	1	Pass
-sub-232853819	PNC	ses-1	-67		1	1		1	1	Pass
-sub-233205461	PNC	ses-1	-102		1	1		1	1	Pass
-sub-2333477346	PNC	ses-1	-99	1	1	1	1	1	1	Pass
-sub-2333531511	PNC	ses-1	-91			1	1	1	1	Pass
-sub-2333670705	PNC	ses-1	-119			1	1	1	1	Pass
-sub-2333937949	PNC	ses-1	-152	1	1				1	Pass
-sub-2336714673	PNC	ses-1	-198	1			1		1	Pass
-sub-2338019591	PNC	ses-1	-57	1	1				1	Pass
-sub-233932345	PNC	ses-1	-166	1	1				1	Pass
-sub-2340561949	PNC	ses-1	-89			1	1	1	1	Pass
-sub-2344269626	PNC	ses-1	-108	1	1				1	Pass
-sub-234528430	PNC	ses-1	-111	1			1		1	Pass
-sub-2347753317	PNC	ses-1	-406		0.25	0		0.75	0.333333333	Artifact
-sub-2351609522	PNC	ses-1	-114			1	1	1	1	Pass
-sub-235478560	PNC	ses-1	-168	1	1	1	1	1	1	Pass
-sub-2355359789	PNC	ses-1	-127	1	1	1	1	1	1	Pass
-sub-2359486867	PNC	ses-1	-71	1			1		1	Pass
-sub-2361299150	PNC	ses-1	-304	1	0.25	0.75			0.666666667	Artifact
-sub-2365721251	PNC	ses-1	-158		1	1		1	1	Pass
-sub-2367528097	PNC	ses-1	-136	1	1				1	Pass
-sub-2374556661	PNC	ses-1	-132			1	1	1	1	Pass
-sub-2375649228	PNC	ses-1	-328	1			1		1	Pass
-sub-2385983560	PNC	ses-1	-112		0.75	1		1	0.916666667	Artifact
-sub-2390107820	PNC	ses-1	-164	1	1				1	Pass
-sub-2392768937	PNC	ses-1	-167			1	1	0.75	0.916666667	Artifact
-sub-2394345225	PNC	ses-1	-105	1	0.75	1	1	1	0.95	Artifact
-sub-2397365139	PNC	ses-1	-109			1	1	1	1	Pass
-sub-2397937510	PNC	ses-1	-94	1	1				1	Pass
-sub-2398605805	PNC	ses-1	-256	0.75			0.75		0.75	Artifact
-sub-2402029124	PNC	ses-1	-94	1			1		1	Pass
-sub-2403464508	PNC	ses-1	-189	1	1				1	Pass
-sub-2404418579	PNC	ses-1	-108		1	1		1	1	Pass
-sub-2404507707	PNC	ses-1	-205			1	0.75	0.5	0.75	Artifact
-sub-2404916865	PNC	ses-1	-97	1			1		1	Pass
-sub-2408914693	PNC	ses-1	-76	1	1				1	Pass
-sub-2412716526	PNC	ses-1	-48		1	1		1	1	Pass
-sub-2413176236	PNC	ses-1	-55	1	1				1	Pass
-sub-2420532406	PNC	ses-1	-131	1	1				1	Pass
-sub-2422503990	PNC	ses-1	-157		1	1		1	1	Pass
-sub-2422512134	PNC	ses-1	-75	1	1	1	1	1	1	Pass
-sub-2423596559	PNC	ses-1	-66	1	0.75	1	1	1	0.95	Artifact
-sub-2424990755	PNC	ses-1	-80	1	1				1	Pass
-sub-2425606479	PNC	ses-1	-109	1	1				1	Pass
-sub-2428446542	PNC	ses-1	-173	1	1				1	Pass
-sub-2433433960	PNC	ses-1	-156	1	1	1	1	1	1	Pass
-sub-2435041096	PNC	ses-1	-152			1	1	1	1	Pass
-sub-2435244873	PNC	ses-1	-67	1			1		1	Pass
-sub-2437115295	PNC	ses-1	-72			1	1	1	1	Pass
-sub-2441231201	PNC	ses-1	-82		1	1		1	1	Pass
-sub-2442304782	PNC	ses-1	-68	1	1	1	1	1	1	Pass
-sub-2446607895	PNC	ses-1	-86		1	1		1	1	Pass
-sub-2449123338	PNC	ses-1	-79	1	1				1	Pass
-sub-2450905343	PNC	ses-1	-131	1	0	1	1	0.75	0.75	Artifact
-sub-2454545162	PNC	ses-1	-567	0.25	0	0			0.083333333	Artifact
-sub-2457761447	PNC	ses-1	-74	1			1		1	Pass
-sub-2461687277	PNC	ses-1	-98	1			1		1	Pass
-sub-2462036439	PNC	ses-1	-152	1	1	1			1	Pass
-sub-2464767924	PNC	ses-1	-75	1	1				1	Pass
-sub-2465300344	PNC	ses-1	-70	1	1				1	Pass
-sub-2469426313	PNC	ses-1	-94			1	1	1	1	Pass
-sub-2470516380	PNC	ses-1	-73			1	1	1	1	Pass
-sub-2470886822	PNC	ses-1	-134	1	1				1	Pass
-sub-248138276	PNC	ses-1	-63			1	1	1	1	Pass
-sub-248585929	PNC	ses-1	-85	1			1		1	Pass
-sub-2485879167	PNC	ses-1	-148	1	0.75				0.875	Artifact
-sub-2486269820	PNC	ses-1	-193	1	1	1			1	Pass
-sub-2490635263	PNC	ses-1	-47			1	1	1	1	Pass
-sub-2498589740	PNC	ses-1	-149		1	1		1	1	Pass
-sub-2499963942	PNC	ses-1	-66	1			1		1	Pass
-sub-250211156	PNC	ses-1	-155	1	1				1	Pass
-sub-2507776631	PNC	ses-1	-70	1	1				1	Pass
-sub-2508284118	PNC	ses-1	-82	1	1	1	1	1	1	Pass
-sub-2511291760	PNC	ses-1	-340			1	1	0.5	0.833333333	Artifact
-sub-2518846638	PNC	ses-1	-170		1	1		1	1	Pass
-sub-2529143538	PNC	ses-1	-73		1	1		1	1	Pass
-sub-2533255886	PNC	ses-1	-118			1	1	1	1	Pass
-sub-25354225	PNC	ses-1	-342	1			1		1	Pass
-sub-253771324	PNC	ses-1	-179		1	1		1	1	Pass
-sub-2537779643	PNC	ses-1	-99			1	1	1	1	Pass
-sub-2539603725	PNC	ses-1	-96			1	1	1	1	Pass
-sub-2539774514	PNC	ses-1	-88	1			1		1	Pass
-sub-2543780112	PNC	ses-1	-97	1			1		1	Pass
-sub-254383703	PNC	ses-1	-176	1	1				1	Pass
-sub-2544376434	PNC	ses-1	-100	1			1		1	Pass
-sub-255089519	PNC	ses-1	-185	1	1	1	1	1	1	Pass
-sub-2551635949	PNC	ses-1	-100	1	1	1	1	1	1	Pass
-sub-255246595	PNC	ses-1	-59	1	1	1	1	1	1	Pass
-sub-2555837927	PNC	ses-1	-113	1	1	1	1	1	1	Pass
-sub-2556918590	PNC	ses-1	-143	1			1		1	Pass
-sub-2564511370	PNC	ses-1	-92			1	1	1	1	Pass
-sub-25811472	PNC	ses-1	-138	1			1		1	Pass
-sub-2585124211	PNC	ses-1	-82	1	1				1	Pass
-sub-2586296094	PNC	ses-1	-152	1	1				1	Pass
-sub-2588038141	PNC	ses-1	-94			1	1	1	1	Pass
-sub-2588125611	PNC	ses-1	-141	1	1	1	1	1	1	Pass
-sub-2588900615	PNC	ses-1	-64	1	1	1	1	1	1	Pass
-sub-2589790495	PNC	ses-1	-95	1			1		1	Pass
-sub-2593612027	PNC	ses-1	-48	1	1	1	1	1	1	Pass
-sub-2604857252	PNC	ses-1	-157	1	1	1	1	1	1	Pass
-sub-2610067614	PNC	ses-1	-102	1			1		1	Pass
-sub-2613113832	PNC	ses-1	-230	1			1		1	Pass
-sub-2614145086	PNC	ses-1	-55			1	1	1	1	Pass
-sub-261887422	PNC	ses-1	-114	1			1		1	Pass
-sub-2620895813	PNC	ses-1	-111	1			1		1	Pass
-sub-2622601913	PNC	ses-1	-210			1	0.75	0.5	0.75	Artifact
-sub-2625488221	PNC	ses-1	-92			1	1	1	1	Pass
-sub-2625808132	PNC	ses-1	-225	1	1				1	Pass
-sub-2625914260	PNC	ses-1	-203		1	1		1	1	Pass
-sub-2626581416	PNC	ses-1	-45	1	1	1	1	1	1	Pass
-sub-263354790	PNC	ses-1	-78	1	1	1	1	1	1	Pass
-sub-2639722173	PNC	ses-1	-98		1	1		1	1	Pass
-sub-2645905397	PNC	ses-1	-77		1	1		1	1	Pass
-sub-2646855369	PNC	ses-1	-46	1			1		1	Pass
-sub-2647545200	PNC	ses-1	-86			1	1	1	1	Pass
-sub-2647862856	PNC	ses-1	-151	1	1	1	1	1	1	Pass
-sub-2649991749	PNC	ses-1	-117	1	1	1	1	1	1	Pass
-sub-2650375172	PNC	ses-1	-95	1			1		1	Pass
-sub-2654954754	PNC	ses-1	-82	1			1		1	Pass
-sub-2657079253	PNC	ses-1	-95			1	1	1	1	Pass
-sub-265721632	PNC	ses-1	-111			1	1	1	1	Pass
-sub-2657764686	PNC	ses-1	-114	1			1		1	Pass
-sub-2658232795	PNC	ses-1	-90		1	1		1	1	Pass
-sub-2664902924	PNC	ses-1	-442	0.25	0.25				0.25	Artifact
-sub-2670354621	PNC	ses-1	-45	1			1		1	Pass
-sub-2670840190	PNC	ses-1	-154	1			1		1	Pass
-sub-2671429330	PNC	ses-1	-62	1	1	1	1	1	1	Pass
-sub-2672167232	PNC	ses-1	-142	1	0.25	0.5			0.583333333	Artifact
-sub-2675079707	PNC	ses-1	-100	1			1		1	Pass
-sub-2675724304	PNC	ses-1	-82		1	1		1	1	Pass
-sub-2680509132	PNC	ses-1	-64	1			1		1	Pass
-sub-2688141773	PNC	ses-1	-83	1	1				1	Pass
-sub-2689188662	PNC	ses-1	-102			1	1	1	1	Pass
-sub-2691009321	PNC	ses-1	-127	1	1				1	Pass
-sub-2691116331	PNC	ses-1	-130	1			1		1	Pass
-sub-2694518755	PNC	ses-1	-344	1	0.75	0.75	1	0.75	0.85	Artifact
-sub-2696622128	PNC	ses-1	-119	1			1		1	Pass
-sub-2705533334	PNC	ses-1	-143			1	1	1	1	Pass
-sub-2706712860	PNC	ses-1	-97	1			1		1	Pass
-sub-2709385105	PNC	ses-1	-270			1	1	0.75	0.916666667	Artifact
-sub-2710058273	PNC	ses-1	-73	1	1	1	1	1	1	Pass
-sub-2710418039	PNC	ses-1	-86	1	1	1	1	1	1	Pass
-sub-2711538206	PNC	ses-1	-79		1	1		1	1	Pass
-sub-2714001943	PNC	ses-1	-86	1	1	1	1	1	1	Pass
-sub-2715820110	PNC	ses-1	-93		1	1		1	1	Pass
-sub-2718695342	PNC	ses-1	-473	0.5	0.5				0.5	Artifact
-sub-2718945982	PNC	ses-1	-107	1	1	1	1	1	1	Pass
-sub-2719078954	PNC	ses-1	-95	0.75	1	1	1	1	0.95	Artifact
-sub-2720014197	PNC	ses-1	-84		1	1		1	1	Pass
-sub-2721211800	PNC	ses-1	-125	1			1		1	Pass
-sub-2723385487	PNC	ses-1	-386	0.75			1		0.875	Artifact
-sub-272468530	PNC	ses-1	-707	0.75			0.75		0.75	Artifact
-sub-2726043986	PNC	ses-1	-255		1	1		1	1	Pass
-sub-2726208310	PNC	ses-1	-114	1			1		1	Pass
-sub-272785799	PNC	ses-1	-156			1	1	1	1	Pass
-sub-2729807028	PNC	ses-1	-99		1	1		1	1	Pass
-sub-2733440164	PNC	ses-1	-64	1	1	1	1	1	1	Pass
-sub-2734016600	PNC	ses-1	-61	1			1		1	Pass
-sub-273547252	PNC	ses-1	-122		1	1		1	1	Pass
-sub-2739408373	PNC	ses-1	-247			1	1	1	1	Pass
-sub-2739925272	PNC	ses-1	-141	1	1				1	Pass
-sub-2740569399	PNC	ses-1	-100		1	1		1	1	Pass
-sub-2741286919	PNC	ses-1	-121	1	1	1	1	1	1	Pass
-sub-2742726803	PNC	ses-1	-119			1	1	1	1	Pass
-sub-2745152671	PNC	ses-1	-58			1	1	1	1	Pass
-sub-2748158536	PNC	ses-1	-114	1	1	1	1	1	1	Pass
-sub-2748427955	PNC	ses-1	-141	1	1	1	1	1	1	Pass
-sub-2748843731	PNC	ses-1	-160	1			1		1	Pass
-sub-2753998487	PNC	ses-1	-107		1	1		1	1	Pass
-sub-2755175939	PNC	ses-1	-304	1			1		1	Pass
-sub-2758144993	PNC	ses-1	-90	1	1				1	Pass
-sub-2758762405	PNC	ses-1	-111	1			1		1	Pass
-sub-2762202970	PNC	ses-1	-99	1	1				1	Pass
-sub-2762662297	PNC	ses-1	-186	1	1				1	Pass
-sub-2763114922	PNC	ses-1	-89	1	1	1	1	1	1	Pass
-sub-2766838213	PNC	ses-1	-278		1	1		1	1	Pass
-sub-276761217	PNC	ses-1	-70	1			1		1	Pass
-sub-277233792	PNC	ses-1	-117		1	1		1	1	Pass
-sub-2774105134	PNC	ses-1	-76			1	1	1	1	Pass
-sub-2776193382	PNC	ses-1	-111	1	1	1	1	1	1	Pass
-sub-277985884	PNC	ses-1	-262		0.75	1		1	0.916666667	Artifact
-sub-2780566236	PNC	ses-1	-108	1	1				1	Pass
-sub-2781760374	PNC	ses-1	-301			0.75	1	0.25	0.666666667	Artifact
-sub-2785454369	PNC	ses-1	-131			1	1	1	1	Pass
-sub-27876862	PNC	ses-1	-89	1			1		1	Pass
-sub-278814796	PNC	ses-1	-59			1	1	1	1	Pass
-sub-2788528349	PNC	ses-1	-78	1	1	1	1	1	1	Pass
-sub-2788824854	PNC	ses-1	-111	1	1	1	1	1	1	Pass
-sub-2791148092	PNC	ses-1	-92	1			1		1	Pass
-sub-2791617373	PNC	ses-1	-124	1	1	1	1	1	1	Pass
-sub-2795844072	PNC	ses-1	-66		1	1		1	1	Pass
-sub-2799972108	PNC	ses-1	-138	1	1	1	1	1	1	Pass
-sub-2804514247	PNC	ses-1	-81	1			1		1	Pass
-sub-2808974219	PNC	ses-1	-190		1	1		1	1	Pass
-sub-281446151	PNC	ses-1	-104		1	1		1	1	Pass
-sub-2814825506	PNC	ses-1	-74			1	1	1	1	Pass
-sub-2816126335	PNC	ses-1	-69			1	1	1	1	Pass
-sub-2818302209	PNC	ses-1	-136			1	1	1	1	Pass
-sub-2819146349	PNC	ses-1	-97		1	1		1	1	Pass
-sub-2822781649	PNC	ses-1	-107	1	1	1	1	1	1	Pass
-sub-2823833643	PNC	ses-1	-111			1	1	1	1	Pass
-sub-2824066679	PNC	ses-1	-95	1	1				1	Pass
-sub-2824389829	PNC	ses-1	-182	1	1				1	Pass
-sub-2828263690	PNC	ses-1	-59	1	1				1	Pass
-sub-2830121192	PNC	ses-1	-134	1	1				1	Pass
-sub-2832458131	PNC	ses-1	-92		1	1		1	1	Pass
-sub-283366029	PNC	ses-1	-90		0.75	1		1	0.916666667	Artifact
-sub-2840008346	PNC	ses-1	-103	1			1		1	Pass
-sub-2842709105	PNC	ses-1	-119	1	1				1	Pass
-sub-2851612661	PNC	ses-1	-125		1	1		1	1	Pass
-sub-2852081635	PNC	ses-1	-144	1	1	1	1	1	1	Pass
-sub-2860715826	PNC	ses-1	-82	1	1				1	Pass
-sub-2861717830	PNC	ses-1	-68			1	1	1	1	Pass
-sub-2864018454	PNC	ses-1	-122	1			1		1	Pass
-sub-2871739930	PNC	ses-1	-120		1	1		1	1	Pass
-sub-2876352000	PNC	ses-1	-107	1	1	1	1	1	1	Pass
-sub-2877714252	PNC	ses-1	-156	1	1				1	Pass
-sub-287967180	PNC	ses-1	-79			1	1	1	1	Pass
-sub-2880229752	PNC	ses-1	-100		1	1		1	1	Pass
-sub-2884173160	PNC	ses-1	-146	1	1				1	Pass
-sub-2884386695	PNC	ses-1	-65	1			1		1	Pass
-sub-2885180167	PNC	ses-1	-77	1	1	1	1	1	1	Pass
-sub-2886590951	PNC	ses-1	-143		1	1		1	1	Pass
-sub-2893679025	PNC	ses-1	-71			1	1	1	1	Pass
-sub-2894537898	PNC	ses-1	-115	1			1		1	Pass
-sub-2895974122	PNC	ses-1	-112	1			1		1	Pass
-sub-2896375520	PNC	ses-1	-92	1	1	1	1	1	1	Pass
-sub-2897082725	PNC	ses-1	-125		1	1		1	1	Pass
-sub-2901356997	PNC	ses-1	-115		1	1		1	1	Pass
-sub-2905849066	PNC	ses-1	-181	1	1	1	1	1	1	Pass
-sub-2906198493	PNC	ses-1	-108		1	1		1	1	Pass
-sub-2906925573	PNC	ses-1	-207	1	1				1	Pass
-sub-2918766267	PNC	ses-1	-345		1	1		1	1	Pass
-sub-2919917027	PNC	ses-1	-139			0.75	1	0.5	0.75	Artifact
-sub-2925300630	PNC	ses-1	-91		1	1		1	1	Pass
-sub-2928085046	PNC	ses-1	-209	1	1	1	1	1	1	Pass
-sub-2929280193	PNC	ses-1	-147	1	1	1	1	1	1	Pass
-sub-292946269	PNC	ses-1	-100	1	1				1	Pass
-sub-292969238	PNC	ses-1	-111		1	1		1	1	Pass
-sub-2932569616	PNC	ses-1	-98	1	1	1	1	1	1	Pass
-sub-2932582600	PNC	ses-1	-82		1	1		1	1	Pass
-sub-2933325835	PNC	ses-1	-110			1	1	1	1	Pass
-sub-2933490015	PNC	ses-1	-153			1	1	1	1	Pass
-sub-2933854864	PNC	ses-1	-263			1	1	0.25	0.75	Artifact
-sub-2934644075	PNC	ses-1	-120	1	1	1	1	1	1	Pass
-sub-2935256495	PNC	ses-1	-163		1	1		1	1	Pass
-sub-2939120682	PNC	ses-1	-106	1	1				1	Pass
-sub-2939479952	PNC	ses-1	-100	1	1				1	Pass
-sub-2943493898	PNC	ses-1	-132			1	1	1	1	Pass
-sub-2944925114	PNC	ses-1	-271	1	1	1			1	Pass
-sub-2947976933	PNC	ses-1	-210	0.5	1	1	1	1	0.9	Artifact
-sub-2951167051	PNC	ses-1	-115	1			1		1	Pass
-sub-2967555571	PNC	ses-1	-85	1	1	1	1	1	1	Pass
-sub-2967570405	PNC	ses-1	-89		1	1		1	1	Pass
-sub-296947353	PNC	ses-1	-82	1	1	1	1	1	1	Pass
-sub-2970389523	PNC	ses-1	-73	1	1				1	Pass
-sub-2972126748	PNC	ses-1	-145			1	1	0.75	0.916666667	Artifact
-sub-2976850765	PNC	ses-1	-113			1	1	1	1	Pass
-sub-2978762615	PNC	ses-1	-76	1	1	1	1	1	1	Pass
-sub-2979786632	PNC	ses-1	-73	1			1		1	Pass
-sub-29811890	PNC	ses-1	-206	1	1	1			1	Pass
-sub-2981829638	PNC	ses-1	-92		1	1		1	1	Pass
-sub-2982184070	PNC	ses-1	-137	1			1		1	Pass
-sub-2988053796	PNC	ses-1	-67	1			1		1	Pass
-sub-2990984557	PNC	ses-1	-101	1	1	1	1	1	1	Pass
-sub-2991801804	PNC	ses-1	-94	1	1	1	1	1	1	Pass
-sub-2994983988	PNC	ses-1	-108			1	1	1	1	Pass
-sub-2996472019	PNC	ses-1	-108	1	1				1	Pass
-sub-299894413	PNC	ses-1	-153	1	1	1	1	1	1	Pass
-sub-300988508	PNC	ses-1	-158	1	1				1	Pass
-sub-3010264843	PNC	ses-1	-99	1	1				1	Pass
-sub-3010354631	PNC	ses-1	-157	1			1		1	Pass
-sub-3014879953	PNC	ses-1	-92	1	1				1	Pass
-sub-3016118416	PNC	ses-1	-80	1	1				1	Pass
-sub-3017936002	PNC	ses-1	-80			1	1	1	1	Pass
-sub-3022646611	PNC	ses-1	-86		1	1		1	1	Pass
-sub-3029167955	PNC	ses-1	-102	1	1	1	1	1	1	Pass
-sub-3030572467	PNC	ses-1	-125	1	1	1	1	1	1	Pass
-sub-3032863642	PNC	ses-1	-75	1			1		1	Pass
-sub-3035602262	PNC	ses-1	-100			1	1	1	1	Pass
-sub-3038035275	PNC	ses-1	-121			1	1	1	1	Pass
-sub-3039910629	PNC	ses-1	-158	1	1				1	Pass
-sub-3043294809	PNC	ses-1	-101	1	1				1	Pass
-sub-3052691308	PNC	ses-1	-167		1	1		1	1	Pass
-sub-3055237322	PNC	ses-1	-136	1	1	1	1	1	1	Pass
-sub-3059148008	PNC	ses-1	-131	1			1		1	Pass
-sub-3060404940	PNC	ses-1	-460		0	0.25		0	0.083333333	Artifact
-sub-3062402909	PNC	ses-1	-104	1			1		1	Pass
-sub-3066751024	PNC	ses-1	-78			1	1	1	1	Pass
-sub-306816217	PNC	ses-1	-72	1	1				1	Pass
-sub-307169010	PNC	ses-1	-122	1	1	1	1	1	1	Pass
-sub-3073794839	PNC	ses-1	-145	1	1	1			1	Pass
-sub-3076915122	PNC	ses-1	-71	1	1	1	1	1	1	Pass
-sub-307804547	PNC	ses-1	-161	1			1		1	Pass
-sub-3081556774	PNC	ses-1	-123	1	1				1	Pass
-sub-308228517	PNC	ses-1	-52		1	1		1	1	Pass
-sub-3082686752	PNC	ses-1	-143	1	1	1	1	1	1	Pass
-sub-3090132303	PNC	ses-1	-137	1			1		1	Pass
-sub-3090659941	PNC	ses-1	-132	1	1	1	1	1	1	Pass
-sub-309129555	PNC	ses-1	-147			1	1	1	1	Pass
-sub-3091738725	PNC	ses-1	-100	1			1		1	Pass
-sub-3091757174	PNC	ses-1	-80			1	1	1	1	Pass
-sub-3092187032	PNC	ses-1	-371	0.25	0.25	0.75	0.75	0.5	0.5	Artifact
-sub-3093541482	PNC	ses-1	-343	0	0				0	Fail
-sub-3095311898	PNC	ses-1	-102	1	1				1	Pass
-sub-3100094802	PNC	ses-1	-133	1			1		1	Pass
-sub-3103368139	PNC	ses-1	-90	1	1	1	1	1	1	Pass
-sub-3104080596	PNC	ses-1	-69	1			1		1	Pass
-sub-310631091	PNC	ses-1	-64		1	1		1	1	Pass
-sub-3109977781	PNC	ses-1	-122	1	1				1	Pass
-sub-3112586807	PNC	ses-1	-146			1	1	1	1	Pass
-sub-3117043986	PNC	ses-1	-63	1	1				1	Pass
-sub-3117409134	PNC	ses-1	-97	1	1				1	Pass
-sub-3123429468	PNC	ses-1	-54		1	1		1	1	Pass
-sub-3123810007	PNC	ses-1	-129	1	1				1	Pass
-sub-3128815857	PNC	ses-1	-100		1	1		1	1	Pass
-sub-3131141015	PNC	ses-1	-91	1			1		1	Pass
-sub-3133368442	PNC	ses-1	-215		1	1		1	1	Pass
-sub-31361606	PNC	ses-1	-107	1			1		1	Pass
-sub-3138342343	PNC	ses-1	-740	0	0	0			0	Fail
-sub-3138616935	PNC	ses-1	-82	1	1	1	1	1	1	Pass
-sub-3140512536	PNC	ses-1	-90	1	1	1			1	Pass
-sub-3147576269	PNC	ses-1	-182	1	1	1	1	1	1	Pass
-sub-3148192122	PNC	ses-1	-199	1	1				1	Pass
-sub-3150163478	PNC	ses-1	-138	1	1	1	1	1	1	Pass
-sub-316324995	PNC	ses-1	-69	1	1				1	Pass
-sub-3165713481	PNC	ses-1	-192		1	1		1	1	Pass
-sub-3170512105	PNC	ses-1	-149	1	1				1	Pass
-sub-3171575673	PNC	ses-1	-141			1	1	1	1	Pass
-sub-3172989359	PNC	ses-1	-83			1	1	1	1	Pass
-sub-3175244541	PNC	ses-1	-85			1	1	1	1	Pass
-sub-3176046588	PNC	ses-1	-146		1	1		1	1	Pass
-sub-3176914833	PNC	ses-1	-256	0	0				0	Fail
-sub-3177113419	PNC	ses-1	-56	1	1				1	Pass
-sub-3182049011	PNC	ses-1	-123	1	1	1	1	1	1	Pass
-sub-3185151244	PNC	ses-1	-121		1	1		1	1	Pass
-sub-3185171421	PNC	ses-1	-80	1	1	1	1	1	1	Pass
-sub-3190586154	PNC	ses-1	-106	1			1		1	Pass
-sub-3190862186	PNC	ses-1	-231	1	1	1	1	0.5	0.9	Artifact
-sub-3192540230	PNC	ses-1	-124			1	1	1	1	Pass
-sub-3194237272	PNC	ses-1	-249	1	1				1	Pass
-sub-3194463561	PNC	ses-1	-81	1			1		1	Pass
-sub-320127697	PNC	ses-1	-222	1			1		1	Pass
-sub-3204472167	PNC	ses-1	-57	1	1				1	Pass
-sub-3207921706	PNC	ses-1	-74	1	1	1	1	1	1	Pass
-sub-3209198339	PNC	ses-1	-123		1	1		1	1	Pass
-sub-3212763876	PNC	ses-1	-95	1			1		1	Pass
-sub-3213518740	PNC	ses-1	-258	1	1	1	1	1	1	Pass
-sub-3214822644	PNC	ses-1	-74	1	1				1	Pass
-sub-3216964316	PNC	ses-1	-76			1	1	1	1	Pass
-sub-3218515872	PNC	ses-1	-85			1	1	1	1	Pass
-sub-3219790231	PNC	ses-1	-120		1	1		1	1	Pass
-sub-3220670955	PNC	ses-1	-81	1	1	1	1	1	1	Pass
-sub-3221434093	PNC	ses-1	-112	1	1	1	1	1	1	Pass
-sub-3221624404	PNC	ses-1	-77	1	1				1	Pass
-sub-322458406	PNC	ses-1	-99	1	1	1	1	1	1	Pass
-sub-3225665554	PNC	ses-1	-103	1	1	1	1	1	1	Pass
-sub-3227202635	PNC	ses-1	-134	1	1				1	Pass
-sub-3231527178	PNC	ses-1	-180			1	1	1	1	Pass
-sub-3234328642	PNC	ses-1	-79	1			1		1	Pass
-sub-3234489701	PNC	ses-1	-56		1	1		1	1	Pass
-sub-3234586495	PNC	ses-1	-199	1	1	1	1	1	1	Pass
-sub-3235320003	PNC	ses-1	-250		1	1		1	1	Pass
-sub-3236504015	PNC	ses-1	-110		1	1		1	1	Pass
-sub-3236644272	PNC	ses-1	-220			1	1	0.75	0.916666667	Artifact
-sub-3239156026	PNC	ses-1	-531			0	0	0	0	Fail
-sub-3241674953	PNC	ses-1	-173	1			1		1	Pass
-sub-3245338991	PNC	ses-1	-195			1	1	0.75	0.916666667	Artifact
-sub-3245755395	PNC	ses-1	-75	1	1				1	Pass
-sub-3245954075	PNC	ses-1	-121	1	1				1	Pass
-sub-324718088	PNC	ses-1	-100	1	1	1	1	1	1	Pass
-sub-3247943782	PNC	ses-1	-139	1	1	1	1	1	1	Pass
-sub-3249817543	PNC	ses-1	-56	1	1	1	1	0.75	0.95	Artifact
-sub-3250922962	PNC	ses-1	-152		1	1		1	1	Pass
-sub-3253387239	PNC	ses-1	-85			1	0.75	1	0.916666667	Artifact
-sub-3255836650	PNC	ses-1	-103			1	1	1	1	Pass
-sub-3260871738	PNC	ses-1	-188			1	1	1	1	Pass
-sub-3260960488	PNC	ses-1	-138		1	1		1	1	Pass
-sub-3262225790	PNC	ses-1	-103	1	1	1	1	1	1	Pass
-sub-3264624310	PNC	ses-1	-105			1	1	1	1	Pass
-sub-3264978932	PNC	ses-1	-121	1			1		1	Pass
-sub-3266753211	PNC	ses-1	-65			1	1	1	1	Pass
-sub-326891280	PNC	ses-1	-115		1	1		1	1	Pass
-sub-3271604994	PNC	ses-1	-188	1			1		1	Pass
-sub-3275217080	PNC	ses-1	-138			1	1	1	1	Pass
-sub-3277181789	PNC	ses-1	-156		1	1		1	1	Pass
-sub-3279245901	PNC	ses-1	-374		0.5	1		1	0.833333333	Artifact
-sub-3288745244	PNC	ses-1	-130	1	1				1	Pass
-sub-3289273628	PNC	ses-1	-106	1	1	1	1	1	1	Pass
-sub-3289562482	PNC	ses-1	-69			1	1	1	1	Pass
-sub-3290096905	PNC	ses-1	-89		1	1		1	1	Pass
-sub-3293621097	PNC	ses-1	-204	1			1		1	Pass
-sub-32938469	PNC	ses-1	-280			1	1	1	1	Pass
-sub-3297348664	PNC	ses-1	-62		1	1		1	1	Pass
-sub-3298815936	PNC	ses-1	-133		1	1		1	1	Pass
-sub-3316130924	PNC	ses-1	-97	1	1				1	Pass
-sub-3317140614	PNC	ses-1	-51		1	1		1	1	Pass
-sub-3319985890	PNC	ses-1	-133		1	1		1	1	Pass
-sub-3321849919	PNC	ses-1	-102	1	1	1	1	1	1	Pass
-sub-3323308438	PNC	ses-1	-103	1	1				1	Pass
-sub-3327313154	PNC	ses-1	-135	1	1	1	1	1	1	Pass
-sub-3332328549	PNC	ses-1	-63		1	1		1	1	Pass
-sub-3337257001	PNC	ses-1	-190	1	1				1	Pass
-sub-3338094212	PNC	ses-1	-119	1			1		1	Pass
-sub-3340124957	PNC	ses-1	-149		1	1		1	1	Pass
-sub-3340851327	PNC	ses-1	-122			1	1	1	1	Pass
-sub-3342182273	PNC	ses-1	-68		1	1		1	1	Pass
-sub-334290435	PNC	ses-1	-87			1	1	1	1	Pass
-sub-3343129791	PNC	ses-1	-165			1	1	0.75	0.916666667	Artifact
-sub-334468298	PNC	ses-1	-84			1	1	1	1	Pass
-sub-3345297865	PNC	ses-1	-95		1	1		1	1	Pass
-sub-3346107281	PNC	ses-1	-78	1			1		1	Pass
-sub-3346511370	PNC	ses-1	-161	1	0.75	1	1	1	0.95	Artifact
-sub-3349861642	PNC	ses-1	-195	1	1	1	1	1	1	Pass
-sub-335003211	PNC	ses-1	-65	1	1				1	Pass
-sub-335104664	PNC	ses-1	-97		1	1		0.75	0.916666667	Artifact
-sub-3351164964	PNC	ses-1	-70		1	1		1	1	Pass
-sub-3354511550	PNC	ses-1	-100	1			1		1	Pass
-sub-3357695482	PNC	ses-1	-56	1			1		1	Pass
-sub-3359871584	PNC	ses-1	-142	1	1				1	Pass
-sub-3362293049	PNC	ses-1	-123	1	1	1	1	1	1	Pass
-sub-336426329	PNC	ses-1	-112	1			1		1	Pass
-sub-3370689672	PNC	ses-1	-90	1	1	1	1	1	1	Pass
-sub-3371160733	PNC	ses-1	-63	1	1				1	Pass
-sub-337120853	PNC	ses-1	-93			1	1	1	1	Pass
-sub-3373021317	PNC	ses-1	-89			1	1	1	1	Pass
-sub-3373396339	PNC	ses-1	-205		1	1		1	1	Pass
-sub-3374628517	PNC	ses-1	-118			1	1	1	1	Pass
-sub-3376877661	PNC	ses-1	-72	1			1		1	Pass
-sub-3377759088	PNC	ses-1	-321		1	1		1	1	Pass
-sub-3381441522	PNC	ses-1	-166	1	1	1	1	1	1	Pass
-sub-3386202055	PNC	ses-1	-65		1	1		1	1	Pass
-sub-3392035756	PNC	ses-1	-49	1			1		1	Pass
-sub-3392963865	PNC	ses-1	-125			1	1	1	1	Pass
-sub-340803193	PNC	ses-1	-291	0.5	0.75				0.625	Artifact
-sub-3410508529	PNC	ses-1	-116	1	1				1	Pass
-sub-3410573615	PNC	ses-1	-73	1			1		1	Pass
-sub-3410668296	PNC	ses-1	-170	1	1	1	1	1	1	Pass
-sub-3410682651	PNC	ses-1	-72	1	1	1	1	1	1	Pass
-sub-3419043004	PNC	ses-1	-146		1	1		1	1	Pass
-sub-342333582	PNC	ses-1	-108	1			1		1	Pass
-sub-3428149887	PNC	ses-1	-97		1	1		1	1	Pass
-sub-3437461935	PNC	ses-1	-106			1	1	1	1	Pass
-sub-3438308617	PNC	ses-1	-576	0.5	0.25				0.375	Artifact
-sub-3439662539	PNC	ses-1	-97	1	1	1			1	Pass
-sub-3439727076	PNC	ses-1	-74	1	1				1	Pass
-sub-3441116881	PNC	ses-1	-157			1	1	1	1	Pass
-sub-3443753647	PNC	ses-1	-147	1			1		1	Pass
-sub-3443950251	PNC	ses-1	-74	1	1	1	1	1	1	Pass
-sub-3445089839	PNC	ses-1	-177		0.75	1		0.75	0.833333333	Artifact
-sub-3445216767	PNC	ses-1	-85	1			1		1	Pass
-sub-344766746	PNC	ses-1	-184		0.75	1		1	0.916666667	Artifact
-sub-3447842173	PNC	ses-1	-181	0.75	1				0.875	Artifact
-sub-3450122487	PNC	ses-1	-161		1	1		1	1	Pass
-sub-3451752350	PNC	ses-1	-135	1	1	1	1	1	1	Pass
-sub-3452453842	PNC	ses-1	-74		1	1		1	1	Pass
-sub-3458965699	PNC	ses-1	-96	1	1				1	Pass
-sub-3459140306	PNC	ses-1	-164		1	1		1	1	Pass
-sub-3463353736	PNC	ses-1	-55	1			1		1	Pass
-sub-3467479455	PNC	ses-1	-236			0.75	1	0.25	0.666666667	Artifact
-sub-3468032341	PNC	ses-1	-81	1	1				1	Pass
-sub-3470362520	PNC	ses-1	-75		1	1		1	1	Pass
-sub-3470445476	PNC	ses-1	-154	1			1		1	Pass
-sub-3474248854	PNC	ses-1	-151		1	1		1	1	Pass
-sub-3474496151	PNC	ses-1	-97	1			1		1	Pass
-sub-3477990078	PNC	ses-1	-67	1	1				1	Pass
-sub-3481634232	PNC	ses-1	-150		1	1		1	1	Pass
-sub-3482208722	PNC	ses-1	-90			1	1	1	1	Pass
-sub-3482761158	PNC	ses-1	-124	1	1	1			1	Pass
-sub-3486713588	PNC	ses-1	-444	0	0.25	0.75	0.5	0	0.3	Artifact
-sub-348711479	PNC	ses-1	-76	1	1				1	Pass
-sub-348742929	PNC	ses-1	-88		1	1		1	1	Pass
-sub-3492490140	PNC	ses-1	-77	1	1	1			1	Pass
-sub-3495559578	PNC	ses-1	-177			1	1	1	1	Pass
-sub-3497670658	PNC	ses-1	-80	1	1	1	1	1	1	Pass
-sub-3498010347	PNC	ses-1	-134	1			1		1	Pass
-sub-3498378981	PNC	ses-1	-99	1			1		1	Pass
-sub-349934174	PNC	ses-1	-78	1			1		1	Pass
-sub-3501955380	PNC	ses-1	-108	1	1				1	Pass
-sub-3506213723	PNC	ses-1	-91	1	1	1	1	1	1	Pass
-sub-3506926170	PNC	ses-1	-103		1	1		1	1	Pass
-sub-351109165	PNC	ses-1	-128		1	1		1	1	Pass
-sub-3511384247	PNC	ses-1	-83	1			1		1	Pass
-sub-3511452762	PNC	ses-1	-177	1			1		1	Pass
-sub-3512003246	PNC	ses-1	-46		1	1		1	1	Pass
-sub-3516454823	PNC	ses-1	-88	1			1		1	Pass
-sub-3520758666	PNC	ses-1	-66			1	1	1	1	Pass
-sub-3524638841	PNC	ses-1	-127		1	1		1	1	Pass
-sub-352505908	PNC	ses-1	-47	1			1		1	Pass
-sub-3530244209	PNC	ses-1	-117	1	1				1	Pass
-sub-3531047767	PNC	ses-1	-163			1	1	1	1	Pass
-sub-3533807592	PNC	ses-1	-102		1	1		1	1	Pass
-sub-3533959599	PNC	ses-1	-63			1	1	1	1	Pass
-sub-3535052608	PNC	ses-1	-149			1	1	1	1	Pass
-sub-3535898260	PNC	ses-1	-102		1	1		1	1	Pass
-sub-3538085126	PNC	ses-1	-107	1	1				1	Pass
-sub-3539567950	PNC	ses-1	-101			1	1	0.75	0.916666667	Artifact
-sub-3539717209	PNC	ses-1	-108		1	1		1	1	Pass
-sub-3544869608	PNC	ses-1	-95	1			1		1	Pass
-sub-3545637731	PNC	ses-1	-63	1	1	1	1	1	1	Pass
-sub-3548675539	PNC	ses-1	-80		1	1		1	1	Pass
-sub-3549161979	PNC	ses-1	-69	1			1		1	Pass
-sub-3549674509	PNC	ses-1	-108			1	1	1	1	Pass
-sub-3552163094	PNC	ses-1	-118		1	1		1	1	Pass
-sub-355612286	PNC	ses-1	-77	1			1		1	Pass
-sub-3561979823	PNC	ses-1	-156	1			1		1	Pass
-sub-3565014343	PNC	ses-1	-115	1			1		1	Pass
-sub-3566300931	PNC	ses-1	-78		1	1		1	1	Pass
-sub-3567315418	PNC	ses-1	-87	1	1	1	1	1	1	Pass
-sub-3569165538	PNC	ses-1	-62	1	1	1	1	1	1	Pass
-sub-3572235922	PNC	ses-1	-204	1	1				1	Pass
-sub-3573560794	PNC	ses-1	-172		1	1		1	1	Pass
-sub-3598760125	PNC	ses-1	-88	1	1				1	Pass
-sub-3601751755	PNC	ses-1	-67	1			1		1	Pass
-sub-360338543	PNC	ses-1	-99			1	1	1	1	Pass
-sub-360427065	PNC	ses-1	-90	1			1		1	Pass
-sub-360459346	PNC	ses-1	-79		1	1		1	1	Pass
-sub-3604691191	PNC	ses-1	-209		1	1		1	1	Pass
-sub-3605497536	PNC	ses-1	-231		1	1		1	1	Pass
-sub-3606976091	PNC	ses-1	-90		1	1		0.75	0.916666667	Artifact
-sub-3607981599	PNC	ses-1	-110	1			1		1	Pass
-sub-3608113928	PNC	ses-1	-67			1	1	1	1	Pass
-sub-3612049856	PNC	ses-1	-78	1	1	1	1	1	1	Pass
-sub-361460013	PNC	ses-1	-95		1	1		1	1	Pass
-sub-3614947229	PNC	ses-1	-89	1			1		1	Pass
-sub-3615907583	PNC	ses-1	-155			1	1	1	1	Pass
-sub-361728233	PNC	ses-1	-120	1			1		1	Pass
-sub-3620165734	PNC	ses-1	-114	1	1				1	Pass
-sub-3620213387	PNC	ses-1	-154	1	1	1	1	1	1	Pass
-sub-3621702873	PNC	ses-1	-88	1	1	1	1	1	1	Pass
-sub-362293270	PNC	ses-1	-137		1	1		1	1	Pass
-sub-3625162682	PNC	ses-1	-149	1			1		1	Pass
-sub-363441871	PNC	ses-1	-64			1	1	1	1	Pass
-sub-3635306093	PNC	ses-1	-110			1	1	1	1	Pass
-sub-3637736036	PNC	ses-1	-456	0	0	0	0.25	0	0.05	Artifact
-sub-3644730316	PNC	ses-1	-123	1			1		1	Pass
-sub-3647998632	PNC	ses-1	-37	1	0.75	1	1	1	0.95	Artifact
-sub-3653965527	PNC	ses-1	-192	1	1				1	Pass
-sub-3655426254	PNC	ses-1	-119	1	1				1	Pass
-sub-3661330789	PNC	ses-1	-164	1	1				1	Pass
-sub-3666908232	PNC	ses-1	-77			1	1	1	1	Pass
-sub-3669543341	PNC	ses-1	-143	1	1				1	Pass
-sub-3670092995	PNC	ses-1	-72		1	1		1	1	Pass
-sub-3670726676	PNC	ses-1	-65	1			1		1	Pass
-sub-3671045126	PNC	ses-1	-133	1	1	1	1	1	1	Pass
-sub-367320913	PNC	ses-1	-265	0.5	0.5				0.5	Artifact
-sub-3675176980	PNC	ses-1	-151	1	1	1	1	1	1	Pass
-sub-3675945478	PNC	ses-1	-282	1			1		1	Pass
-sub-3678218578	PNC	ses-1	-73	1	1				1	Pass
-sub-3683182920	PNC	ses-1	-93	1			1		1	Pass
-sub-3685268115	PNC	ses-1	-101	1			1		1	Pass
-sub-36895554	PNC	ses-1	-155		1	1		1	1	Pass
-sub-3691492943	PNC	ses-1	-143	1	1	1	1	1	1	Pass
-sub-3692156343	PNC	ses-1	-90	1			1		1	Pass
-sub-3694822252	PNC	ses-1	-131	1			1		1	Pass
-sub-3696718394	PNC	ses-1	-124		1	1		1	1	Pass
-sub-370053661	PNC	ses-1	-67			1	1	1	1	Pass
-sub-3703469018	PNC	ses-1	-139	1	1	1	1	1	1	Pass
-sub-3704095570	PNC	ses-1	-74	1			1		1	Pass
-sub-3704894948	PNC	ses-1	-54	1	1				1	Pass
-sub-3706183788	PNC	ses-1	-91	1	1	1	1	1	1	Pass
-sub-3711850368	PNC	ses-1	-152	1			1		1	Pass
-sub-3712060241	PNC	ses-1	-136		1	1		1	1	Pass
-sub-3716972371	PNC	ses-1	-83			1	1	1	1	Pass
-sub-3719615756	PNC	ses-1	-45	1	1				1	Pass
-sub-372100986	PNC	ses-1	-111	1	1	1	0.75	1	0.95	Artifact
-sub-3722539437	PNC	ses-1	-135		0.5	1		0.5	0.666666667	Artifact
-sub-3724047858	PNC	ses-1	-96	1			1		1	Pass
-sub-3724155829	PNC	ses-1	-72	1			1		1	Pass
-sub-3726299659	PNC	ses-1	-464			0	0.75	0	0.25	Artifact
-sub-3726776317	PNC	ses-1	-119		1	1		1	1	Pass
-sub-3730474103	PNC	ses-1	-83	1	1				1	Pass
-sub-3731824395	PNC	ses-1	-153	1			1		1	Pass
-sub-3732485344	PNC	ses-1	-226	1	1	1	1	1	1	Pass
-sub-37329051	PNC	ses-1	-213			1	1	1	1	Pass
-sub-3733544876	PNC	ses-1	-47	1	1				1	Pass
-sub-3733778000	PNC	ses-1	-151		1	1		1	1	Pass
-sub-3735452556	PNC	ses-1	-218	0.75	1	1			0.916666667	Artifact
-sub-373574366	PNC	ses-1	-96			1	1	1	1	Pass
-sub-374130224	PNC	ses-1	-131	1	0.75	1			0.916666667	Artifact
-sub-3743186010	PNC	ses-1	-149	1	1				1	Pass
-sub-3743427092	PNC	ses-1	-122			1	1	1	1	Pass
-sub-3744541693	PNC	ses-1	-89		1	1		1	1	Pass
-sub-3744667754	PNC	ses-1	-89	1			1		1	Pass
-sub-3744723479	PNC	ses-1	-139	1	1				1	Pass
-sub-3745413288	PNC	ses-1	-130		1	1		1	1	Pass
-sub-3746502009	PNC	ses-1	-133	1	1				1	Pass
-sub-3747270459	PNC	ses-1	-163	1	1	1	1	1	1	Pass
-sub-3748226758	PNC	ses-1	-150	1	1				1	Pass
-sub-3749102689	PNC	ses-1	-65	1	1	1	1	1	1	Pass
-sub-3753452353	PNC	ses-1	-89	1	1	1	1	1	1	Pass
-sub-3753613715	PNC	ses-1	-93	1	1	1	1	1	1	Pass
-sub-375434957	PNC	ses-1	-195	1			1		1	Pass
-sub-375475352	PNC	ses-1	-144	1			1		1	Pass
-sub-3756388677	PNC	ses-1	-132	1			1		1	Pass
-sub-375686109	PNC	ses-1	-84	1	1	1	0.75	1	0.95	Artifact
-sub-3758103185	PNC	ses-1	-145	1	1	1	1	1	1	Pass
-sub-3761349403	PNC	ses-1	-108	1	1	1	1	1	1	Pass
-sub-3762475569	PNC	ses-1	-210			1	1	0.5	0.833333333	Artifact
-sub-3763213896	PNC	ses-1	-140	1			1		1	Pass
-sub-3769010696	PNC	ses-1	-110			1	1	1	1	Pass
-sub-3770031954	PNC	ses-1	-171			1	1	1	1	Pass
-sub-377178190	PNC	ses-1	-73		1	1		1	1	Pass
-sub-3777345255	PNC	ses-1	-80	1			1		1	Pass
-sub-3778234840	PNC	ses-1	-140	1			1		1	Pass
-sub-3778541583	PNC	ses-1	-122	1	1				1	Pass
-sub-3782270648	PNC	ses-1	-175		1	1		1	1	Pass
-sub-37835493	PNC	ses-1	-63			1	1	1	1	Pass
-sub-379170502	PNC	ses-1	-96		1	1		1	1	Pass
-sub-3793444603	PNC	ses-1	-191		0.25	0		0.25	0.166666667	Artifact
-sub-3800855923	PNC	ses-1	-162	1	0.25	1	0.75	0.75	0.75	Artifact
-sub-3806576780	PNC	ses-1	-97			1	1	1	1	Pass
-sub-3807715038	PNC	ses-1	-80		1	1		1	1	Pass
-sub-3807880204	PNC	ses-1	-131	1	1	1	1	1	1	Pass
-sub-3808965674	PNC	ses-1	-106			1	1	0.75	0.916666667	Artifact
-sub-3809027065	PNC	ses-1	-322			1	1	1	1	Pass
-sub-3809989470	PNC	ses-1	-77			1	1	1	1	Pass
-sub-3810009389	PNC	ses-1	-88	1			1		1	Pass
-sub-3813030131	PNC	ses-1	-138	1	1	1	1	1	1	Pass
-sub-3814863545	PNC	ses-1	-186			1	1	1	1	Pass
-sub-3815131512	PNC	ses-1	-111		1	1		1	1	Pass
-sub-3816691265	PNC	ses-1	-160	1	1	1	1	1	1	Pass
-sub-3818082974	PNC	ses-1	-182	1			1		1	Pass
-sub-3818720350	PNC	ses-1	-128		1	1		1	1	Pass
-sub-3822559318	PNC	ses-1	-108	1	1	1	1	1	1	Pass
-sub-3827457731	PNC	ses-1	-93	1	1				1	Pass
-sub-3829047511	PNC	ses-1	-96	1			1		1	Pass
-sub-3830031504	PNC	ses-1	-94		1	1		1	1	Pass
-sub-383103459	PNC	ses-1	-101			1	1	1	1	Pass
-sub-3831608525	PNC	ses-1	-287	0.75	0.75	0.5	1	0.25	0.65	Artifact
-sub-3836020010	PNC	ses-1	-128			1	1	1	1	Pass
-sub-3836403514	PNC	ses-1	-88	1	1	1	1	1	1	Pass
-sub-3837482902	PNC	ses-1	-121	1	1				1	Pass
-sub-3840308617	PNC	ses-1	-69	1	0.75				0.875	Artifact
-sub-3840869169	PNC	ses-1	-129			1	1	1	1	Pass
-sub-3846816171	PNC	ses-1	-77	1			1		1	Pass
-sub-3847306693	PNC	ses-1	-160	1	1				1	Pass
-sub-3851803705	PNC	ses-1	-97			1	1	1	1	Pass
-sub-385564988	PNC	ses-1	-289			0.75	0.5	0	0.416666667	Artifact
-sub-3856077977	PNC	ses-1	-144		1	1		1	1	Pass
-sub-3859141450	PNC	ses-1	-90	1	1				1	Pass
-sub-3866325191	PNC	ses-1	-111		1	1		1	1	Pass
-sub-3867430894	PNC	ses-1	-220		0.75	1		1	0.916666667	Artifact
-sub-3867546625	PNC	ses-1	-145	1	1	1	1	1	1	Pass
-sub-3869583798	PNC	ses-1	-108			1	1	1	1	Pass
-sub-3870273492	PNC	ses-1	-67	1	1				1	Pass
-sub-3870295870	PNC	ses-1	-168		1	1		1	1	Pass
-sub-3870702454	PNC	ses-1	-102	1	1	1	1	1	1	Pass
-sub-3874353588	PNC	ses-1	-102	1	0.75				0.875	Artifact
-sub-3876784770	PNC	ses-1	-131	1	1	1	1	1	1	Pass
-sub-3880233477	PNC	ses-1	-190	1			1		1	Pass
-sub-3880738222	PNC	ses-1	-70			1	1	1	1	Pass
-sub-3882431387	PNC	ses-1	-81			1	1	1	1	Pass
-sub-3885398873	PNC	ses-1	-72	1	1	1	1	1	1	Pass
-sub-388650152	PNC	ses-1	-121		1	1		1	1	Pass
-sub-3888585994	PNC	ses-1	-186		1	1		1	1	Pass
-sub-3891584278	PNC	ses-1	-141			1	1	1	1	Pass
-sub-3891810238	PNC	ses-1	-202	1	1	1	1	1	1	Pass
-sub-389182564	PNC	ses-1	-135			1	1	1	1	Pass
-sub-3892575145	PNC	ses-1	-86		1	1		1	1	Pass
-sub-3896564969	PNC	ses-1	-132	1	1				1	Pass
-sub-3901605230	PNC	ses-1	-185	1			1		1	Pass
-sub-3902996821	PNC	ses-1	-76	1			1		1	Pass
-sub-3906186680	PNC	ses-1	-194	1	1				1	Pass
-sub-3906575236	PNC	ses-1	-144	1	1	1	1	1	1	Pass
-sub-3909015218	PNC	ses-1	-121	1	1	1	1	1	1	Pass
-sub-3914722336	PNC	ses-1	-128	1	1	1	1	1	1	Pass
-sub-3915422918	PNC	ses-1	-62	1	1				1	Pass
-sub-3917125611	PNC	ses-1	-117			1	1	1	1	Pass
-sub-3917203499	PNC	ses-1	-469	0.5			0.5		0.5	Artifact
-sub-3917353122	PNC	ses-1	-56		1	1		1	1	Pass
-sub-3920704580	PNC	ses-1	-138	1			1		1	Pass
-sub-3921457149	PNC	ses-1	-143	1			1		1	Pass
-sub-3923883359	PNC	ses-1	-83	1	1	1	1	1	1	Pass
-sub-3925151495	PNC	ses-1	-73			1	1	1	1	Pass
-sub-3925565817	PNC	ses-1	-76	1	1	1	1	1	1	Pass
-sub-3925705705	PNC	ses-1	-102	1			1		1	Pass
-sub-3926498329	PNC	ses-1	-132	1	1				1	Pass
-sub-392818846	PNC	ses-1	-143		1	1		1	1	Pass
-sub-3930335526	PNC	ses-1	-95			1	1	1	1	Pass
-sub-3931419723	PNC	ses-1	-96	1			1		1	Pass
-sub-3931956861	PNC	ses-1	-133	1	1	1	1	1	1	Pass
-sub-3932933674	PNC	ses-1	-57	1	1	1	1	1	1	Pass
-sub-3945053428	PNC	ses-1	-172	1	1				1	Pass
-sub-3950621480	PNC	ses-1	-110	1	1				1	Pass
-sub-3957619959	PNC	ses-1	-115	1	1				1	Pass
-sub-396724706	PNC	ses-1	-87			1	1	1	1	Pass
-sub-396928608	PNC	ses-1	-110	1	1	1	1	1	1	Pass
-sub-3970800099	PNC	ses-1	-188	1			1		1	Pass
-sub-3972288841	PNC	ses-1	-62	1	1				1	Pass
-sub-3978744570	PNC	ses-1	-115		1	1		1	1	Pass
-sub-398131152	PNC	ses-1	-108		1	1		1	1	Pass
-sub-3982145425	PNC	ses-1	-98		1	1		1	1	Pass
-sub-3984163767	PNC	ses-1	-188		1	1		1	1	Pass
-sub-3985888022	PNC	ses-1	-121	1	1	1	1	1	1	Pass
-sub-3991005721	PNC	ses-1	-93	1	1				1	Pass
-sub-3993637691	PNC	ses-1	-139	1	1				1	Pass
-sub-3995554858	PNC	ses-1	-165	1	1	1	1	1	1	Pass
-sub-3996598573	PNC	ses-1	-125	1	1				1	Pass
-sub-4006534625	PNC	ses-1	-153	1	1	1	1	1	1	Pass
-sub-4016765342	PNC	ses-1	-66	1	1				1	Pass
-sub-401879401	PNC	ses-1	-123	1			1		1	Pass
-sub-4020664673	PNC	ses-1	-75			1	1	1	1	Pass
-sub-402523989	PNC	ses-1	-69		1	1		1	1	Pass
-sub-402577805	PNC	ses-1	-137		1	1		1	1	Pass
-sub-4026391232	PNC	ses-1	-115			1	1	1	1	Pass
-sub-4026910516	PNC	ses-1	-116	1			1		1	Pass
-sub-4031942322	PNC	ses-1	-120	1	1				1	Pass
-sub-4033561173	PNC	ses-1	-112		1	1		1	1	Pass
-sub-4039829353	PNC	ses-1	-115	1	1				1	Pass
-sub-4040147816	PNC	ses-1	-120	1	1	1	1	1	1	Pass
-sub-4040716945	PNC	ses-1	-104	1	1	1	1	1	1	Pass
-sub-405373926	PNC	ses-1	-137	1	1	1	1	1	1	Pass
-sub-4060589852	PNC	ses-1	-105		0.75	1		1	0.916666667	Artifact
-sub-4061437282	PNC	ses-1	-146	1			1		1	Pass
-sub-4063155703	PNC	ses-1	-124	1			1		1	Pass
-sub-4065001465	PNC	ses-1	-88	1	1	1	1	1	1	Pass
-sub-4066124203	PNC	ses-1	-54	1	1	1	1	1	1	Pass
-sub-4067048825	PNC	ses-1	-132	1			1		1	Pass
-sub-4069098061	PNC	ses-1	-119	1			1		1	Pass
-sub-4069824072	PNC	ses-1	-111	0.75	1	1	1	1	0.95	Artifact
-sub-4080403633	PNC	ses-1	-100			1	1	1	1	Pass
-sub-4083266820	PNC	ses-1	-104			1	1	1	1	Pass
-sub-4083814481	PNC	ses-1	-152			1	1	1	1	Pass
-sub-4083828352	PNC	ses-1	-230	1	1	1			1	Pass
-sub-4085341874	PNC	ses-1	-88			1	1	1	1	Pass
-sub-408837402	PNC	ses-1	-97	1	1	1	1	1	1	Pass
-sub-408967257	PNC	ses-1	-86	1	1				1	Pass
-sub-4090691856	PNC	ses-1	-127	1	1	1	1	1	1	Pass
-sub-409133707	PNC	ses-1	-114		1	1		1	1	Pass
-sub-4093108110	PNC	ses-1	-84	1			1		1	Pass
-sub-4093356685	PNC	ses-1	-87	1			1		1	Pass
-sub-4095893651	PNC	ses-1	-149	1			1		1	Pass
-sub-4099417558	PNC	ses-1	-78			1	1	1	1	Pass
-sub-4099541746	PNC	ses-1	-65	1	1	1	0.75	1	0.95	Artifact
-sub-4099736023	PNC	ses-1	-113			1	1	1	1	Pass
-sub-4100540491	PNC	ses-1	-143			1	1	1	1	Pass
-sub-4106746357	PNC	ses-1	-124	1			1		1	Pass
-sub-4107507507	PNC	ses-1	-131			1	1	1	1	Pass
-sub-4108002155	PNC	ses-1	-113	1			1		1	Pass
-sub-410808047	PNC	ses-1	-266	0.5	1	0.75	0.5	0	0.55	Artifact
-sub-4113417726	PNC	ses-1	-89			1	1	1	1	Pass
-sub-4113794425	PNC	ses-1	-170	1	1	1			1	Pass
-sub-4117238293	PNC	ses-1	-161		1	1		1	1	Pass
-sub-4118326689	PNC	ses-1	-109			1	1	0.75	0.916666667	Artifact
-sub-4122649464	PNC	ses-1	-240		1	1		1	1	Pass
-sub-413107749	PNC	ses-1	-123	1	1	1	1	1	1	Pass
-sub-4133213633	PNC	ses-1	-90			1	1	1	1	Pass
-sub-4135739225	PNC	ses-1	-139			1	1	1	1	Pass
-sub-4136155069	PNC	ses-1	-113	1	1				1	Pass
-sub-4137052624	PNC	ses-1	-202	1	1				1	Pass
-sub-4137147732	PNC	ses-1	-123	1	1				1	Pass
-sub-4144391965	PNC	ses-1	-90	1	1	1	1	1	1	Pass
-sub-415148142	PNC	ses-1	-91	1	1				1	Pass
-sub-4160147836	PNC	ses-1	-71	1			1		1	Pass
-sub-4160502168	PNC	ses-1	-126	1	1	1	1	1	1	Pass
-sub-4163093414	PNC	ses-1	-125	1	1				1	Pass
-sub-4164375240	PNC	ses-1	-128			1	1	1	1	Pass
-sub-4167756410	PNC	ses-1	-84	1	1				1	Pass
-sub-417075525	PNC	ses-1	-76	1			1		1	Pass
-sub-4172321775	PNC	ses-1	-152	1			1		1	Pass
-sub-4172833860	PNC	ses-1	-100	1	1	1	1	1	1	Pass
-sub-4174857942	PNC	ses-1	-90	1			1		1	Pass
-sub-4177765106	PNC	ses-1	-59		1	1		1	1	Pass
-sub-4182146714	PNC	ses-1	-116			1	0.75	1	0.916666667	Artifact
-sub-4187598678	PNC	ses-1	-74	1	1	1	1	1	1	Pass
-sub-4187823334	PNC	ses-1	-115			1	1	1	1	Pass
-sub-4190603704	PNC	ses-1	-159			0.75	1	0.5	0.75	Artifact
-sub-4190952364	PNC	ses-1	-77	1	1	1	1	1	1	Pass
-sub-4193918219	PNC	ses-1	-148		1	1		1	1	Pass
-sub-419535935	PNC	ses-1	-90	1			1		1	Pass
-sub-4196310650	PNC	ses-1	-185		1	1		1	1	Pass
-sub-4196412787	PNC	ses-1	-154	1	1	1	1	1	1	Pass
-sub-4196502261	PNC	ses-1	-162			1	1	0.75	0.916666667	Artifact
-sub-4197093898	PNC	ses-1	-42			1	1	1	1	Pass
-sub-4198853043	PNC	ses-1	-117		1	1		1	1	Pass
-sub-4199436321	PNC	ses-1	-99	1	1				1	Pass
-sub-4208420410	PNC	ses-1	-248	1			1		1	Pass
-sub-420900014	PNC	ses-1	-145	1			1		1	Pass
-sub-4211615439	PNC	ses-1	-129	1	1				1	Pass
-sub-4215014897	PNC	ses-1	-104	1			1		1	Pass
-sub-4216533717	PNC	ses-1	-95	1	1	1	1	1	1	Pass
-sub-4231164226	PNC	ses-1	-125	1			1		1	Pass
-sub-4232585168	PNC	ses-1	-91		1	1		1	1	Pass
-sub-4238772277	PNC	ses-1	-114		1	1		1	1	Pass
-sub-4239005932	PNC	ses-1	-109	1	1	1	1	1	1	Pass
-sub-4240185446	PNC	ses-1	-70			1	1	1	1	Pass
-sub-4242587695	PNC	ses-1	-98	1			1		1	Pass
-sub-4250731906	PNC	ses-1	-52	1			1		1	Pass
-sub-4259136159	PNC	ses-1	-102	1	1				1	Pass
-sub-4264683889	PNC	ses-1	-178	1	1	1	1	1	1	Pass
-sub-4268231041	PNC	ses-1	-158	1	1	1	1	1	1	Pass
-sub-4269306166	PNC	ses-1	-133			1	1	1	1	Pass
-sub-4269796936	PNC	ses-1	-162	1	1				1	Pass
-sub-4276974103	PNC	ses-1	-147	1	1				1	Pass
-sub-4284367721	PNC	ses-1	-92	1	1	1	1	1	1	Pass
-sub-4284483827	PNC	ses-1	-42	1			1		1	Pass
-sub-4285301913	PNC	ses-1	-127	1			1		1	Pass
-sub-4285804772	PNC	ses-1	-252	1			1		1	Pass
-sub-4286784089	PNC	ses-1	-62	1			1		1	Pass
-sub-4288368085	PNC	ses-1	-210	1	1				1	Pass
-sub-4288775453	PNC	ses-1	-87	1	1				1	Pass
-sub-4290234295	PNC	ses-1	-101			1	1	1	1	Pass
-sub-4292903812	PNC	ses-1	-160			1	1	1	1	Pass
-sub-429608771	PNC	ses-1	-100			1	1	1	1	Pass
-sub-432187454	PNC	ses-1	-89	1	1	1	1	1	1	Pass
-sub-433029449	PNC	ses-1	-101		1	1		1	1	Pass
-sub-43606631	PNC	ses-1	-50	1	1	1	1	1	1	Pass
-sub-438637277	PNC	ses-1	-156			1	1	0.75	0.916666667	Artifact
-sub-440314957	PNC	ses-1	-103	1	1				1	Pass
-sub-443334800	PNC	ses-1	-358			0.75	1	0.5	0.75	Artifact
-sub-443632695	PNC	ses-1	-108	1			1		1	Pass
-sub-443652258	PNC	ses-1	-148			1	1	1	1	Pass
-sub-443900734	PNC	ses-1	-96		1	1		1	1	Pass
-sub-447184381	PNC	ses-1	-101		1	1		1	1	Pass
-sub-447775004	PNC	ses-1	-56	1			1		1	Pass
-sub-448304956	PNC	ses-1	-111		1	1		1	1	Pass
-sub-451261789	PNC	ses-1	-101	1	1	1	1	1	1	Pass
-sub-458296344	PNC	ses-1	-92		1	1		1	1	Pass
-sub-460925240	PNC	ses-1	-125	1	1				1	Pass
-sub-462702505	PNC	ses-1	-317	1	0.5	1	1	1	0.9	Artifact
-sub-465465726	PNC	ses-1	-192	1	1	1	1	1	1	Pass
-sub-467305309	PNC	ses-1	-174			1	1	1	1	Pass
-sub-470135601	PNC	ses-1	-96	1	1				1	Pass
-sub-471230479	PNC	ses-1	-109	1			1		1	Pass
-sub-471903637	PNC	ses-1	-92	1	1				1	Pass
-sub-473767958	PNC	ses-1	-214	1			0.5		0.75	Artifact
-sub-476252579	PNC	ses-1	-113		0.75	1		1	0.916666667	Artifact
-sub-481928384	PNC	ses-1	-76	1	1	1	1	1	1	Pass
-sub-482239832	PNC	ses-1	-93		1	1		1	1	Pass
-sub-482294424	PNC	ses-1	-126	1	1	1	1	1	1	Pass
-sub-485017822	PNC	ses-1	-59	1	1				1	Pass
-sub-486306438	PNC	ses-1	-87	1	1	1	1	1	1	Pass
-sub-486404664	PNC	ses-1	-120			1	1	1	1	Pass
-sub-487664430	PNC	ses-1	-96	1	1	1			1	Pass
-sub-488302404	PNC	ses-1	-67	1	1				1	Pass
-sub-490845995	PNC	ses-1	-82			1	1	1	1	Pass
-sub-49408975	PNC	ses-1	-115	1	1	1	1	1	1	Pass
-sub-494764211	PNC	ses-1	-81	1	1				1	Pass
-sub-496203414	PNC	ses-1	-103		1	1		1	1	Pass
-sub-498628252	PNC	ses-1	-168	1			1		1	Pass
-sub-499092343	PNC	ses-1	-144			1	1	1	1	Pass
-sub-500081009	PNC	ses-1	-110	1	1	1	1	1	1	Pass
-sub-500214245	PNC	ses-1	-139	1	1				1	Pass
-sub-507224785	PNC	ses-1	-111	1			0.75		0.875	Artifact
-sub-510706202	PNC	ses-1	-101	1	1	1	1	1	1	Pass
-sub-51217255	PNC	ses-1	-46			1	1	1	1	Pass
-sub-517593246	PNC	ses-1	-138			1	1	1	1	Pass
-sub-520579518	PNC	ses-1	-108		1	1		1	1	Pass
-sub-52306425	PNC	ses-1	-72	1			1		1	Pass
-sub-523278137	PNC	ses-1	-129	1			1		1	Pass
-sub-524958008	PNC	ses-1	-70		1	1		1	1	Pass
-sub-526023406	PNC	ses-1	-45		1	1		1	1	Pass
-sub-527463413	PNC	ses-1	-146			1	1	1	1	Pass
-sub-52835891	PNC	ses-1	-101		1	1		1	1	Pass
-sub-530789110	PNC	ses-1	-135	1	1				1	Pass
-sub-533823633	PNC	ses-1	-135	1			1		1	Pass
-sub-536638696	PNC	ses-1	-123			1	1	1	1	Pass
-sub-537502840	PNC	ses-1	-69	1	1	1	1	1	1	Pass
-sub-550810566	PNC	ses-1	-120	1			1		1	Pass
-sub-55710183	PNC	ses-1	-109	1			1		1	Pass
-sub-56162563	PNC	ses-1	-77	1			1		1	Pass
-sub-562992781	PNC	ses-1	-144			1	1	1	1	Pass
-sub-566745642	PNC	ses-1	-92	1			1		1	Pass
-sub-568769650	PNC	ses-1	-164		0.75	1		0.75	0.833333333	Artifact
-sub-571955453	PNC	ses-1	-165			1	1	0.75	0.916666667	Artifact
-sub-574930953	PNC	ses-1	-102	1	1	1	1	1	1	Pass
-sub-578652819	PNC	ses-1	-336	0.5	0.75	0.75	0.75	0.5	0.65	Artifact
-sub-579459470	PNC	ses-1	-71		1	1		1	1	Pass
-sub-579934409	PNC	ses-1	-131		1	1		1	1	Pass
-sub-583203611	PNC	ses-1	-94	1	1	1	1	1	1	Pass
-sub-584328521	PNC	ses-1	-74			1	1	1	1	Pass
-sub-585579170	PNC	ses-1	-73	1			1		1	Pass
-sub-594496588	PNC	ses-1	-104			1	1	1	1	Pass
-sub-595113616	PNC	ses-1	-337		0.5	0.75		0	0.416666667	Artifact
-sub-597625120	PNC	ses-1	-84	1	1				1	Pass
-sub-60021964	PNC	ses-1	-119		1	1		1	1	Pass
-sub-606185341	PNC	ses-1	-118			1	1	1	1	Pass
-sub-609583468	PNC	ses-1	-108	1			1		1	Pass
-sub-610158411	PNC	ses-1	-122	1	1	1	1	1	1	Pass
-sub-612700286	PNC	ses-1	-51	1			1		1	Pass
-sub-618085604	PNC	ses-1	-171	1			1		1	Pass
-sub-619623685	PNC	ses-1	-145	1			1		1	Pass
-sub-619635668	PNC	ses-1	-233	1	1				1	Pass
-sub-620265516	PNC	ses-1	-138		1	1		1	1	Pass
-sub-624076698	PNC	ses-1	-74	1			1		1	Pass
-sub-624155263	PNC	ses-1	-177	1	1	1	1	0.75	0.95	Artifact
-sub-624204289	PNC	ses-1	-155			1	1	1	1	Pass
-sub-62582335	PNC	ses-1	-144	1	1	1			1	Pass
-sub-628144066	PNC	ses-1	-47	1	1	1	1	1	1	Pass
-sub-628391776	PNC	ses-1	-70	1	1	1	1	1	1	Pass
-sub-629271662	PNC	ses-1	-121	1			1		1	Pass
-sub-631348709	PNC	ses-1	-109		1	1		1	1	Pass
-sub-634597131	PNC	ses-1	-138		1	1		1	1	Pass
-sub-636218109	PNC	ses-1	-175	1	1	1	1	1	1	Pass
-sub-646773252	PNC	ses-1	-67	1	1	1	1	1	1	Pass
-sub-646981992	PNC	ses-1	-62		1	1		1	1	Pass
-sub-65198031	PNC	ses-1	-86	1			1		1	Pass
-sub-657998684	PNC	ses-1	-216			1	1	1	1	Pass
-sub-661364701	PNC	ses-1	-74		1	1		1	1	Pass
-sub-661613686	PNC	ses-1	-131		1	1		1	1	Pass
-sub-661770582	PNC	ses-1	-71			1	1	1	1	Pass
-sub-662466380	PNC	ses-1	-95	1	1	1	1	1	1	Pass
-sub-666666729	PNC	ses-1	-175			1	1	1	1	Pass
-sub-669437295	PNC	ses-1	-76	1	1				1	Pass
-sub-673480448	PNC	ses-1	-94	1	1				1	Pass
-sub-674306142	PNC	ses-1	-126	1	1				1	Pass
-sub-676758900	PNC	ses-1	-145	1	1				1	Pass
-sub-677581716	PNC	ses-1	-155	1			1		1	Pass
-sub-678139191	PNC	ses-1	-305	0.25	0.5				0.375	Artifact
-sub-680441334	PNC	ses-1	-195	1	1				1	Pass
-sub-681935372	PNC	ses-1	-126		1	1		1	1	Pass
-sub-688334597	PNC	ses-1	-129		1	1		1	1	Pass
-sub-696727241	PNC	ses-1	-103	1			1		1	Pass
-sub-698185794	PNC	ses-1	-134			1	1	1	1	Pass
-sub-699288066	PNC	ses-1	-133			1	1	1	1	Pass
-sub-699682516	PNC	ses-1	-136	1			1		1	Pass
-sub-70214854	PNC	ses-1	-79	1	1	1	1	1	1	Pass
-sub-706517651	PNC	ses-1	-130	1	1	1	1	1	1	Pass
-sub-707016535	PNC	ses-1	-129	1	1	1	1	1	1	Pass
-sub-708998859	PNC	ses-1	-71		1	1		1	1	Pass
-sub-713088600	PNC	ses-1	-115	1	1				1	Pass
-sub-714036765	PNC	ses-1	-116	1	1				1	Pass
-sub-716537879	PNC	ses-1	-153	1	1				1	Pass
-sub-71851847	PNC	ses-1	-99	1	1	1	1	1	1	Pass
-sub-718830447	PNC	ses-1	-154			1	1	1	1	Pass
-sub-725712542	PNC	ses-1	-93	1	1	1	1	1	1	Pass
-sub-725744795	PNC	ses-1	-73			1	1	1	1	Pass
-sub-731048453	PNC	ses-1	-140		1	1		1	1	Pass
-sub-733780371	PNC	ses-1	-275	1	1				1	Pass
-sub-734794291	PNC	ses-1	-99		1	1		1	1	Pass
-sub-736568905	PNC	ses-1	-141		1	1		1	1	Pass
-sub-741738961	PNC	ses-1	-193	1			1		1	Pass
-sub-746172812	PNC	ses-1	-127	1	1				1	Pass
-sub-746461855	PNC	ses-1	-52	1	1				1	Pass
-sub-747098283	PNC	ses-1	-307	0.75	0.5	0.5	0.5	0.5	0.55	Artifact
-sub-74920331	PNC	ses-1	-88		1	1		1	1	Pass
-sub-749654008	PNC	ses-1	-103			1	1	1	1	Pass
-sub-749926734	PNC	ses-1	-76			1	1	1	1	Pass
-sub-754064811	PNC	ses-1	-102	1	1				1	Pass
-sub-754671892	PNC	ses-1	-80	1			1		1	Pass
-sub-756380264	PNC	ses-1	-124	1	1				1	Pass
-sub-759622826	PNC	ses-1	-193			1	1	0.75	0.916666667	Artifact
-sub-762034957	PNC	ses-1	-134	1	1	1	1	1	1	Pass
-sub-764315034	PNC	ses-1	-173		1	1		1	1	Pass
-sub-765502775	PNC	ses-1	-128	1			1		1	Pass
-sub-765941980	PNC	ses-1	-112			1	1	1	1	Pass
-sub-766617571	PNC	ses-1	-136	1			1		1	Pass
-sub-768254884	PNC	ses-1	-123	1	1				1	Pass
-sub-771616981	PNC	ses-1	-428	1			0.75		0.875	Artifact
-sub-77390767	PNC	ses-1	-105	1	1				1	Pass
-sub-779151395	PNC	ses-1	-93	1	1				1	Pass
-sub-782547571	PNC	ses-1	-76		1	1		1	1	Pass
-sub-782651188	PNC	ses-1	-99	1			1		1	Pass
-sub-787911250	PNC	ses-1	-87		1	1		1	1	Pass
-sub-78982423	PNC	ses-1	-72		1	1		1	1	Pass
-sub-793702653	PNC	ses-1	-95	1	1				1	Pass
-sub-794058926	PNC	ses-1	-88	1	1				1	Pass
-sub-802748205	PNC	ses-1	-121	1	1				1	Pass
-sub-803514179	PNC	ses-1	-137	1	0.75				0.875	Artifact
-sub-808262395	PNC	ses-1	-200		1	0.75		0.5	0.75	Artifact
-sub-808687263	PNC	ses-1	-113		1	1		1	1	Pass
-sub-809074299	PNC	ses-1	-85	1	1				1	Pass
-sub-80982198	PNC	ses-1	-151	1			1		1	Pass
-sub-812909443	PNC	ses-1	-107	1	1				1	Pass
-sub-813520934	PNC	ses-1	-88	1	1				1	Pass
-sub-817266153	PNC	ses-1	-31	1	0.75	1	1	1	0.95	Artifact
-sub-818654763	PNC	ses-1	-88			1	1	1	1	Pass
-sub-823277717	PNC	ses-1	-271	1			1		1	Pass
-sub-826730657	PNC	ses-1	-161	1	1	1	1	1	1	Pass
-sub-826824711	PNC	ses-1	-69		1	1		1	1	Pass
-sub-82699044	PNC	ses-1	-91	1	1				1	Pass
-sub-831081379	PNC	ses-1	-210	1			1		1	Pass
-sub-831211165	PNC	ses-1	-133	1			1		1	Pass
-sub-834809108	PNC	ses-1	-53	1	1				1	Pass
-sub-835001493	PNC	ses-1	-129		1	1		1	1	Pass
-sub-835121147	PNC	ses-1	-69	1	1	1	1	1	1	Pass
-sub-84407714	PNC	ses-1	-104	1	1				1	Pass
-sub-8454119	PNC	ses-1	-145		1	1		1	1	Pass
-sub-845422206	PNC	ses-1	-89		1	1		1	1	Pass
-sub-850131294	PNC	ses-1	-54			1	1	1	1	Pass
-sub-851427152	PNC	ses-1	-178	1	1				1	Pass
-sub-856706691	PNC	ses-1	-97	1	1				1	Pass
-sub-858211894	PNC	ses-1	-74	1	1	1			1	Pass
-sub-860165209	PNC	ses-1	-95	1	1				1	Pass
-sub-860920010	PNC	ses-1	-121		1	1		1	1	Pass
-sub-861649027	PNC	ses-1	-92	1	1				1	Pass
-sub-86226939	PNC	ses-1	-138	1	1				1	Pass
-sub-863570233	PNC	ses-1	-101			1	1	1	1	Pass
-sub-864032752	PNC	ses-1	-233	1	1	1	1	1	1	Pass
-sub-865069950	PNC	ses-1	-115		1	1		1	1	Pass
-sub-865678636	PNC	ses-1	-89	1	1				1	Pass
-sub-867458668	PNC	ses-1	-91	1	1				1	Pass
-sub-868703738	PNC	ses-1	-114	1	1	1	1	1	1	Pass
-sub-872953625	PNC	ses-1	-217	1			1		1	Pass
-sub-876444031	PNC	ses-1	-73	1	1				1	Pass
-sub-880296671	PNC	ses-1	-160	1	1				1	Pass
-sub-881641391	PNC	ses-1	-74			1	1	1	1	Pass
-sub-890147203	PNC	ses-1	-126			1	1	1	1	Pass
-sub-893070403	PNC	ses-1	-129	1	1	1	1	1	1	Pass
-sub-894197507	PNC	ses-1	-85	1	1	1	1	1	1	Pass
-sub-894864165	PNC	ses-1	-95	1	1	1	1	1	1	Pass
-sub-898340201	PNC	ses-1	-100	1	1				1	Pass
-sub-902534154	PNC	ses-1	-101	1	1				1	Pass
-sub-903529086	PNC	ses-1	-293	1	1	1	1	1	1	Pass
-sub-905292781	PNC	ses-1	-117	1			1		1	Pass
-sub-906347615	PNC	ses-1	-128	1	1				1	Pass
-sub-906771173	PNC	ses-1	-288	0.5	0.5	0.25			0.416666667	Artifact
-sub-908607262	PNC	ses-1	-104		1	1		1	1	Pass
-sub-909152050	PNC	ses-1	-118	1	1				1	Pass
-sub-911677944	PNC	ses-1	-116	1	1	1	1	1	1	Pass
-sub-915599319	PNC	ses-1	-69		1	1		1	1	Pass
-sub-915920148	PNC	ses-1	-361	1			1		1	Pass
-sub-919679140	PNC	ses-1	-147		1	1		1	1	Pass
-sub-920823026	PNC	ses-1	-162		1	1		1	1	Pass
-sub-924632425	PNC	ses-1	-228			1	1	1	1	Pass
-sub-924815264	PNC	ses-1	-101	1			1		1	Pass
-sub-926616751	PNC	ses-1	-148	1			1		1	Pass
-sub-93800202	PNC	ses-1	-148	1	1				1	Pass
-sub-940718928	PNC	ses-1	-79			1	1	1	1	Pass
-sub-941151156	PNC	ses-1	-101		1	1		1	1	Pass
-sub-943724490	PNC	ses-1	-112	1	1				1	Pass
-sub-947782339	PNC	ses-1	-72	1	1				1	Pass
-sub-950661655	PNC	ses-1	-134		1	1		1	1	Pass
-sub-951581315	PNC	ses-1	-154	1	1				1	Pass
-sub-952845911	PNC	ses-1	-45			1	1	1	1	Pass
-sub-956032422	PNC	ses-1	-158			1	1	1	1	Pass
-sub-962036104	PNC	ses-1	-104	1	1				1	Pass
-sub-964422005	PNC	ses-1	-276	1	1	1	1	1	1	Pass
-sub-965145125	PNC	ses-1	-103		1	1		1	1	Pass
-sub-969649154	PNC	ses-1	-146	1	1				1	Pass
-sub-97005004	PNC	ses-1	-170	1	1				1	Pass
-sub-970890500	PNC	ses-1	-211	1			1		1	Pass
-sub-972336786	PNC	ses-1	-91			1	1	1	1	Pass
-sub-974108074	PNC	ses-1	-139			1	1	1	1	Pass
-sub-975856179	PNC	ses-1	-176	1			1		1	Pass
-sub-977404127	PNC	ses-1	-74		1	1		1	1	Pass
-sub-978316517	PNC	ses-1	-163	1			1		1	Pass
-sub-978838797	PNC	ses-1	-406	0.5	0	0			0.166666667	Artifact
-sub-978955855	PNC	ses-1	-239	1	1	1	1	1	1	Pass
-sub-981492397	PNC	ses-1	-96	1	1	1	1	1	1	Pass
-sub-982522394	PNC	ses-1	-122		1	1		1	1	Pass
-sub-983504031	PNC	ses-1	-85	1	1				1	Pass
-sub-984757368	PNC	ses-1	-238	1			1		1	Pass
-sub-985910486	PNC	ses-1	-123			1	1	1	1	Pass
-sub-986035435	PNC	ses-1	-123			1	1	1	1	Pass
-sub-987544292	PNC	ses-1	-101	1	1				1	Pass
-sub-993394555	PNC	ses-1	-76	1			1		1	Pass
-sub-997818717	PNC	ses-1	-89	1	1				1	Pass
+participant_id	study	session_id	euler	rater_1	rater_3	rater_4	rater_5	rater_6	across_rater_average	qc_determination
+1000393599	PNC	PNC-1	-172			1	1	1	1	Pass
+1000881804	PNC	PNC-1	-123	1	1	1	1	1	1	Pass
+1001970838	PNC	PNC-1	-63		1	1		1	1	Pass
+100527940	PNC	PNC-1	-317	1	1				1	Pass
+1006151876	PNC	PNC-1	-70	1	1	1	1	1	1	Pass
+1007995238	PNC	PNC-1	-73	1	1	1	1	1	1	Pass
+1011497669	PNC	PNC-1	-144	1	1				1	Pass
+1012530688	PNC	PNC-1	-993	0	0	0			0	Fail
+1017092387	PNC	PNC-1	-108	1	1	1	1	1	1	Pass
+1020132225	PNC	PNC-1	-100			1	1	1	1	Pass
+1023701836	PNC	PNC-1	-134			1	1	1	1	Pass
+1025031408	PNC	PNC-1	-134		1	1		1	1	Pass
+1027389114	PNC	PNC-1	-73			1	1	1	1	Pass
+1030193285	PNC	PNC-1	-95	1	1				1	Pass
+103652366	PNC	PNC-1	-154		1	1		1	1	Pass
+1037644062	PNC	PNC-1	-103			1	1	1	1	Pass
+1039797417	PNC	PNC-1	-482	0	0.25	0	0	0	0.05	Artifact
+1039936647	PNC	PNC-1	-123	1			1		1	Pass
+1043634177	PNC	PNC-1	-255	1	1	1	1	1	1	Pass
+1044438549	PNC	PNC-1	-147	1	1	1			1	Pass
+1046353426	PNC	PNC-1	-81			1	1	1	1	Pass
+1046399178	PNC	PNC-1	-139	1			1		1	Pass
+1048162151	PNC	PNC-1	-92			1	1	1	1	Pass
+1050116930	PNC	PNC-1	-98			1	1	1	1	Pass
+1057423710	PNC	PNC-1	-74	1	1	1	1	1	1	Pass
+105914514	PNC	PNC-1	-583	0.5	0.25	0.5			0.416666667	Artifact
+1060532313	PNC	PNC-1	-64	1	1				1	Pass
+1060668554	PNC	PNC-1	-124		1	1		1	1	Pass
+1065666069	PNC	PNC-1	-71	1	1	1	1	1	1	Pass
+1068261111	PNC	PNC-1	-50	1	1				1	Pass
+1070737504	PNC	PNC-1	-72	1	1				1	Pass
+107578676	PNC	PNC-1	-184	1			1		1	Pass
+1076565274	PNC	PNC-1	-138	1	1				1	Pass
+1081366850	PNC	PNC-1	-144		1	1		1	1	Pass
+1081730904	PNC	PNC-1	-109	1	1				1	Pass
+1084225445	PNC	PNC-1	-111	1	1				1	Pass
+1084860562	PNC	PNC-1	-115			1	1	1	1	Pass
+108828000	PNC	PNC-1	-92		1	1		1	1	Pass
+1088695522	PNC	PNC-1	-89	1	1				1	Pass
+1091857727	PNC	PNC-1	-104		1	1		1	1	Pass
+1094939473	PNC	PNC-1	-453	0.75			0.25		0.5	Artifact
+1095340536	PNC	PNC-1	-108	1	1	1	0.75	1	0.95	Artifact
+1097398405	PNC	PNC-1	-530		0.5	0.25		0	0.25	Artifact
+1101490424	PNC	PNC-1	-123		1	1		1	1	Pass
+1103118018	PNC	PNC-1	-63	1			1		1	Pass
+1105526680	PNC	PNC-1	-92	1			1		1	Pass
+1110356321	PNC	PNC-1	-128		1	1		1	1	Pass
+1111014310	PNC	PNC-1	-89			1	1	1	1	Pass
+1113295648	PNC	PNC-1	-139		1	1		1	1	Pass
+1114035056	PNC	PNC-1	-90			1	1	0.75	0.916666667	Artifact
+1120275692	PNC	PNC-1	-61	1	1				1	Pass
+1120459625	PNC	PNC-1	-61		1	1		1	1	Pass
+1120521402	PNC	PNC-1	-149	1	1	1	1	1	1	Pass
+1123556411	PNC	PNC-1	-123	1			1		1	Pass
+1125207511	PNC	PNC-1	-265	1			1		1	Pass
+113335479	PNC	PNC-1	-195		1	1		1	1	Pass
+1133357643	PNC	PNC-1	-206	1	1	1			1	Pass
+1134044888	PNC	PNC-1	-138			1	1	1	1	Pass
+1137076695	PNC	PNC-1	-108	1	1				1	Pass
+1137996270	PNC	PNC-1	-411			1	0.75	0.75	0.833333333	Artifact
+1139941451	PNC	PNC-1	-88		1	1		1	1	Pass
+11407866	PNC	PNC-1	-95	1			1		1	Pass
+1145936325	PNC	PNC-1	-184	1	0.75				0.875	Artifact
+1150278162	PNC	PNC-1	-67		1	1		1	1	Pass
+1150591062	PNC	PNC-1	-158	1			1		1	Pass
+1152449741	PNC	PNC-1	-56			1	1	1	1	Pass
+1156073272	PNC	PNC-1	-86			1	1	1	1	Pass
+1157233457	PNC	PNC-1	-83	1			1		1	Pass
+11574123	PNC	PNC-1	-91	1			1		1	Pass
+1157595916	PNC	PNC-1	-81			1	1	0.75	0.916666667	Artifact
+115784129	PNC	PNC-1	-137			1	1	0.75	0.916666667	Artifact
+1161329133	PNC	PNC-1	-161			1	1	1	1	Pass
+1161373229	PNC	PNC-1	-91	1	1	1	1	1	1	Pass
+1161831083	PNC	PNC-1	-250	1		0.5	0.75	0.5	0.6875	Artifact
+1162141764	PNC	PNC-1	-63	1			1		1	Pass
+1163553824	PNC	PNC-1	-93	1			1		1	Pass
+1164794273	PNC	PNC-1	-115	1	1	1	1	1	1	Pass
+1168021938	PNC	PNC-1	-84		1	1		1	1	Pass
+1169616649	PNC	PNC-1	-168	1	1				1	Pass
+1170788175	PNC	PNC-1	-90		1	1		1	1	Pass
+1172262944	PNC	PNC-1	-72	1	1	1	1	1	1	Pass
+1177503761	PNC	PNC-1	-79	1	1				1	Pass
+1184389633	PNC	PNC-1	-153		1	1		1	1	Pass
+1185574887	PNC	PNC-1	-95		1	1		1	1	Pass
+1190308761	PNC	PNC-1	-58	1	1	1	1	1	1	Pass
+119126177	PNC	PNC-1	-108	1			1		1	Pass
+1196527465	PNC	PNC-1	-111	1	1				1	Pass
+1197045954	PNC	PNC-1	-254	1	1				1	Pass
+1198356813	PNC	PNC-1	-114			1	1	1	1	Pass
+1200684014	PNC	PNC-1	-147	1			1		1	Pass
+1201047966	PNC	PNC-1	-72			1	1	1	1	Pass
+1204013299	PNC	PNC-1	-243	0.75	1	1	0.75	1	0.9	Artifact
+1204359507	PNC	PNC-1	-118	1	1				1	Pass
+1207361199	PNC	PNC-1	-135		1	1		1	1	Pass
+1214132906	PNC	PNC-1	-87	1			1		1	Pass
+1216701855	PNC	PNC-1	-132		1	1		1	1	Pass
+121697273	PNC	PNC-1	-99	1	1				1	Pass
+1217141098	PNC	PNC-1	-72	1			1		1	Pass
+1220374725	PNC	PNC-1	-97	1	1				1	Pass
+1221640483	PNC	PNC-1	-62			1	1	1	1	Pass
+1222330281	PNC	PNC-1	-109	1	1	1	1	1	1	Pass
+1222568744	PNC	PNC-1	-111			1	1	1	1	Pass
+1228855311	PNC	PNC-1	-115			1	1	1	1	Pass
+1228891697	PNC	PNC-1	-92	1	1				1	Pass
+1235977088	PNC	PNC-1	-150	1			1		1	Pass
+1236117854	PNC	PNC-1	-186	1	1	1	1	1	1	Pass
+1238240598	PNC	PNC-1	-88	1	1	1	1	1	1	Pass
+1238756309	PNC	PNC-1	-61	1	1	1	1	1	1	Pass
+1240942354	PNC	PNC-1	-69			1	1	1	1	Pass
+1248515966	PNC	PNC-1	-103	1	1	1	1	1	1	Pass
+1250648840	PNC	PNC-1	-100			1	1	1	1	Pass
+1254730664	PNC	PNC-1	-232	1			1		1	Pass
+1279886614	PNC	PNC-1	-118	1			1		1	Pass
+1280157702	PNC	PNC-1	-149			1	1	1	1	Pass
+1293529777	PNC	PNC-1	-165	1	1				1	Pass
+1296243384	PNC	PNC-1	-77		1	1		1	1	Pass
+1299596535	PNC	PNC-1	-85		1	1		1	1	Pass
+1299713973	PNC	PNC-1	-127			1	1	1	1	Pass
+130118047	PNC	PNC-1	-100		1	1		1	1	Pass
+1303822344	PNC	PNC-1	-145		1	1		1	1	Pass
+1303893979	PNC	PNC-1	-184			1	1	0.25	0.75	Artifact
+1304389731	PNC	PNC-1	-155	1			1		1	Pass
+1307181116	PNC	PNC-1	-71		1	1		1	1	Pass
+1308201745	PNC	PNC-1	-203			1	1	0.75	0.916666667	Artifact
+1310206420	PNC	PNC-1	-376			1	0.75	0.25	0.666666667	Artifact
+1310346718	PNC	PNC-1	-120		1	1		1	1	Pass
+1313957126	PNC	PNC-1	-76	1			1		1	Pass
+131655018	PNC	PNC-1	-111		1	1		1	1	Pass
+1317462	PNC	PNC-1	-64	1	1				1	Pass
+1332795634	PNC	PNC-1	-131	1	1	1	1	1	1	Pass
+1334116930	PNC	PNC-1	-71	1	1				1	Pass
+1336976954	PNC	PNC-1	-98			1	1	1	1	Pass
+1337936015	PNC	PNC-1	-109		1	1		1	1	Pass
+1340072536	PNC	PNC-1	-153		1	1		1	1	Pass
+1342685465	PNC	PNC-1	-73	1	1				1	Pass
+134279804	PNC	PNC-1	-92	1	1	1	1	1	1	Pass
+1344101127	PNC	PNC-1	-65		1	1		1	1	Pass
+1346910582	PNC	PNC-1	-154		1	1		1	1	Pass
+1348459455	PNC	PNC-1	-116		1	1		1	1	Pass
+1351409340	PNC	PNC-1	-148	1	1	1	1	1	1	Pass
+1357417369	PNC	PNC-1	-87		1	1		1	1	Pass
+1365145510	PNC	PNC-1	-128	1		1	1	1	1	Pass
+1378634377	PNC	PNC-1	-126		1	1		1	1	Pass
+1380078917	PNC	PNC-1	-51			1	1	1	1	Pass
+1381671196	PNC	PNC-1	-98		1	1		1	1	Pass
+1382465428	PNC	PNC-1	-90	1	1				1	Pass
+138434806	PNC	PNC-1	-153	1	1				1	Pass
+1384982728	PNC	PNC-1	-120	1	1				1	Pass
+1386561348	PNC	PNC-1	-127	1	1				1	Pass
+1391684772	PNC	PNC-1	-212	1	1	1	1	1	1	Pass
+1393778620	PNC	PNC-1	-161			1	1	1	1	Pass
+1394077291	PNC	PNC-1	-140	1	1				1	Pass
+1400509715	PNC	PNC-1	-189	1	1	1	1	1	1	Pass
+1402618672	PNC	PNC-1	-242	1	1				1	Pass
+1403873511	PNC	PNC-1	-97			1	1	1	1	Pass
+1410948099	PNC	PNC-1	-110	1	1	1			1	Pass
+1412450749	PNC	PNC-1	-90			1	1	1	1	Pass
+1413282375	PNC	PNC-1	-172	1	0.5	0.25	0.75	0.25	0.55	Artifact
+1417920839	PNC	PNC-1	-76		1	1		1	1	Pass
+1433666289	PNC	PNC-1	-300		0.75	1		0.75	0.833333333	Artifact
+1437821247	PNC	PNC-1	-101	1			1		1	Pass
+1438348583	PNC	PNC-1	-130	1			1		1	Pass
+1440643572	PNC	PNC-1	-139	1			1		1	Pass
+1440768299	PNC	PNC-1	-53	1	1	1	1	1	1	Pass
+1446259968	PNC	PNC-1	-107			1	1	1	1	Pass
+1446589628	PNC	PNC-1	-196	1	1	1	1	1	1	Pass
+1447464089	PNC	PNC-1	-73		1	1		1	1	Pass
+1448081953	PNC	PNC-1	-68	1	1	1	1	1	1	Pass
+1448457386	PNC	PNC-1	-182		1	1		1	1	Pass
+1452555764	PNC	PNC-1	-80	1			1		1	Pass
+1453109530	PNC	PNC-1	-119	1	1				1	Pass
+1453143940	PNC	PNC-1	-159		1	1		1	1	Pass
+1457648056	PNC	PNC-1	-56			1	1	1	1	Pass
+1457842729	PNC	PNC-1	-201	1			1		1	Pass
+1459501611	PNC	PNC-1	-107			1	1	1	1	Pass
+1466472141	PNC	PNC-1	-78	1	1				1	Pass
+1467419170	PNC	PNC-1	-78	1	1	1			1	Pass
+1467713509	PNC	PNC-1	-112	1	1				1	Pass
+1469221931	PNC	PNC-1	-191			1	1	1	1	Pass
+1471046861	PNC	PNC-1	-149	1	1	1			1	Pass
+1472207263	PNC	PNC-1	-93	1			1		1	Pass
+1476023122	PNC	PNC-1	-54	1			1		1	Pass
+1477683629	PNC	PNC-1	-183	1			1		1	Pass
+1479578650	PNC	PNC-1	-71	1	1				1	Pass
+1481550494	PNC	PNC-1	-65	1	1				1	Pass
+1483500237	PNC	PNC-1	-96			1	1	1	1	Pass
+1484543503	PNC	PNC-1	-91		1	1		1	1	Pass
+1485100276	PNC	PNC-1	-139	1	1	1	1	1	1	Pass
+1485727346	PNC	PNC-1	-88	1	1				1	Pass
+1489422464	PNC	PNC-1	-146	1	1	1	1	1	1	Pass
+1492693407	PNC	PNC-1	-136			1	1	1	1	Pass
+1494969836	PNC	PNC-1	-68	1	1				1	Pass
+1496827612	PNC	PNC-1	-85		1	1		1	1	Pass
+1497934968	PNC	PNC-1	-138	1	1				1	Pass
+1498873540	PNC	PNC-1	-67			1	1	1	1	Pass
+1502224855	PNC	PNC-1	-777	0	0				0	Fail
+1506379233	PNC	PNC-1	-84			1	1	1	1	Pass
+1506723543	PNC	PNC-1	-100	1	1				1	Pass
+1510691965	PNC	PNC-1	-117	0.75	1	1	0.75	1	0.9	Artifact
+1511417686	PNC	PNC-1	-103	1	1	1			1	Pass
+1512248949	PNC	PNC-1	-70	1			1		1	Pass
+1512440794	PNC	PNC-1	-156	1	1	1	1	1	1	Pass
+1512563087	PNC	PNC-1	-149	1	1	1	1	1	1	Pass
+1513736265	PNC	PNC-1	-106	1	1				1	Pass
+1513930399	PNC	PNC-1	-154			1	1	1	1	Pass
+1516788178	PNC	PNC-1	-84	1			1		1	Pass
+1521763392	PNC	PNC-1	-82	1			1		1	Pass
+1525589082	PNC	PNC-1	-230	1	1				1	Pass
+1526154632	PNC	PNC-1	-40		1	1		1	1	Pass
+1531348005	PNC	PNC-1	-822	0	0	0.25	0.25	0	0.1	Artifact
+1531930180	PNC	PNC-1	-80			1	1	1	1	Pass
+1533767893	PNC	PNC-1	-129			1	1	0.75	0.916666667	Artifact
+1536441148	PNC	PNC-1	-108	1			1		1	Pass
+1545837513	PNC	PNC-1	-122			1	1	1	1	Pass
+154667058	PNC	PNC-1	-162	1			1		1	Pass
+1547173705	PNC	PNC-1	-143	1			1		1	Pass
+1547321683	PNC	PNC-1	-183	1	1				1	Pass
+1547584703	PNC	PNC-1	-81	1	1	1	1	1	1	Pass
+1560233178	PNC	PNC-1	-152	1	1	1	1	1	1	Pass
+1560828340	PNC	PNC-1	-91	1			1		1	Pass
+1564801354	PNC	PNC-1	-198			1	1	1	1	Pass
+1566869901	PNC	PNC-1	-82	1			1		1	Pass
+1569318720	PNC	PNC-1	-101	1	1	1	1	1	1	Pass
+1569761975	PNC	PNC-1	-113	1	1				1	Pass
+1570413707	PNC	PNC-1	-59	1			1		1	Pass
+1572161461	PNC	PNC-1	-81		1	1		1	1	Pass
+1579351358	PNC	PNC-1	-118	1	1	1	1	1	1	Pass
+1580563603	PNC	PNC-1	-143	1	1				1	Pass
+1584150953	PNC	PNC-1	-103	1			1		1	Pass
+1585331466	PNC	PNC-1	-111	1	1				1	Pass
+1586254402	PNC	PNC-1	-107		1	1		1	1	Pass
+158779019	PNC	PNC-1	-77	1	1				1	Pass
+1590131354	PNC	PNC-1	-47		1	1		1	1	Pass
+1592697722	PNC	PNC-1	-142	1			1		1	Pass
+1592786106	PNC	PNC-1	-192	1			1		1	Pass
+1593612444	PNC	PNC-1	-151	1	1				1	Pass
+1594198178	PNC	PNC-1	-73	1	1	1	1	1	1	Pass
+1602583606	PNC	PNC-1	-141		1	1		1	1	Pass
+1604003015	PNC	PNC-1	-111	1			1		1	Pass
+1604268733	PNC	PNC-1	-115	1			1		1	Pass
+1605617010	PNC	PNC-1	-97		1	1		1	1	Pass
+1607063270	PNC	PNC-1	-150			1	1	1	1	Pass
+1607889954	PNC	PNC-1	-62	1			1		1	Pass
+1612290284	PNC	PNC-1	-108	1	1	1	1	1	1	Pass
+1613166374	PNC	PNC-1	-140	1	1	1	1	1	1	Pass
+1614363829	PNC	PNC-1	-122	1			1		1	Pass
+1615516059	PNC	PNC-1	-49			1	1	1	1	Pass
+1616242378	PNC	PNC-1	-123	1	1				1	Pass
+1620557808	PNC	PNC-1	-128			1	1	1	1	Pass
+1621617031	PNC	PNC-1	-213		1	1		1	1	Pass
+162526644	PNC	PNC-1	-143			1	1	1	1	Pass
+1630775946	PNC	PNC-1	-125	1	1	1	1	1	1	Pass
+1630871538	PNC	PNC-1	-163	1	1				1	Pass
+1631350938	PNC	PNC-1	-88			1	1	1	1	Pass
+163259093	PNC	PNC-1	-57		1	1		1	1	Pass
+1636295669	PNC	PNC-1	-139		1	1		1	1	Pass
+1636587618	PNC	PNC-1	-190			1	1	1	1	Pass
+1637723952	PNC	PNC-1	-114		1	1		1	1	Pass
+1638126951	PNC	PNC-1	-76			1	1	1	1	Pass
+1638715823	PNC	PNC-1	-174	1			1		1	Pass
+1643083161	PNC	PNC-1	-83		1	1		1	1	Pass
+1643725238	PNC	PNC-1	-58		1	1		1	1	Pass
+1645871327	PNC	PNC-1	-74	1	1				1	Pass
+1648798153	PNC	PNC-1	-241	1			1		1	Pass
+1649501759	PNC	PNC-1	-361	1	0.75				0.875	Artifact
+1651940244	PNC	PNC-1	-179	1	1	1			1	Pass
+1653206368	PNC	PNC-1	-113	1	1	1	1	1	1	Pass
+1654119012	PNC	PNC-1	-104	1	1	1	1	1	1	Pass
+1654508502	PNC	PNC-1	-25	1	0.75	1	0.75	1	0.9	Artifact
+1654523276	PNC	PNC-1	-119	1	1	1	1	1	1	Pass
+1656931768	PNC	PNC-1	-290	1			1		1	Pass
+1660839245	PNC	PNC-1	-211	1	1				1	Pass
+16684978	PNC	PNC-1	-95		1	1		1	1	Pass
+1671345251	PNC	PNC-1	-76		1	1		1	1	Pass
+1673549883	PNC	PNC-1	-164	1			1		1	Pass
+1678076849	PNC	PNC-1	-307		0.5	0.75		0.75	0.666666667	Artifact
+1679688116	PNC	PNC-1	-58	1			1		1	Pass
+1682850665	PNC	PNC-1	-153		1	1		1	1	Pass
+1686389288	PNC	PNC-1	-62		1	1		1	1	Pass
+1687224870	PNC	PNC-1	-165	1			1		1	Pass
+1687315516	PNC	PNC-1	-239	1	1				1	Pass
+1695950181	PNC	PNC-1	-98	1	1	1	1	1	1	Pass
+1696518862	PNC	PNC-1	-57			1	1	1	1	Pass
+1697787695	PNC	PNC-1	-119	1	1	1	1	1	1	Pass
+1697816442	PNC	PNC-1	-102		1	1		1	1	Pass
+1705895007	PNC	PNC-1	-85	1	1				1	Pass
+1708583305	PNC	PNC-1	-101	1			1		1	Pass
+1710493410	PNC	PNC-1	-75			1	1	1	1	Pass
+1711930631	PNC	PNC-1	-62	1	1	1	1	1	1	Pass
+1724567179	PNC	PNC-1	-77		1	1		1	1	Pass
+1730231179	PNC	PNC-1	-101	1	1				1	Pass
+1730541924	PNC	PNC-1	-166	1			1		1	Pass
+1735315447	PNC	PNC-1	-214	1	1				1	Pass
+1735338986	PNC	PNC-1	-57	1			1		1	Pass
+1736791488	PNC	PNC-1	-227		0.75	1		1	0.916666667	Artifact
+1738235220	PNC	PNC-1	-183		1	1		0.75	0.916666667	Artifact
+1742732745	PNC	PNC-1	-288		0.75	1		0.5	0.75	Artifact
+1743802575	PNC	PNC-1	-114	1	1	1	1	1	1	Pass
+1744430207	PNC	PNC-1	-110	1			1		1	Pass
+1748232481	PNC	PNC-1	-102			1	1	1	1	Pass
+1752698697	PNC	PNC-1	-109		1	1		1	1	Pass
+1753282419	PNC	PNC-1	-111			1	1	1	1	Pass
+176129790	PNC	PNC-1	-93	1	1	1	1	1	1	Pass
+1761473096	PNC	PNC-1	-127		1	1		1	1	Pass
+1761492502	PNC	PNC-1	-80		1	1		1	1	Pass
+1762027912	PNC	PNC-1	-54		1	1		1	1	Pass
+1762102677	PNC	PNC-1	-153	1	1	1	1	1	1	Pass
+1764158413	PNC	PNC-1	-104	1	1	1	1	1	1	Pass
+1767985023	PNC	PNC-1	-206	1			1		1	Pass
+1770415263	PNC	PNC-1	-99	1	1	1	1	1	1	Pass
+1773584299	PNC	PNC-1	-161	1	1				1	Pass
+1778227059	PNC	PNC-1	-143	1	1				1	Pass
+1779232530	PNC	PNC-1	-183	1	1	1	1	1	1	Pass
+177928631	PNC	PNC-1	-111	1	1				1	Pass
+1779531630	PNC	PNC-1	-251			1	1	1	1	Pass
+1781205887	PNC	PNC-1	-115	1	1	1	1	1	1	Pass
+1781775187	PNC	PNC-1	-109	1	1				1	Pass
+1782265789	PNC	PNC-1	-114	1	1				1	Pass
+1785444398	PNC	PNC-1	-70	1	1				1	Pass
+1786222403	PNC	PNC-1	-155	1	1				1	Pass
+1786758517	PNC	PNC-1	-164	1			1		1	Pass
+1786969075	PNC	PNC-1	-165		1	1		1	1	Pass
+1789695979	PNC	PNC-1	-107		1	1		1	1	Pass
+1790488894	PNC	PNC-1	-96	1	1	1	1	1	1	Pass
+1794346030	PNC	PNC-1	-118	1	1	1	1	1	1	Pass
+1794800030	PNC	PNC-1	-140	0.5	1				0.75	Artifact
+1795409854	PNC	PNC-1	-146	1			1		1	Pass
+1799875502	PNC	PNC-1	-99	1			1		1	Pass
+1804076739	PNC	PNC-1	-93		1	1		1	1	Pass
+1804310687	PNC	PNC-1	-104	1	1				1	Pass
+1812622069	PNC	PNC-1	-141	1			1		1	Pass
+1814037649	PNC	PNC-1	-86	1	1				1	Pass
+1818459775	PNC	PNC-1	-102			1	1	1	1	Pass
+1819013777	PNC	PNC-1	-107			1	1	1	1	Pass
+1819473619	PNC	PNC-1	-95			1	1	1	1	Pass
+182017409	PNC	PNC-1	-180	1			1		1	Pass
+1822850038	PNC	PNC-1	-97	1	1	1	1	1	1	Pass
+1823231434	PNC	PNC-1	-72			1	1	1	1	Pass
+1826680116	PNC	PNC-1	-121			1	1	1	1	Pass
+1827965364	PNC	PNC-1	-99		1	1		1	1	Pass
+1828951258	PNC	PNC-1	-78	1	1				1	Pass
+1829191843	PNC	PNC-1	-156		1	1		1	1	Pass
+1829488364	PNC	PNC-1	-88			1	1	1	1	Pass
+1830789740	PNC	PNC-1	-63	1	1	1	1	1	1	Pass
+1832999514	PNC	PNC-1	-75	1	1	1	1	1	1	Pass
+1833416906	PNC	PNC-1	-83		1	1		1	1	Pass
+1836756700	PNC	PNC-1	-92	1	1	1	1	1	1	Pass
+1838048191	PNC	PNC-1	-115	1	1	1	1	1	1	Pass
+1838464457	PNC	PNC-1	-79	1			1		1	Pass
+1841154314	PNC	PNC-1	-105	1			1		1	Pass
+1852239521	PNC	PNC-1	-182			1	1	1	1	Pass
+1852377689	PNC	PNC-1	-77	1	1	1	1	1	1	Pass
+1854364375	PNC	PNC-1	-65			1	1	1	1	Pass
+1857834970	PNC	PNC-1	-204	1	1	1	1	1	1	Pass
+1858784998	PNC	PNC-1	-80	1	1				1	Pass
+1859900144	PNC	PNC-1	-111	1	1	1	1	1	1	Pass
+1860819350	PNC	PNC-1	-110		1	1		1	1	Pass
+1860870575	PNC	PNC-1	-63	1			1		1	Pass
+1861299663	PNC	PNC-1	-188	1	0.5	0.75	0.75	0.5	0.7	Artifact
+1861767482	PNC	PNC-1	-45	1	1				1	Pass
+1867827374	PNC	PNC-1	-99			1	1	1	1	Pass
+1870893305	PNC	PNC-1	-61			1	1	1	1	Pass
+1871767977	PNC	PNC-1	-86	1	1	1	1	1	1	Pass
+1873729948	PNC	PNC-1	-102	1			1		1	Pass
+1876155559	PNC	PNC-1	-118	1			1		1	Pass
+1877783147	PNC	PNC-1	-81		1	1		1	1	Pass
+1885577882	PNC	PNC-1	-218	0.5	0.75				0.625	Artifact
+1887252222	PNC	PNC-1	-136	1	1				1	Pass
+1887390452	PNC	PNC-1	-88	1			1		1	Pass
+1890822437	PNC	PNC-1	-157	1	1				1	Pass
+1892704317	PNC	PNC-1	-121	1			1		1	Pass
+1896354997	PNC	PNC-1	-95	1	1				1	Pass
+189913356	PNC	PNC-1	-591	0.25	0.5	0.5	0.5	0	0.35	Artifact
+190100766	PNC	PNC-1	-89	1	1				1	Pass
+1901159589	PNC	PNC-1	-155	1	1	1	1	1	1	Pass
+1901910719	PNC	PNC-1	-95		1	1		1	1	Pass
+1904270196	PNC	PNC-1	-130	1	1				1	Pass
+1904603550	PNC	PNC-1	-450			0.5	1	0	0.5	Artifact
+1905979097	PNC	PNC-1	-66			1	1	1	1	Pass
+1908390739	PNC	PNC-1	-103	1	1				1	Pass
+1908959165	PNC	PNC-1	-100		1	1		1	1	Pass
+1910420386	PNC	PNC-1	-112			1	1	1	1	Pass
+1915723430	PNC	PNC-1	-90	1	1				1	Pass
+1915807892	PNC	PNC-1	-91	1			1		1	Pass
+1919055552	PNC	PNC-1	-130	1	1	1	1	1	1	Pass
+192039987	PNC	PNC-1	-602			0	0	0	0	Fail
+1922557027	PNC	PNC-1	-219	1	1	1	1	1	1	Pass
+192271174	PNC	PNC-1	-131		1	1		1	1	Pass
+1924109233	PNC	PNC-1	-67		1	1		1	1	Pass
+192413932	PNC	PNC-1	-126			1	1	1	1	Pass
+1924149526	PNC	PNC-1	-142		1	1		1	1	Pass
+1924569075	PNC	PNC-1	-146	1	1	1	1	1	1	Pass
+1929155048	PNC	PNC-1	-69	1	1	1			1	Pass
+1930702369	PNC	PNC-1	-97	1	1	1	1	1	1	Pass
+1934623281	PNC	PNC-1	-134	1	1	1	1	0.75	0.95	Artifact
+1939119029	PNC	PNC-1	-100	1	1	1	1	1	1	Pass
+1942822174	PNC	PNC-1	-183			1	1	1	1	Pass
+194293030	PNC	PNC-1	-153	1			1		1	Pass
+1942988748	PNC	PNC-1	-127	1			1		1	Pass
+194324018	PNC	PNC-1	-73	1			1		1	Pass
+1944147637	PNC	PNC-1	-106	1			1		1	Pass
+195168692	PNC	PNC-1	-197		1	1		1	1	Pass
+1960268000	PNC	PNC-1	-107	1			1		1	Pass
+1963601913	PNC	PNC-1	-123		1	1		1	1	Pass
+1965701522	PNC	PNC-1	-243		1	1		1	1	Pass
+1968175551	PNC	PNC-1	-128	1	1	1	1	1	1	Pass
+1977306864	PNC	PNC-1	-188	1	1				1	Pass
+198051119	PNC	PNC-1	-40	1	1	1	1	1	1	Pass
+1989985299	PNC	PNC-1	-87			1	1	1	1	Pass
+1991567562	PNC	PNC-1	-114	1	1				1	Pass
+1991951207	PNC	PNC-1	-95			1	1	1	1	Pass
+1992060521	PNC	PNC-1	-134	1			1		1	Pass
+199547104	PNC	PNC-1	-80	1	1	1	1	1	1	Pass
+1996891106	PNC	PNC-1	-596		0	0		0	0	Fail
+1997401992	PNC	PNC-1	-170	1			1		1	Pass
+199809850	PNC	PNC-1	-101	1			1		1	Pass
+1998578790	PNC	PNC-1	-89	1	1	1	1	1	1	Pass
+2000585278	PNC	PNC-1	-75	1			1		1	Pass
+200066829	PNC	PNC-1	-102	1			1		1	Pass
+2001714085	PNC	PNC-1	-164	1	1	1	1	1	1	Pass
+2002122030	PNC	PNC-1	-173	1	1	1	1	1	1	Pass
+2010454025	PNC	PNC-1	-150	1	1	1	1	1	1	Pass
+2017344284	PNC	PNC-1	-191	0.75	1	1	1	1	0.95	Artifact
+2017765808	PNC	PNC-1	-160		1	1		1	1	Pass
+2022868892	PNC	PNC-1	-154	1	1				1	Pass
+2023285198	PNC	PNC-1	-140			1	1	1	1	Pass
+2026754591	PNC	PNC-1	-102			1	1	1	1	Pass
+2033463791	PNC	PNC-1	-98	1	1				1	Pass
+2037552598	PNC	PNC-1	-139		1	1		1	1	Pass
+2038321583	PNC	PNC-1	-311			1	0.75	0.5	0.75	Artifact
+2041229468	PNC	PNC-1	-65		1	1		1	1	Pass
+2047559103	PNC	PNC-1	-56	1	1	1	1	1	1	Pass
+2047595784	PNC	PNC-1	-96	1	1				1	Pass
+2048917421	PNC	PNC-1	-88		1	1		1	1	Pass
+2051099070	PNC	PNC-1	-112	0.75	0.75	1	1	0.75	0.85	Artifact
+2057058534	PNC	PNC-1	-73	1	1	1	1	1	1	Pass
+2058693392	PNC	PNC-1	-120			1	1	1	1	Pass
+2060298621	PNC	PNC-1	-71	1	1	1	1	1	1	Pass
+2066354189	PNC	PNC-1	-156	1			1		1	Pass
+2070099435	PNC	PNC-1	-128	1	1				1	Pass
+2070724014	PNC	PNC-1	-109	1			1		1	Pass
+2074348568	PNC	PNC-1	-282	1	1				1	Pass
+2074860152	PNC	PNC-1	-66	1			1		1	Pass
+2085520575	PNC	PNC-1	-114			1	1	1	1	Pass
+2087996196	PNC	PNC-1	-159	1	1	1	1	1	1	Pass
+2093758775	PNC	PNC-1	-98	1			1		1	Pass
+2097242394	PNC	PNC-1	-96	1	1	1	1	1	1	Pass
+2100052286	PNC	PNC-1	-74		1	1		1	1	Pass
+2103228157	PNC	PNC-1	-169			1	1	1	1	Pass
+210534092	PNC	PNC-1	-86	1			1		1	Pass
+2105801105	PNC	PNC-1	-91			1	1	0.75	0.916666667	Artifact
+2108841974	PNC	PNC-1	-129	1			1		1	Pass
+2108937486	PNC	PNC-1	-97	1	1	1	1	1	1	Pass
+2110496117	PNC	PNC-1	-83	1	1	1	1	1	1	Pass
+211169351	PNC	PNC-1	-94	1			1		1	Pass
+2112119995	PNC	PNC-1	-151			1	0.75	0.5	0.75	Artifact
+2112189288	PNC	PNC-1	-240			1	1	1	1	Pass
+2112415953	PNC	PNC-1	-73		1	1		1	1	Pass
+2117857991	PNC	PNC-1	-446		0.5	1		0.5	0.666666667	Artifact
+2129564650	PNC	PNC-1	-130		1	1		1	1	Pass
+2131488178	PNC	PNC-1	-130			1	1	1	1	Pass
+2133389205	PNC	PNC-1	-109			1	1	1	1	Pass
+2134697000	PNC	PNC-1	-79		1	1		1	1	Pass
+2139026534	PNC	PNC-1	-87	1			1		1	Pass
+2146308400	PNC	PNC-1	-131	1	1				1	Pass
+2148378283	PNC	PNC-1	-112	1			1		1	Pass
+2151592349	PNC	PNC-1	-146			1	1	1	1	Pass
+2152052186	PNC	PNC-1	-315	1			1		1	Pass
+2154725318	PNC	PNC-1	-92			1	1	1	1	Pass
+2161418201	PNC	PNC-1	-106		1	1		1	1	Pass
+2165388202	PNC	PNC-1	-126	1			1		1	Pass
+2166835733	PNC	PNC-1	-153			1	1	1	1	Pass
+2167615125	PNC	PNC-1	-200			1	1	1	1	Pass
+2170759229	PNC	PNC-1	-77	1	1				1	Pass
+2170880573	PNC	PNC-1	-138	1			1		1	Pass
+2171168019	PNC	PNC-1	-68	0.75			1		0.875	Artifact
+2171240541	PNC	PNC-1	-46	1	1	1	1	1	1	Pass
+2172281415	PNC	PNC-1	-69	1			1		1	Pass
+2175309663	PNC	PNC-1	-175	1	1				1	Pass
+2175676858	PNC	PNC-1	-120			1	1	1	1	Pass
+2179545776	PNC	PNC-1	-189	1	1	0.75			0.916666667	Artifact
+2180081033	PNC	PNC-1	-78		1	1		1	1	Pass
+2180316189	PNC	PNC-1	-145	1	1				1	Pass
+2180688285	PNC	PNC-1	-255			1	1	0.25	0.75	Artifact
+2180799847	PNC	PNC-1	-214	1	1	1	1	1	1	Pass
+2180976537	PNC	PNC-1	-87	1	1				1	Pass
+2182362214	PNC	PNC-1	-82	1	1				1	Pass
+2184988827	PNC	PNC-1	-74	1	1				1	Pass
+2192302358	PNC	PNC-1	-85	1			1		1	Pass
+2194652555	PNC	PNC-1	-130			1	1	1	1	Pass
+2200266312	PNC	PNC-1	-97			1	1	1	1	Pass
+2200670875	PNC	PNC-1	-111	1	1				1	Pass
+2202346713	PNC	PNC-1	-77			1	1	1	1	Pass
+2207352563	PNC	PNC-1	-534	0.25			1		0.625	Artifact
+2209414761	PNC	PNC-1	-401	0.5	0.25	0.5	0.5	0	0.35	Artifact
+2215153516	PNC	PNC-1	-84	1	1	1	1	1	1	Pass
+2216595430	PNC	PNC-1	-136	1	1	1	1	1	1	Pass
+221853583	PNC	PNC-1	-93			1	1	1	1	Pass
+2222241318	PNC	PNC-1	-67	1	1				1	Pass
+2225237681	PNC	PNC-1	-79	1	1	1	1	1	1	Pass
+2231031108	PNC	PNC-1	-126	1			1		1	Pass
+2235019065	PNC	PNC-1	-76		1	1		1	1	Pass
+2239217267	PNC	PNC-1	-125			1	1	1	1	Pass
+2240499373	PNC	PNC-1	-112	1	1				1	Pass
+2240703148	PNC	PNC-1	-95	1	1	1	1	1	1	Pass
+2242628840	PNC	PNC-1	-210		1	1		1	1	Pass
+2247752771	PNC	PNC-1	-236		1	1		1	1	Pass
+2248403809	PNC	PNC-1	-232			1	1	1	1	Pass
+2249335715	PNC	PNC-1	-93			1	1	0.75	0.916666667	Artifact
+225017631	PNC	PNC-1	-142	1	1	1	1	1	1	Pass
+2253200176	PNC	PNC-1	-94		1	1		1	1	Pass
+2254317902	PNC	PNC-1	-72			1	1	0.75	0.916666667	Artifact
+2256834144	PNC	PNC-1	-52	1	1	1	1	1	1	Pass
+2258551019	PNC	PNC-1	-456	0	0.25				0.125	Artifact
+2259039644	PNC	PNC-1	-164			1	1	0.75	0.916666667	Artifact
+2262929710	PNC	PNC-1	-160	1			1		1	Pass
+2263443077	PNC	PNC-1	-110	1	1				1	Pass
+2269734277	PNC	PNC-1	-269		1	1		1	1	Pass
+2271737742	PNC	PNC-1	-67	1	1	1	1	1	1	Pass
+2272230240	PNC	PNC-1	-82			1	1	1	1	Pass
+2280234873	PNC	PNC-1	-72		1	1		1	1	Pass
+2285120424	PNC	PNC-1	-90	1	1	1	1	1	1	Pass
+228519096	PNC	PNC-1	-332	0.75	1				0.875	Artifact
+2286509730	PNC	PNC-1	-393	0.75	0.5				0.625	Artifact
+2289849916	PNC	PNC-1	-62			1	1	1	1	Pass
+2292204095	PNC	PNC-1	-48	1	1				1	Pass
+2293300734	PNC	PNC-1	-127	1	1	1	1	1	1	Pass
+2295699564	PNC	PNC-1	-52			1	1	1	1	Pass
+2298674157	PNC	PNC-1	-109	1	1	1	1	1	1	Pass
+2299321259	PNC	PNC-1	-118		1	1		1	1	Pass
+2305221381	PNC	PNC-1	-67	1	1	1	1	1	1	Pass
+2305446143	PNC	PNC-1	-98	1	1				1	Pass
+2308648032	PNC	PNC-1	-98			1	1	1	1	Pass
+2311595124	PNC	PNC-1	-131	1			1		1	Pass
+2311827557	PNC	PNC-1	-120	1	1	1	1	1	1	Pass
+2312088658	PNC	PNC-1	-76	1	1				1	Pass
+2318003050	PNC	PNC-1	-124			1	1	1	1	Pass
+2318786012	PNC	PNC-1	-112			1	1	1	1	Pass
+2319274290	PNC	PNC-1	-137			1	1	1	1	Pass
+2319442352	PNC	PNC-1	-108			1	1	1	1	Pass
+2319858717	PNC	PNC-1	-185			1	1	1	1	Pass
+2321665294	PNC	PNC-1	-164	1	0.5	0.75	0.5	1	0.75	Artifact
+2322119606	PNC	PNC-1	-113	1			1		1	Pass
+2323472643	PNC	PNC-1	-127			1	1	1	1	Pass
+232853819	PNC	PNC-1	-67		1	1		1	1	Pass
+233205461	PNC	PNC-1	-102		1	1		1	1	Pass
+2333477346	PNC	PNC-1	-99	1	1	1	1	1	1	Pass
+2333531511	PNC	PNC-1	-91			1	1	1	1	Pass
+2333670705	PNC	PNC-1	-119			1	1	1	1	Pass
+2333937949	PNC	PNC-1	-152	1	1				1	Pass
+2336714673	PNC	PNC-1	-198	1			1		1	Pass
+2338019591	PNC	PNC-1	-57	1	1				1	Pass
+233932345	PNC	PNC-1	-166	1	1				1	Pass
+2340561949	PNC	PNC-1	-89			1	1	1	1	Pass
+2344269626	PNC	PNC-1	-108	1	1				1	Pass
+234528430	PNC	PNC-1	-111	1			1		1	Pass
+2347753317	PNC	PNC-1	-406		0.25	0		0.75	0.333333333	Artifact
+2351609522	PNC	PNC-1	-114			1	1	1	1	Pass
+235478560	PNC	PNC-1	-168	1	1	1	1	1	1	Pass
+2355359789	PNC	PNC-1	-127	1	1	1	1	1	1	Pass
+2359486867	PNC	PNC-1	-71	1			1		1	Pass
+2361299150	PNC	PNC-1	-304	1	0.25	0.75			0.666666667	Artifact
+2365721251	PNC	PNC-1	-158		1	1		1	1	Pass
+2367528097	PNC	PNC-1	-136	1	1				1	Pass
+2374556661	PNC	PNC-1	-132			1	1	1	1	Pass
+2375649228	PNC	PNC-1	-328	1			1		1	Pass
+2385983560	PNC	PNC-1	-112		0.75	1		1	0.916666667	Artifact
+2390107820	PNC	PNC-1	-164	1	1				1	Pass
+2392768937	PNC	PNC-1	-167			1	1	0.75	0.916666667	Artifact
+2394345225	PNC	PNC-1	-105	1	0.75	1	1	1	0.95	Artifact
+2397365139	PNC	PNC-1	-109			1	1	1	1	Pass
+2397937510	PNC	PNC-1	-94	1	1				1	Pass
+2398605805	PNC	PNC-1	-256	0.75			0.75		0.75	Artifact
+2402029124	PNC	PNC-1	-94	1			1		1	Pass
+2403464508	PNC	PNC-1	-189	1	1				1	Pass
+2404418579	PNC	PNC-1	-108		1	1		1	1	Pass
+2404507707	PNC	PNC-1	-205			1	0.75	0.5	0.75	Artifact
+2404916865	PNC	PNC-1	-97	1			1		1	Pass
+2408914693	PNC	PNC-1	-76	1	1				1	Pass
+2412716526	PNC	PNC-1	-48		1	1		1	1	Pass
+2413176236	PNC	PNC-1	-55	1	1				1	Pass
+2420532406	PNC	PNC-1	-131	1	1				1	Pass
+2422503990	PNC	PNC-1	-157		1	1		1	1	Pass
+2422512134	PNC	PNC-1	-75	1	1	1	1	1	1	Pass
+2423596559	PNC	PNC-1	-66	1	0.75	1	1	1	0.95	Artifact
+2424990755	PNC	PNC-1	-80	1	1				1	Pass
+2425606479	PNC	PNC-1	-109	1	1				1	Pass
+2428446542	PNC	PNC-1	-173	1	1				1	Pass
+2433433960	PNC	PNC-1	-156	1	1	1	1	1	1	Pass
+2435041096	PNC	PNC-1	-152			1	1	1	1	Pass
+2435244873	PNC	PNC-1	-67	1			1		1	Pass
+2437115295	PNC	PNC-1	-72			1	1	1	1	Pass
+2441231201	PNC	PNC-1	-82		1	1		1	1	Pass
+2442304782	PNC	PNC-1	-68	1	1	1	1	1	1	Pass
+2446607895	PNC	PNC-1	-86		1	1		1	1	Pass
+2449123338	PNC	PNC-1	-79	1	1				1	Pass
+2450905343	PNC	PNC-1	-131	1	0	1	1	0.75	0.75	Artifact
+2454545162	PNC	PNC-1	-567	0.25	0	0			0.083333333	Artifact
+2457761447	PNC	PNC-1	-74	1			1		1	Pass
+2461687277	PNC	PNC-1	-98	1			1		1	Pass
+2462036439	PNC	PNC-1	-152	1	1	1			1	Pass
+2464767924	PNC	PNC-1	-75	1	1				1	Pass
+2465300344	PNC	PNC-1	-70	1	1				1	Pass
+2469426313	PNC	PNC-1	-94			1	1	1	1	Pass
+2470516380	PNC	PNC-1	-73			1	1	1	1	Pass
+2470886822	PNC	PNC-1	-134	1	1				1	Pass
+248138276	PNC	PNC-1	-63			1	1	1	1	Pass
+248585929	PNC	PNC-1	-85	1			1		1	Pass
+2485879167	PNC	PNC-1	-148	1	0.75				0.875	Artifact
+2486269820	PNC	PNC-1	-193	1	1	1			1	Pass
+2490635263	PNC	PNC-1	-47			1	1	1	1	Pass
+2498589740	PNC	PNC-1	-149		1	1		1	1	Pass
+2499963942	PNC	PNC-1	-66	1			1		1	Pass
+250211156	PNC	PNC-1	-155	1	1				1	Pass
+2507776631	PNC	PNC-1	-70	1	1				1	Pass
+2508284118	PNC	PNC-1	-82	1	1	1	1	1	1	Pass
+2511291760	PNC	PNC-1	-340			1	1	0.5	0.833333333	Artifact
+2518846638	PNC	PNC-1	-170		1	1		1	1	Pass
+2529143538	PNC	PNC-1	-73		1	1		1	1	Pass
+2533255886	PNC	PNC-1	-118			1	1	1	1	Pass
+25354225	PNC	PNC-1	-342	1			1		1	Pass
+253771324	PNC	PNC-1	-179		1	1		1	1	Pass
+2537779643	PNC	PNC-1	-99			1	1	1	1	Pass
+2539603725	PNC	PNC-1	-96			1	1	1	1	Pass
+2539774514	PNC	PNC-1	-88	1			1		1	Pass
+2543780112	PNC	PNC-1	-97	1			1		1	Pass
+254383703	PNC	PNC-1	-176	1	1				1	Pass
+2544376434	PNC	PNC-1	-100	1			1		1	Pass
+255089519	PNC	PNC-1	-185	1	1	1	1	1	1	Pass
+2551635949	PNC	PNC-1	-100	1	1	1	1	1	1	Pass
+255246595	PNC	PNC-1	-59	1	1	1	1	1	1	Pass
+2555837927	PNC	PNC-1	-113	1	1	1	1	1	1	Pass
+2556918590	PNC	PNC-1	-143	1			1		1	Pass
+2564511370	PNC	PNC-1	-92			1	1	1	1	Pass
+25811472	PNC	PNC-1	-138	1			1		1	Pass
+2585124211	PNC	PNC-1	-82	1	1				1	Pass
+2586296094	PNC	PNC-1	-152	1	1				1	Pass
+2588038141	PNC	PNC-1	-94			1	1	1	1	Pass
+2588125611	PNC	PNC-1	-141	1	1	1	1	1	1	Pass
+2588900615	PNC	PNC-1	-64	1	1	1	1	1	1	Pass
+2589790495	PNC	PNC-1	-95	1			1		1	Pass
+2593612027	PNC	PNC-1	-48	1	1	1	1	1	1	Pass
+2604857252	PNC	PNC-1	-157	1	1	1	1	1	1	Pass
+2610067614	PNC	PNC-1	-102	1			1		1	Pass
+2613113832	PNC	PNC-1	-230	1			1		1	Pass
+2614145086	PNC	PNC-1	-55			1	1	1	1	Pass
+261887422	PNC	PNC-1	-114	1			1		1	Pass
+2620895813	PNC	PNC-1	-111	1			1		1	Pass
+2622601913	PNC	PNC-1	-210			1	0.75	0.5	0.75	Artifact
+2625488221	PNC	PNC-1	-92			1	1	1	1	Pass
+2625808132	PNC	PNC-1	-225	1	1				1	Pass
+2625914260	PNC	PNC-1	-203		1	1		1	1	Pass
+2626581416	PNC	PNC-1	-45	1	1	1	1	1	1	Pass
+263354790	PNC	PNC-1	-78	1	1	1	1	1	1	Pass
+2639722173	PNC	PNC-1	-98		1	1		1	1	Pass
+2645905397	PNC	PNC-1	-77		1	1		1	1	Pass
+2646855369	PNC	PNC-1	-46	1			1		1	Pass
+2647545200	PNC	PNC-1	-86			1	1	1	1	Pass
+2647862856	PNC	PNC-1	-151	1	1	1	1	1	1	Pass
+2649991749	PNC	PNC-1	-117	1	1	1	1	1	1	Pass
+2650375172	PNC	PNC-1	-95	1			1		1	Pass
+2654954754	PNC	PNC-1	-82	1			1		1	Pass
+2657079253	PNC	PNC-1	-95			1	1	1	1	Pass
+265721632	PNC	PNC-1	-111			1	1	1	1	Pass
+2657764686	PNC	PNC-1	-114	1			1		1	Pass
+2658232795	PNC	PNC-1	-90		1	1		1	1	Pass
+2664902924	PNC	PNC-1	-442	0.25	0.25				0.25	Artifact
+2670354621	PNC	PNC-1	-45	1			1		1	Pass
+2670840190	PNC	PNC-1	-154	1			1		1	Pass
+2671429330	PNC	PNC-1	-62	1	1	1	1	1	1	Pass
+2672167232	PNC	PNC-1	-142	1	0.25	0.5			0.583333333	Artifact
+2675079707	PNC	PNC-1	-100	1			1		1	Pass
+2675724304	PNC	PNC-1	-82		1	1		1	1	Pass
+2680509132	PNC	PNC-1	-64	1			1		1	Pass
+2688141773	PNC	PNC-1	-83	1	1				1	Pass
+2689188662	PNC	PNC-1	-102			1	1	1	1	Pass
+2691009321	PNC	PNC-1	-127	1	1				1	Pass
+2691116331	PNC	PNC-1	-130	1			1		1	Pass
+2694518755	PNC	PNC-1	-344	1	0.75	0.75	1	0.75	0.85	Artifact
+2696622128	PNC	PNC-1	-119	1			1		1	Pass
+2705533334	PNC	PNC-1	-143			1	1	1	1	Pass
+2706712860	PNC	PNC-1	-97	1			1		1	Pass
+2709385105	PNC	PNC-1	-270			1	1	0.75	0.916666667	Artifact
+2710058273	PNC	PNC-1	-73	1	1	1	1	1	1	Pass
+2710418039	PNC	PNC-1	-86	1	1	1	1	1	1	Pass
+2711538206	PNC	PNC-1	-79		1	1		1	1	Pass
+2714001943	PNC	PNC-1	-86	1	1	1	1	1	1	Pass
+2715820110	PNC	PNC-1	-93		1	1		1	1	Pass
+2718695342	PNC	PNC-1	-473	0.5	0.5				0.5	Artifact
+2718945982	PNC	PNC-1	-107	1	1	1	1	1	1	Pass
+2719078954	PNC	PNC-1	-95	0.75	1	1	1	1	0.95	Artifact
+2720014197	PNC	PNC-1	-84		1	1		1	1	Pass
+2721211800	PNC	PNC-1	-125	1			1		1	Pass
+2723385487	PNC	PNC-1	-386	0.75			1		0.875	Artifact
+272468530	PNC	PNC-1	-707	0.75			0.75		0.75	Artifact
+2726043986	PNC	PNC-1	-255		1	1		1	1	Pass
+2726208310	PNC	PNC-1	-114	1			1		1	Pass
+272785799	PNC	PNC-1	-156			1	1	1	1	Pass
+2729807028	PNC	PNC-1	-99		1	1		1	1	Pass
+2733440164	PNC	PNC-1	-64	1	1	1	1	1	1	Pass
+2734016600	PNC	PNC-1	-61	1			1		1	Pass
+273547252	PNC	PNC-1	-122		1	1		1	1	Pass
+2739408373	PNC	PNC-1	-247			1	1	1	1	Pass
+2739925272	PNC	PNC-1	-141	1	1				1	Pass
+2740569399	PNC	PNC-1	-100		1	1		1	1	Pass
+2741286919	PNC	PNC-1	-121	1	1	1	1	1	1	Pass
+2742726803	PNC	PNC-1	-119			1	1	1	1	Pass
+2745152671	PNC	PNC-1	-58			1	1	1	1	Pass
+2748158536	PNC	PNC-1	-114	1	1	1	1	1	1	Pass
+2748427955	PNC	PNC-1	-141	1	1	1	1	1	1	Pass
+2748843731	PNC	PNC-1	-160	1			1		1	Pass
+2753998487	PNC	PNC-1	-107		1	1		1	1	Pass
+2755175939	PNC	PNC-1	-304	1			1		1	Pass
+2758144993	PNC	PNC-1	-90	1	1				1	Pass
+2758762405	PNC	PNC-1	-111	1			1		1	Pass
+2762202970	PNC	PNC-1	-99	1	1				1	Pass
+2762662297	PNC	PNC-1	-186	1	1				1	Pass
+2763114922	PNC	PNC-1	-89	1	1	1	1	1	1	Pass
+2766838213	PNC	PNC-1	-278		1	1		1	1	Pass
+276761217	PNC	PNC-1	-70	1			1		1	Pass
+277233792	PNC	PNC-1	-117		1	1		1	1	Pass
+2774105134	PNC	PNC-1	-76			1	1	1	1	Pass
+2776193382	PNC	PNC-1	-111	1	1	1	1	1	1	Pass
+277985884	PNC	PNC-1	-262		0.75	1		1	0.916666667	Artifact
+2780566236	PNC	PNC-1	-108	1	1				1	Pass
+2781760374	PNC	PNC-1	-301			0.75	1	0.25	0.666666667	Artifact
+2785454369	PNC	PNC-1	-131			1	1	1	1	Pass
+27876862	PNC	PNC-1	-89	1			1		1	Pass
+278814796	PNC	PNC-1	-59			1	1	1	1	Pass
+2788528349	PNC	PNC-1	-78	1	1	1	1	1	1	Pass
+2788824854	PNC	PNC-1	-111	1	1	1	1	1	1	Pass
+2791148092	PNC	PNC-1	-92	1			1		1	Pass
+2791617373	PNC	PNC-1	-124	1	1	1	1	1	1	Pass
+2795844072	PNC	PNC-1	-66		1	1		1	1	Pass
+2799972108	PNC	PNC-1	-138	1	1	1	1	1	1	Pass
+2804514247	PNC	PNC-1	-81	1			1		1	Pass
+2808974219	PNC	PNC-1	-190		1	1		1	1	Pass
+281446151	PNC	PNC-1	-104		1	1		1	1	Pass
+2814825506	PNC	PNC-1	-74			1	1	1	1	Pass
+2816126335	PNC	PNC-1	-69			1	1	1	1	Pass
+2818302209	PNC	PNC-1	-136			1	1	1	1	Pass
+2819146349	PNC	PNC-1	-97		1	1		1	1	Pass
+2822781649	PNC	PNC-1	-107	1	1	1	1	1	1	Pass
+2823833643	PNC	PNC-1	-111			1	1	1	1	Pass
+2824066679	PNC	PNC-1	-95	1	1				1	Pass
+2824389829	PNC	PNC-1	-182	1	1				1	Pass
+2828263690	PNC	PNC-1	-59	1	1				1	Pass
+2830121192	PNC	PNC-1	-134	1	1				1	Pass
+2832458131	PNC	PNC-1	-92		1	1		1	1	Pass
+283366029	PNC	PNC-1	-90		0.75	1		1	0.916666667	Artifact
+2840008346	PNC	PNC-1	-103	1			1		1	Pass
+2842709105	PNC	PNC-1	-119	1	1				1	Pass
+2851612661	PNC	PNC-1	-125		1	1		1	1	Pass
+2852081635	PNC	PNC-1	-144	1	1	1	1	1	1	Pass
+2860715826	PNC	PNC-1	-82	1	1				1	Pass
+2861717830	PNC	PNC-1	-68			1	1	1	1	Pass
+2864018454	PNC	PNC-1	-122	1			1		1	Pass
+2871739930	PNC	PNC-1	-120		1	1		1	1	Pass
+2876352000	PNC	PNC-1	-107	1	1	1	1	1	1	Pass
+2877714252	PNC	PNC-1	-156	1	1				1	Pass
+287967180	PNC	PNC-1	-79			1	1	1	1	Pass
+2880229752	PNC	PNC-1	-100		1	1		1	1	Pass
+2884173160	PNC	PNC-1	-146	1	1				1	Pass
+2884386695	PNC	PNC-1	-65	1			1		1	Pass
+2885180167	PNC	PNC-1	-77	1	1	1	1	1	1	Pass
+2886590951	PNC	PNC-1	-143		1	1		1	1	Pass
+2893679025	PNC	PNC-1	-71			1	1	1	1	Pass
+2894537898	PNC	PNC-1	-115	1			1		1	Pass
+2895974122	PNC	PNC-1	-112	1			1		1	Pass
+2896375520	PNC	PNC-1	-92	1	1	1	1	1	1	Pass
+2897082725	PNC	PNC-1	-125		1	1		1	1	Pass
+2901356997	PNC	PNC-1	-115		1	1		1	1	Pass
+2905849066	PNC	PNC-1	-181	1	1	1	1	1	1	Pass
+2906198493	PNC	PNC-1	-108		1	1		1	1	Pass
+2906925573	PNC	PNC-1	-207	1	1				1	Pass
+2918766267	PNC	PNC-1	-345		1	1		1	1	Pass
+2919917027	PNC	PNC-1	-139			0.75	1	0.5	0.75	Artifact
+2925300630	PNC	PNC-1	-91		1	1		1	1	Pass
+2928085046	PNC	PNC-1	-209	1	1	1	1	1	1	Pass
+2929280193	PNC	PNC-1	-147	1	1	1	1	1	1	Pass
+292946269	PNC	PNC-1	-100	1	1				1	Pass
+292969238	PNC	PNC-1	-111		1	1		1	1	Pass
+2932569616	PNC	PNC-1	-98	1	1	1	1	1	1	Pass
+2932582600	PNC	PNC-1	-82		1	1		1	1	Pass
+2933325835	PNC	PNC-1	-110			1	1	1	1	Pass
+2933490015	PNC	PNC-1	-153			1	1	1	1	Pass
+2933854864	PNC	PNC-1	-263			1	1	0.25	0.75	Artifact
+2934644075	PNC	PNC-1	-120	1	1	1	1	1	1	Pass
+2935256495	PNC	PNC-1	-163		1	1		1	1	Pass
+2939120682	PNC	PNC-1	-106	1	1				1	Pass
+2939479952	PNC	PNC-1	-100	1	1				1	Pass
+2943493898	PNC	PNC-1	-132			1	1	1	1	Pass
+2944925114	PNC	PNC-1	-271	1	1	1			1	Pass
+2947976933	PNC	PNC-1	-210	0.5	1	1	1	1	0.9	Artifact
+2951167051	PNC	PNC-1	-115	1			1		1	Pass
+2967555571	PNC	PNC-1	-85	1	1	1	1	1	1	Pass
+2967570405	PNC	PNC-1	-89		1	1		1	1	Pass
+296947353	PNC	PNC-1	-82	1	1	1	1	1	1	Pass
+2970389523	PNC	PNC-1	-73	1	1				1	Pass
+2972126748	PNC	PNC-1	-145			1	1	0.75	0.916666667	Artifact
+2976850765	PNC	PNC-1	-113			1	1	1	1	Pass
+2978762615	PNC	PNC-1	-76	1	1	1	1	1	1	Pass
+2979786632	PNC	PNC-1	-73	1			1		1	Pass
+29811890	PNC	PNC-1	-206	1	1	1			1	Pass
+2981829638	PNC	PNC-1	-92		1	1		1	1	Pass
+2982184070	PNC	PNC-1	-137	1			1		1	Pass
+2988053796	PNC	PNC-1	-67	1			1		1	Pass
+2990984557	PNC	PNC-1	-101	1	1	1	1	1	1	Pass
+2991801804	PNC	PNC-1	-94	1	1	1	1	1	1	Pass
+2994983988	PNC	PNC-1	-108			1	1	1	1	Pass
+2996472019	PNC	PNC-1	-108	1	1				1	Pass
+299894413	PNC	PNC-1	-153	1	1	1	1	1	1	Pass
+300988508	PNC	PNC-1	-158	1	1				1	Pass
+3010264843	PNC	PNC-1	-99	1	1				1	Pass
+3010354631	PNC	PNC-1	-157	1			1		1	Pass
+3014879953	PNC	PNC-1	-92	1	1				1	Pass
+3016118416	PNC	PNC-1	-80	1	1				1	Pass
+3017936002	PNC	PNC-1	-80			1	1	1	1	Pass
+3022646611	PNC	PNC-1	-86		1	1		1	1	Pass
+3029167955	PNC	PNC-1	-102	1	1	1	1	1	1	Pass
+3030572467	PNC	PNC-1	-125	1	1	1	1	1	1	Pass
+3032863642	PNC	PNC-1	-75	1			1		1	Pass
+3035602262	PNC	PNC-1	-100			1	1	1	1	Pass
+3038035275	PNC	PNC-1	-121			1	1	1	1	Pass
+3039910629	PNC	PNC-1	-158	1	1				1	Pass
+3043294809	PNC	PNC-1	-101	1	1				1	Pass
+3052691308	PNC	PNC-1	-167		1	1		1	1	Pass
+3055237322	PNC	PNC-1	-136	1	1	1	1	1	1	Pass
+3059148008	PNC	PNC-1	-131	1			1		1	Pass
+3060404940	PNC	PNC-1	-460		0	0.25		0	0.083333333	Artifact
+3062402909	PNC	PNC-1	-104	1			1		1	Pass
+3066751024	PNC	PNC-1	-78			1	1	1	1	Pass
+306816217	PNC	PNC-1	-72	1	1				1	Pass
+307169010	PNC	PNC-1	-122	1	1	1	1	1	1	Pass
+3073794839	PNC	PNC-1	-145	1	1	1			1	Pass
+3076915122	PNC	PNC-1	-71	1	1	1	1	1	1	Pass
+307804547	PNC	PNC-1	-161	1			1		1	Pass
+3081556774	PNC	PNC-1	-123	1	1				1	Pass
+308228517	PNC	PNC-1	-52		1	1		1	1	Pass
+3082686752	PNC	PNC-1	-143	1	1	1	1	1	1	Pass
+3090132303	PNC	PNC-1	-137	1			1		1	Pass
+3090659941	PNC	PNC-1	-132	1	1	1	1	1	1	Pass
+309129555	PNC	PNC-1	-147			1	1	1	1	Pass
+3091738725	PNC	PNC-1	-100	1			1		1	Pass
+3091757174	PNC	PNC-1	-80			1	1	1	1	Pass
+3092187032	PNC	PNC-1	-371	0.25	0.25	0.75	0.75	0.5	0.5	Artifact
+3093541482	PNC	PNC-1	-343	0	0				0	Fail
+3095311898	PNC	PNC-1	-102	1	1				1	Pass
+3100094802	PNC	PNC-1	-133	1			1		1	Pass
+3103368139	PNC	PNC-1	-90	1	1	1	1	1	1	Pass
+3104080596	PNC	PNC-1	-69	1			1		1	Pass
+310631091	PNC	PNC-1	-64		1	1		1	1	Pass
+3109977781	PNC	PNC-1	-122	1	1				1	Pass
+3112586807	PNC	PNC-1	-146			1	1	1	1	Pass
+3117043986	PNC	PNC-1	-63	1	1				1	Pass
+3117409134	PNC	PNC-1	-97	1	1				1	Pass
+3123429468	PNC	PNC-1	-54		1	1		1	1	Pass
+3123810007	PNC	PNC-1	-129	1	1				1	Pass
+3128815857	PNC	PNC-1	-100		1	1		1	1	Pass
+3131141015	PNC	PNC-1	-91	1			1		1	Pass
+3133368442	PNC	PNC-1	-215		1	1		1	1	Pass
+31361606	PNC	PNC-1	-107	1			1		1	Pass
+3138342343	PNC	PNC-1	-740	0	0	0			0	Fail
+3138616935	PNC	PNC-1	-82	1	1	1	1	1	1	Pass
+3140512536	PNC	PNC-1	-90	1	1	1			1	Pass
+3147576269	PNC	PNC-1	-182	1	1	1	1	1	1	Pass
+3148192122	PNC	PNC-1	-199	1	1				1	Pass
+3150163478	PNC	PNC-1	-138	1	1	1	1	1	1	Pass
+316324995	PNC	PNC-1	-69	1	1				1	Pass
+3165713481	PNC	PNC-1	-192		1	1		1	1	Pass
+3170512105	PNC	PNC-1	-149	1	1				1	Pass
+3171575673	PNC	PNC-1	-141			1	1	1	1	Pass
+3172989359	PNC	PNC-1	-83			1	1	1	1	Pass
+3175244541	PNC	PNC-1	-85			1	1	1	1	Pass
+3176046588	PNC	PNC-1	-146		1	1		1	1	Pass
+3176914833	PNC	PNC-1	-256	0	0				0	Fail
+3177113419	PNC	PNC-1	-56	1	1				1	Pass
+3182049011	PNC	PNC-1	-123	1	1	1	1	1	1	Pass
+3185151244	PNC	PNC-1	-121		1	1		1	1	Pass
+3185171421	PNC	PNC-1	-80	1	1	1	1	1	1	Pass
+3190586154	PNC	PNC-1	-106	1			1		1	Pass
+3190862186	PNC	PNC-1	-231	1	1	1	1	0.5	0.9	Artifact
+3192540230	PNC	PNC-1	-124			1	1	1	1	Pass
+3194237272	PNC	PNC-1	-249	1	1				1	Pass
+3194463561	PNC	PNC-1	-81	1			1		1	Pass
+320127697	PNC	PNC-1	-222	1			1		1	Pass
+3204472167	PNC	PNC-1	-57	1	1				1	Pass
+3207921706	PNC	PNC-1	-74	1	1	1	1	1	1	Pass
+3209198339	PNC	PNC-1	-123		1	1		1	1	Pass
+3212763876	PNC	PNC-1	-95	1			1		1	Pass
+3213518740	PNC	PNC-1	-258	1	1	1	1	1	1	Pass
+3214822644	PNC	PNC-1	-74	1	1				1	Pass
+3216964316	PNC	PNC-1	-76			1	1	1	1	Pass
+3218515872	PNC	PNC-1	-85			1	1	1	1	Pass
+3219790231	PNC	PNC-1	-120		1	1		1	1	Pass
+3220670955	PNC	PNC-1	-81	1	1	1	1	1	1	Pass
+3221434093	PNC	PNC-1	-112	1	1	1	1	1	1	Pass
+3221624404	PNC	PNC-1	-77	1	1				1	Pass
+322458406	PNC	PNC-1	-99	1	1	1	1	1	1	Pass
+3225665554	PNC	PNC-1	-103	1	1	1	1	1	1	Pass
+3227202635	PNC	PNC-1	-134	1	1				1	Pass
+3231527178	PNC	PNC-1	-180			1	1	1	1	Pass
+3234328642	PNC	PNC-1	-79	1			1		1	Pass
+3234489701	PNC	PNC-1	-56		1	1		1	1	Pass
+3234586495	PNC	PNC-1	-199	1	1	1	1	1	1	Pass
+3235320003	PNC	PNC-1	-250		1	1		1	1	Pass
+3236504015	PNC	PNC-1	-110		1	1		1	1	Pass
+3236644272	PNC	PNC-1	-220			1	1	0.75	0.916666667	Artifact
+3239156026	PNC	PNC-1	-531			0	0	0	0	Fail
+3241674953	PNC	PNC-1	-173	1			1		1	Pass
+3245338991	PNC	PNC-1	-195			1	1	0.75	0.916666667	Artifact
+3245755395	PNC	PNC-1	-75	1	1				1	Pass
+3245954075	PNC	PNC-1	-121	1	1				1	Pass
+324718088	PNC	PNC-1	-100	1	1	1	1	1	1	Pass
+3247943782	PNC	PNC-1	-139	1	1	1	1	1	1	Pass
+3249817543	PNC	PNC-1	-56	1	1	1	1	0.75	0.95	Artifact
+3250922962	PNC	PNC-1	-152		1	1		1	1	Pass
+3253387239	PNC	PNC-1	-85			1	0.75	1	0.916666667	Artifact
+3255836650	PNC	PNC-1	-103			1	1	1	1	Pass
+3260871738	PNC	PNC-1	-188			1	1	1	1	Pass
+3260960488	PNC	PNC-1	-138		1	1		1	1	Pass
+3262225790	PNC	PNC-1	-103	1	1	1	1	1	1	Pass
+3264624310	PNC	PNC-1	-105			1	1	1	1	Pass
+3264978932	PNC	PNC-1	-121	1			1		1	Pass
+3266753211	PNC	PNC-1	-65			1	1	1	1	Pass
+326891280	PNC	PNC-1	-115		1	1		1	1	Pass
+3271604994	PNC	PNC-1	-188	1			1		1	Pass
+3275217080	PNC	PNC-1	-138			1	1	1	1	Pass
+3277181789	PNC	PNC-1	-156		1	1		1	1	Pass
+3279245901	PNC	PNC-1	-374		0.5	1		1	0.833333333	Artifact
+3288745244	PNC	PNC-1	-130	1	1				1	Pass
+3289273628	PNC	PNC-1	-106	1	1	1	1	1	1	Pass
+3289562482	PNC	PNC-1	-69			1	1	1	1	Pass
+3290096905	PNC	PNC-1	-89		1	1		1	1	Pass
+3293621097	PNC	PNC-1	-204	1			1		1	Pass
+32938469	PNC	PNC-1	-280			1	1	1	1	Pass
+3297348664	PNC	PNC-1	-62		1	1		1	1	Pass
+3298815936	PNC	PNC-1	-133		1	1		1	1	Pass
+3316130924	PNC	PNC-1	-97	1	1				1	Pass
+3317140614	PNC	PNC-1	-51		1	1		1	1	Pass
+3319985890	PNC	PNC-1	-133		1	1		1	1	Pass
+3321849919	PNC	PNC-1	-102	1	1	1	1	1	1	Pass
+3323308438	PNC	PNC-1	-103	1	1				1	Pass
+3327313154	PNC	PNC-1	-135	1	1	1	1	1	1	Pass
+3332328549	PNC	PNC-1	-63		1	1		1	1	Pass
+3337257001	PNC	PNC-1	-190	1	1				1	Pass
+3338094212	PNC	PNC-1	-119	1			1		1	Pass
+3340124957	PNC	PNC-1	-149		1	1		1	1	Pass
+3340851327	PNC	PNC-1	-122			1	1	1	1	Pass
+3342182273	PNC	PNC-1	-68		1	1		1	1	Pass
+334290435	PNC	PNC-1	-87			1	1	1	1	Pass
+3343129791	PNC	PNC-1	-165			1	1	0.75	0.916666667	Artifact
+334468298	PNC	PNC-1	-84			1	1	1	1	Pass
+3345297865	PNC	PNC-1	-95		1	1		1	1	Pass
+3346107281	PNC	PNC-1	-78	1			1		1	Pass
+3346511370	PNC	PNC-1	-161	1	0.75	1	1	1	0.95	Artifact
+3349861642	PNC	PNC-1	-195	1	1	1	1	1	1	Pass
+335003211	PNC	PNC-1	-65	1	1				1	Pass
+335104664	PNC	PNC-1	-97		1	1		0.75	0.916666667	Artifact
+3351164964	PNC	PNC-1	-70		1	1		1	1	Pass
+3354511550	PNC	PNC-1	-100	1			1		1	Pass
+3357695482	PNC	PNC-1	-56	1			1		1	Pass
+3359871584	PNC	PNC-1	-142	1	1				1	Pass
+3362293049	PNC	PNC-1	-123	1	1	1	1	1	1	Pass
+336426329	PNC	PNC-1	-112	1			1		1	Pass
+3370689672	PNC	PNC-1	-90	1	1	1	1	1	1	Pass
+3371160733	PNC	PNC-1	-63	1	1				1	Pass
+337120853	PNC	PNC-1	-93			1	1	1	1	Pass
+3373021317	PNC	PNC-1	-89			1	1	1	1	Pass
+3373396339	PNC	PNC-1	-205		1	1		1	1	Pass
+3374628517	PNC	PNC-1	-118			1	1	1	1	Pass
+3376877661	PNC	PNC-1	-72	1			1		1	Pass
+3377759088	PNC	PNC-1	-321		1	1		1	1	Pass
+3381441522	PNC	PNC-1	-166	1	1	1	1	1	1	Pass
+3386202055	PNC	PNC-1	-65		1	1		1	1	Pass
+3392035756	PNC	PNC-1	-49	1			1		1	Pass
+3392963865	PNC	PNC-1	-125			1	1	1	1	Pass
+340803193	PNC	PNC-1	-291	0.5	0.75				0.625	Artifact
+3410508529	PNC	PNC-1	-116	1	1				1	Pass
+3410573615	PNC	PNC-1	-73	1			1		1	Pass
+3410668296	PNC	PNC-1	-170	1	1	1	1	1	1	Pass
+3410682651	PNC	PNC-1	-72	1	1	1	1	1	1	Pass
+3419043004	PNC	PNC-1	-146		1	1		1	1	Pass
+342333582	PNC	PNC-1	-108	1			1		1	Pass
+3428149887	PNC	PNC-1	-97		1	1		1	1	Pass
+3437461935	PNC	PNC-1	-106			1	1	1	1	Pass
+3438308617	PNC	PNC-1	-576	0.5	0.25				0.375	Artifact
+3439662539	PNC	PNC-1	-97	1	1	1			1	Pass
+3439727076	PNC	PNC-1	-74	1	1				1	Pass
+3441116881	PNC	PNC-1	-157			1	1	1	1	Pass
+3443753647	PNC	PNC-1	-147	1			1		1	Pass
+3443950251	PNC	PNC-1	-74	1	1	1	1	1	1	Pass
+3445089839	PNC	PNC-1	-177		0.75	1		0.75	0.833333333	Artifact
+3445216767	PNC	PNC-1	-85	1			1		1	Pass
+344766746	PNC	PNC-1	-184		0.75	1		1	0.916666667	Artifact
+3447842173	PNC	PNC-1	-181	0.75	1				0.875	Artifact
+3450122487	PNC	PNC-1	-161		1	1		1	1	Pass
+3451752350	PNC	PNC-1	-135	1	1	1	1	1	1	Pass
+3452453842	PNC	PNC-1	-74		1	1		1	1	Pass
+3458965699	PNC	PNC-1	-96	1	1				1	Pass
+3459140306	PNC	PNC-1	-164		1	1		1	1	Pass
+3463353736	PNC	PNC-1	-55	1			1		1	Pass
+3467479455	PNC	PNC-1	-236			0.75	1	0.25	0.666666667	Artifact
+3468032341	PNC	PNC-1	-81	1	1				1	Pass
+3470362520	PNC	PNC-1	-75		1	1		1	1	Pass
+3470445476	PNC	PNC-1	-154	1			1		1	Pass
+3474248854	PNC	PNC-1	-151		1	1		1	1	Pass
+3474496151	PNC	PNC-1	-97	1			1		1	Pass
+3477990078	PNC	PNC-1	-67	1	1				1	Pass
+3481634232	PNC	PNC-1	-150		1	1		1	1	Pass
+3482208722	PNC	PNC-1	-90			1	1	1	1	Pass
+3482761158	PNC	PNC-1	-124	1	1	1			1	Pass
+3486713588	PNC	PNC-1	-444	0	0.25	0.75	0.5	0	0.3	Artifact
+348711479	PNC	PNC-1	-76	1	1				1	Pass
+348742929	PNC	PNC-1	-88		1	1		1	1	Pass
+3492490140	PNC	PNC-1	-77	1	1	1			1	Pass
+3495559578	PNC	PNC-1	-177			1	1	1	1	Pass
+3497670658	PNC	PNC-1	-80	1	1	1	1	1	1	Pass
+3498010347	PNC	PNC-1	-134	1			1		1	Pass
+3498378981	PNC	PNC-1	-99	1			1		1	Pass
+349934174	PNC	PNC-1	-78	1			1		1	Pass
+3501955380	PNC	PNC-1	-108	1	1				1	Pass
+3506213723	PNC	PNC-1	-91	1	1	1	1	1	1	Pass
+3506926170	PNC	PNC-1	-103		1	1		1	1	Pass
+351109165	PNC	PNC-1	-128		1	1		1	1	Pass
+3511384247	PNC	PNC-1	-83	1			1		1	Pass
+3511452762	PNC	PNC-1	-177	1			1		1	Pass
+3512003246	PNC	PNC-1	-46		1	1		1	1	Pass
+3516454823	PNC	PNC-1	-88	1			1		1	Pass
+3520758666	PNC	PNC-1	-66			1	1	1	1	Pass
+3524638841	PNC	PNC-1	-127		1	1		1	1	Pass
+352505908	PNC	PNC-1	-47	1			1		1	Pass
+3530244209	PNC	PNC-1	-117	1	1				1	Pass
+3531047767	PNC	PNC-1	-163			1	1	1	1	Pass
+3533807592	PNC	PNC-1	-102		1	1		1	1	Pass
+3533959599	PNC	PNC-1	-63			1	1	1	1	Pass
+3535052608	PNC	PNC-1	-149			1	1	1	1	Pass
+3535898260	PNC	PNC-1	-102		1	1		1	1	Pass
+3538085126	PNC	PNC-1	-107	1	1				1	Pass
+3539567950	PNC	PNC-1	-101			1	1	0.75	0.916666667	Artifact
+3539717209	PNC	PNC-1	-108		1	1		1	1	Pass
+3544869608	PNC	PNC-1	-95	1			1		1	Pass
+3545637731	PNC	PNC-1	-63	1	1	1	1	1	1	Pass
+3548675539	PNC	PNC-1	-80		1	1		1	1	Pass
+3549161979	PNC	PNC-1	-69	1			1		1	Pass
+3549674509	PNC	PNC-1	-108			1	1	1	1	Pass
+3552163094	PNC	PNC-1	-118		1	1		1	1	Pass
+355612286	PNC	PNC-1	-77	1			1		1	Pass
+3561979823	PNC	PNC-1	-156	1			1		1	Pass
+3565014343	PNC	PNC-1	-115	1			1		1	Pass
+3566300931	PNC	PNC-1	-78		1	1		1	1	Pass
+3567315418	PNC	PNC-1	-87	1	1	1	1	1	1	Pass
+3569165538	PNC	PNC-1	-62	1	1	1	1	1	1	Pass
+3572235922	PNC	PNC-1	-204	1	1				1	Pass
+3573560794	PNC	PNC-1	-172		1	1		1	1	Pass
+3598760125	PNC	PNC-1	-88	1	1				1	Pass
+3601751755	PNC	PNC-1	-67	1			1		1	Pass
+360338543	PNC	PNC-1	-99			1	1	1	1	Pass
+360427065	PNC	PNC-1	-90	1			1		1	Pass
+360459346	PNC	PNC-1	-79		1	1		1	1	Pass
+3604691191	PNC	PNC-1	-209		1	1		1	1	Pass
+3605497536	PNC	PNC-1	-231		1	1		1	1	Pass
+3606976091	PNC	PNC-1	-90		1	1		0.75	0.916666667	Artifact
+3607981599	PNC	PNC-1	-110	1			1		1	Pass
+3608113928	PNC	PNC-1	-67			1	1	1	1	Pass
+3612049856	PNC	PNC-1	-78	1	1	1	1	1	1	Pass
+361460013	PNC	PNC-1	-95		1	1		1	1	Pass
+3614947229	PNC	PNC-1	-89	1			1		1	Pass
+3615907583	PNC	PNC-1	-155			1	1	1	1	Pass
+361728233	PNC	PNC-1	-120	1			1		1	Pass
+3620165734	PNC	PNC-1	-114	1	1				1	Pass
+3620213387	PNC	PNC-1	-154	1	1	1	1	1	1	Pass
+3621702873	PNC	PNC-1	-88	1	1	1	1	1	1	Pass
+362293270	PNC	PNC-1	-137		1	1		1	1	Pass
+3625162682	PNC	PNC-1	-149	1			1		1	Pass
+363441871	PNC	PNC-1	-64			1	1	1	1	Pass
+3635306093	PNC	PNC-1	-110			1	1	1	1	Pass
+3637736036	PNC	PNC-1	-456	0	0	0	0.25	0	0.05	Artifact
+3644730316	PNC	PNC-1	-123	1			1		1	Pass
+3647998632	PNC	PNC-1	-37	1	0.75	1	1	1	0.95	Artifact
+3653965527	PNC	PNC-1	-192	1	1				1	Pass
+3655426254	PNC	PNC-1	-119	1	1				1	Pass
+3661330789	PNC	PNC-1	-164	1	1				1	Pass
+3666908232	PNC	PNC-1	-77			1	1	1	1	Pass
+3669543341	PNC	PNC-1	-143	1	1				1	Pass
+3670092995	PNC	PNC-1	-72		1	1		1	1	Pass
+3670726676	PNC	PNC-1	-65	1			1		1	Pass
+3671045126	PNC	PNC-1	-133	1	1	1	1	1	1	Pass
+367320913	PNC	PNC-1	-265	0.5	0.5				0.5	Artifact
+3675176980	PNC	PNC-1	-151	1	1	1	1	1	1	Pass
+3675945478	PNC	PNC-1	-282	1			1		1	Pass
+3678218578	PNC	PNC-1	-73	1	1				1	Pass
+3683182920	PNC	PNC-1	-93	1			1		1	Pass
+3685268115	PNC	PNC-1	-101	1			1		1	Pass
+36895554	PNC	PNC-1	-155		1	1		1	1	Pass
+3691492943	PNC	PNC-1	-143	1	1	1	1	1	1	Pass
+3692156343	PNC	PNC-1	-90	1			1		1	Pass
+3694822252	PNC	PNC-1	-131	1			1		1	Pass
+3696718394	PNC	PNC-1	-124		1	1		1	1	Pass
+370053661	PNC	PNC-1	-67			1	1	1	1	Pass
+3703469018	PNC	PNC-1	-139	1	1	1	1	1	1	Pass
+3704095570	PNC	PNC-1	-74	1			1		1	Pass
+3704894948	PNC	PNC-1	-54	1	1				1	Pass
+3706183788	PNC	PNC-1	-91	1	1	1	1	1	1	Pass
+3711850368	PNC	PNC-1	-152	1			1		1	Pass
+3712060241	PNC	PNC-1	-136		1	1		1	1	Pass
+3716972371	PNC	PNC-1	-83			1	1	1	1	Pass
+3719615756	PNC	PNC-1	-45	1	1				1	Pass
+372100986	PNC	PNC-1	-111	1	1	1	0.75	1	0.95	Artifact
+3722539437	PNC	PNC-1	-135		0.5	1		0.5	0.666666667	Artifact
+3724047858	PNC	PNC-1	-96	1			1		1	Pass
+3724155829	PNC	PNC-1	-72	1			1		1	Pass
+3726299659	PNC	PNC-1	-464			0	0.75	0	0.25	Artifact
+3726776317	PNC	PNC-1	-119		1	1		1	1	Pass
+3730474103	PNC	PNC-1	-83	1	1				1	Pass
+3731824395	PNC	PNC-1	-153	1			1		1	Pass
+3732485344	PNC	PNC-1	-226	1	1	1	1	1	1	Pass
+37329051	PNC	PNC-1	-213			1	1	1	1	Pass
+3733544876	PNC	PNC-1	-47	1	1				1	Pass
+3733778000	PNC	PNC-1	-151		1	1		1	1	Pass
+3735452556	PNC	PNC-1	-218	0.75	1	1			0.916666667	Artifact
+373574366	PNC	PNC-1	-96			1	1	1	1	Pass
+374130224	PNC	PNC-1	-131	1	0.75	1			0.916666667	Artifact
+3743186010	PNC	PNC-1	-149	1	1				1	Pass
+3743427092	PNC	PNC-1	-122			1	1	1	1	Pass
+3744541693	PNC	PNC-1	-89		1	1		1	1	Pass
+3744667754	PNC	PNC-1	-89	1			1		1	Pass
+3744723479	PNC	PNC-1	-139	1	1				1	Pass
+3745413288	PNC	PNC-1	-130		1	1		1	1	Pass
+3746502009	PNC	PNC-1	-133	1	1				1	Pass
+3747270459	PNC	PNC-1	-163	1	1	1	1	1	1	Pass
+3748226758	PNC	PNC-1	-150	1	1				1	Pass
+3749102689	PNC	PNC-1	-65	1	1	1	1	1	1	Pass
+3753452353	PNC	PNC-1	-89	1	1	1	1	1	1	Pass
+3753613715	PNC	PNC-1	-93	1	1	1	1	1	1	Pass
+375434957	PNC	PNC-1	-195	1			1		1	Pass
+375475352	PNC	PNC-1	-144	1			1		1	Pass
+3756388677	PNC	PNC-1	-132	1			1		1	Pass
+375686109	PNC	PNC-1	-84	1	1	1	0.75	1	0.95	Artifact
+3758103185	PNC	PNC-1	-145	1	1	1	1	1	1	Pass
+3761349403	PNC	PNC-1	-108	1	1	1	1	1	1	Pass
+3762475569	PNC	PNC-1	-210			1	1	0.5	0.833333333	Artifact
+3763213896	PNC	PNC-1	-140	1			1		1	Pass
+3769010696	PNC	PNC-1	-110			1	1	1	1	Pass
+3770031954	PNC	PNC-1	-171			1	1	1	1	Pass
+377178190	PNC	PNC-1	-73		1	1		1	1	Pass
+3777345255	PNC	PNC-1	-80	1			1		1	Pass
+3778234840	PNC	PNC-1	-140	1			1		1	Pass
+3778541583	PNC	PNC-1	-122	1	1				1	Pass
+3782270648	PNC	PNC-1	-175		1	1		1	1	Pass
+37835493	PNC	PNC-1	-63			1	1	1	1	Pass
+379170502	PNC	PNC-1	-96		1	1		1	1	Pass
+3793444603	PNC	PNC-1	-191		0.25	0		0.25	0.166666667	Artifact
+3800855923	PNC	PNC-1	-162	1	0.25	1	0.75	0.75	0.75	Artifact
+3806576780	PNC	PNC-1	-97			1	1	1	1	Pass
+3807715038	PNC	PNC-1	-80		1	1		1	1	Pass
+3807880204	PNC	PNC-1	-131	1	1	1	1	1	1	Pass
+3808965674	PNC	PNC-1	-106			1	1	0.75	0.916666667	Artifact
+3809027065	PNC	PNC-1	-322			1	1	1	1	Pass
+3809989470	PNC	PNC-1	-77			1	1	1	1	Pass
+3810009389	PNC	PNC-1	-88	1			1		1	Pass
+3813030131	PNC	PNC-1	-138	1	1	1	1	1	1	Pass
+3814863545	PNC	PNC-1	-186			1	1	1	1	Pass
+3815131512	PNC	PNC-1	-111		1	1		1	1	Pass
+3816691265	PNC	PNC-1	-160	1	1	1	1	1	1	Pass
+3818082974	PNC	PNC-1	-182	1			1		1	Pass
+3818720350	PNC	PNC-1	-128		1	1		1	1	Pass
+3822559318	PNC	PNC-1	-108	1	1	1	1	1	1	Pass
+3827457731	PNC	PNC-1	-93	1	1				1	Pass
+3829047511	PNC	PNC-1	-96	1			1		1	Pass
+3830031504	PNC	PNC-1	-94		1	1		1	1	Pass
+383103459	PNC	PNC-1	-101			1	1	1	1	Pass
+3831608525	PNC	PNC-1	-287	0.75	0.75	0.5	1	0.25	0.65	Artifact
+3836020010	PNC	PNC-1	-128			1	1	1	1	Pass
+3836403514	PNC	PNC-1	-88	1	1	1	1	1	1	Pass
+3837482902	PNC	PNC-1	-121	1	1				1	Pass
+3840308617	PNC	PNC-1	-69	1	0.75				0.875	Artifact
+3840869169	PNC	PNC-1	-129			1	1	1	1	Pass
+3846816171	PNC	PNC-1	-77	1			1		1	Pass
+3847306693	PNC	PNC-1	-160	1	1				1	Pass
+3851803705	PNC	PNC-1	-97			1	1	1	1	Pass
+385564988	PNC	PNC-1	-289			0.75	0.5	0	0.416666667	Artifact
+3856077977	PNC	PNC-1	-144		1	1		1	1	Pass
+3859141450	PNC	PNC-1	-90	1	1				1	Pass
+3866325191	PNC	PNC-1	-111		1	1		1	1	Pass
+3867430894	PNC	PNC-1	-220		0.75	1		1	0.916666667	Artifact
+3867546625	PNC	PNC-1	-145	1	1	1	1	1	1	Pass
+3869583798	PNC	PNC-1	-108			1	1	1	1	Pass
+3870273492	PNC	PNC-1	-67	1	1				1	Pass
+3870295870	PNC	PNC-1	-168		1	1		1	1	Pass
+3870702454	PNC	PNC-1	-102	1	1	1	1	1	1	Pass
+3874353588	PNC	PNC-1	-102	1	0.75				0.875	Artifact
+3876784770	PNC	PNC-1	-131	1	1	1	1	1	1	Pass
+3880233477	PNC	PNC-1	-190	1			1		1	Pass
+3880738222	PNC	PNC-1	-70			1	1	1	1	Pass
+3882431387	PNC	PNC-1	-81			1	1	1	1	Pass
+3885398873	PNC	PNC-1	-72	1	1	1	1	1	1	Pass
+388650152	PNC	PNC-1	-121		1	1		1	1	Pass
+3888585994	PNC	PNC-1	-186		1	1		1	1	Pass
+3891584278	PNC	PNC-1	-141			1	1	1	1	Pass
+3891810238	PNC	PNC-1	-202	1	1	1	1	1	1	Pass
+389182564	PNC	PNC-1	-135			1	1	1	1	Pass
+3892575145	PNC	PNC-1	-86		1	1		1	1	Pass
+3896564969	PNC	PNC-1	-132	1	1				1	Pass
+3901605230	PNC	PNC-1	-185	1			1		1	Pass
+3902996821	PNC	PNC-1	-76	1			1		1	Pass
+3906186680	PNC	PNC-1	-194	1	1				1	Pass
+3906575236	PNC	PNC-1	-144	1	1	1	1	1	1	Pass
+3909015218	PNC	PNC-1	-121	1	1	1	1	1	1	Pass
+3914722336	PNC	PNC-1	-128	1	1	1	1	1	1	Pass
+3915422918	PNC	PNC-1	-62	1	1				1	Pass
+3917125611	PNC	PNC-1	-117			1	1	1	1	Pass
+3917203499	PNC	PNC-1	-469	0.5			0.5		0.5	Artifact
+3917353122	PNC	PNC-1	-56		1	1		1	1	Pass
+3920704580	PNC	PNC-1	-138	1			1		1	Pass
+3921457149	PNC	PNC-1	-143	1			1		1	Pass
+3923883359	PNC	PNC-1	-83	1	1	1	1	1	1	Pass
+3925151495	PNC	PNC-1	-73			1	1	1	1	Pass
+3925565817	PNC	PNC-1	-76	1	1	1	1	1	1	Pass
+3925705705	PNC	PNC-1	-102	1			1		1	Pass
+3926498329	PNC	PNC-1	-132	1	1				1	Pass
+392818846	PNC	PNC-1	-143		1	1		1	1	Pass
+3930335526	PNC	PNC-1	-95			1	1	1	1	Pass
+3931419723	PNC	PNC-1	-96	1			1		1	Pass
+3931956861	PNC	PNC-1	-133	1	1	1	1	1	1	Pass
+3932933674	PNC	PNC-1	-57	1	1	1	1	1	1	Pass
+3945053428	PNC	PNC-1	-172	1	1				1	Pass
+3950621480	PNC	PNC-1	-110	1	1				1	Pass
+3957619959	PNC	PNC-1	-115	1	1				1	Pass
+396724706	PNC	PNC-1	-87			1	1	1	1	Pass
+396928608	PNC	PNC-1	-110	1	1	1	1	1	1	Pass
+3970800099	PNC	PNC-1	-188	1			1		1	Pass
+3972288841	PNC	PNC-1	-62	1	1				1	Pass
+3978744570	PNC	PNC-1	-115		1	1		1	1	Pass
+398131152	PNC	PNC-1	-108		1	1		1	1	Pass
+3982145425	PNC	PNC-1	-98		1	1		1	1	Pass
+3984163767	PNC	PNC-1	-188		1	1		1	1	Pass
+3985888022	PNC	PNC-1	-121	1	1	1	1	1	1	Pass
+3991005721	PNC	PNC-1	-93	1	1				1	Pass
+3993637691	PNC	PNC-1	-139	1	1				1	Pass
+3995554858	PNC	PNC-1	-165	1	1	1	1	1	1	Pass
+3996598573	PNC	PNC-1	-125	1	1				1	Pass
+4006534625	PNC	PNC-1	-153	1	1	1	1	1	1	Pass
+4016765342	PNC	PNC-1	-66	1	1				1	Pass
+401879401	PNC	PNC-1	-123	1			1		1	Pass
+4020664673	PNC	PNC-1	-75			1	1	1	1	Pass
+402523989	PNC	PNC-1	-69		1	1		1	1	Pass
+402577805	PNC	PNC-1	-137		1	1		1	1	Pass
+4026391232	PNC	PNC-1	-115			1	1	1	1	Pass
+4026910516	PNC	PNC-1	-116	1			1		1	Pass
+4031942322	PNC	PNC-1	-120	1	1				1	Pass
+4033561173	PNC	PNC-1	-112		1	1		1	1	Pass
+4039829353	PNC	PNC-1	-115	1	1				1	Pass
+4040147816	PNC	PNC-1	-120	1	1	1	1	1	1	Pass
+4040716945	PNC	PNC-1	-104	1	1	1	1	1	1	Pass
+405373926	PNC	PNC-1	-137	1	1	1	1	1	1	Pass
+4060589852	PNC	PNC-1	-105		0.75	1		1	0.916666667	Artifact
+4061437282	PNC	PNC-1	-146	1			1		1	Pass
+4063155703	PNC	PNC-1	-124	1			1		1	Pass
+4065001465	PNC	PNC-1	-88	1	1	1	1	1	1	Pass
+4066124203	PNC	PNC-1	-54	1	1	1	1	1	1	Pass
+4067048825	PNC	PNC-1	-132	1			1		1	Pass
+4069098061	PNC	PNC-1	-119	1			1		1	Pass
+4069824072	PNC	PNC-1	-111	0.75	1	1	1	1	0.95	Artifact
+4080403633	PNC	PNC-1	-100			1	1	1	1	Pass
+4083266820	PNC	PNC-1	-104			1	1	1	1	Pass
+4083814481	PNC	PNC-1	-152			1	1	1	1	Pass
+4083828352	PNC	PNC-1	-230	1	1	1			1	Pass
+4085341874	PNC	PNC-1	-88			1	1	1	1	Pass
+408837402	PNC	PNC-1	-97	1	1	1	1	1	1	Pass
+408967257	PNC	PNC-1	-86	1	1				1	Pass
+4090691856	PNC	PNC-1	-127	1	1	1	1	1	1	Pass
+409133707	PNC	PNC-1	-114		1	1		1	1	Pass
+4093108110	PNC	PNC-1	-84	1			1		1	Pass
+4093356685	PNC	PNC-1	-87	1			1		1	Pass
+4095893651	PNC	PNC-1	-149	1			1		1	Pass
+4099417558	PNC	PNC-1	-78			1	1	1	1	Pass
+4099541746	PNC	PNC-1	-65	1	1	1	0.75	1	0.95	Artifact
+4099736023	PNC	PNC-1	-113			1	1	1	1	Pass
+4100540491	PNC	PNC-1	-143			1	1	1	1	Pass
+4106746357	PNC	PNC-1	-124	1			1		1	Pass
+4107507507	PNC	PNC-1	-131			1	1	1	1	Pass
+4108002155	PNC	PNC-1	-113	1			1		1	Pass
+410808047	PNC	PNC-1	-266	0.5	1	0.75	0.5	0	0.55	Artifact
+4113417726	PNC	PNC-1	-89			1	1	1	1	Pass
+4113794425	PNC	PNC-1	-170	1	1	1			1	Pass
+4117238293	PNC	PNC-1	-161		1	1		1	1	Pass
+4118326689	PNC	PNC-1	-109			1	1	0.75	0.916666667	Artifact
+4122649464	PNC	PNC-1	-240		1	1		1	1	Pass
+413107749	PNC	PNC-1	-123	1	1	1	1	1	1	Pass
+4133213633	PNC	PNC-1	-90			1	1	1	1	Pass
+4135739225	PNC	PNC-1	-139			1	1	1	1	Pass
+4136155069	PNC	PNC-1	-113	1	1				1	Pass
+4137052624	PNC	PNC-1	-202	1	1				1	Pass
+4137147732	PNC	PNC-1	-123	1	1				1	Pass
+4144391965	PNC	PNC-1	-90	1	1	1	1	1	1	Pass
+415148142	PNC	PNC-1	-91	1	1				1	Pass
+4160147836	PNC	PNC-1	-71	1			1		1	Pass
+4160502168	PNC	PNC-1	-126	1	1	1	1	1	1	Pass
+4163093414	PNC	PNC-1	-125	1	1				1	Pass
+4164375240	PNC	PNC-1	-128			1	1	1	1	Pass
+4167756410	PNC	PNC-1	-84	1	1				1	Pass
+417075525	PNC	PNC-1	-76	1			1		1	Pass
+4172321775	PNC	PNC-1	-152	1			1		1	Pass
+4172833860	PNC	PNC-1	-100	1	1	1	1	1	1	Pass
+4174857942	PNC	PNC-1	-90	1			1		1	Pass
+4177765106	PNC	PNC-1	-59		1	1		1	1	Pass
+4182146714	PNC	PNC-1	-116			1	0.75	1	0.916666667	Artifact
+4187598678	PNC	PNC-1	-74	1	1	1	1	1	1	Pass
+4187823334	PNC	PNC-1	-115			1	1	1	1	Pass
+4190603704	PNC	PNC-1	-159			0.75	1	0.5	0.75	Artifact
+4190952364	PNC	PNC-1	-77	1	1	1	1	1	1	Pass
+4193918219	PNC	PNC-1	-148		1	1		1	1	Pass
+419535935	PNC	PNC-1	-90	1			1		1	Pass
+4196310650	PNC	PNC-1	-185		1	1		1	1	Pass
+4196412787	PNC	PNC-1	-154	1	1	1	1	1	1	Pass
+4196502261	PNC	PNC-1	-162			1	1	0.75	0.916666667	Artifact
+4197093898	PNC	PNC-1	-42			1	1	1	1	Pass
+4198853043	PNC	PNC-1	-117		1	1		1	1	Pass
+4199436321	PNC	PNC-1	-99	1	1				1	Pass
+4208420410	PNC	PNC-1	-248	1			1		1	Pass
+420900014	PNC	PNC-1	-145	1			1		1	Pass
+4211615439	PNC	PNC-1	-129	1	1				1	Pass
+4215014897	PNC	PNC-1	-104	1			1		1	Pass
+4216533717	PNC	PNC-1	-95	1	1	1	1	1	1	Pass
+4231164226	PNC	PNC-1	-125	1			1		1	Pass
+4232585168	PNC	PNC-1	-91		1	1		1	1	Pass
+4238772277	PNC	PNC-1	-114		1	1		1	1	Pass
+4239005932	PNC	PNC-1	-109	1	1	1	1	1	1	Pass
+4240185446	PNC	PNC-1	-70			1	1	1	1	Pass
+4242587695	PNC	PNC-1	-98	1			1		1	Pass
+4250731906	PNC	PNC-1	-52	1			1		1	Pass
+4259136159	PNC	PNC-1	-102	1	1				1	Pass
+4264683889	PNC	PNC-1	-178	1	1	1	1	1	1	Pass
+4268231041	PNC	PNC-1	-158	1	1	1	1	1	1	Pass
+4269306166	PNC	PNC-1	-133			1	1	1	1	Pass
+4269796936	PNC	PNC-1	-162	1	1				1	Pass
+4276974103	PNC	PNC-1	-147	1	1				1	Pass
+4284367721	PNC	PNC-1	-92	1	1	1	1	1	1	Pass
+4284483827	PNC	PNC-1	-42	1			1		1	Pass
+4285301913	PNC	PNC-1	-127	1			1		1	Pass
+4285804772	PNC	PNC-1	-252	1			1		1	Pass
+4286784089	PNC	PNC-1	-62	1			1		1	Pass
+4288368085	PNC	PNC-1	-210	1	1				1	Pass
+4288775453	PNC	PNC-1	-87	1	1				1	Pass
+4290234295	PNC	PNC-1	-101			1	1	1	1	Pass
+4292903812	PNC	PNC-1	-160			1	1	1	1	Pass
+429608771	PNC	PNC-1	-100			1	1	1	1	Pass
+432187454	PNC	PNC-1	-89	1	1	1	1	1	1	Pass
+433029449	PNC	PNC-1	-101		1	1		1	1	Pass
+43606631	PNC	PNC-1	-50	1	1	1	1	1	1	Pass
+438637277	PNC	PNC-1	-156			1	1	0.75	0.916666667	Artifact
+440314957	PNC	PNC-1	-103	1	1				1	Pass
+443334800	PNC	PNC-1	-358			0.75	1	0.5	0.75	Artifact
+443632695	PNC	PNC-1	-108	1			1		1	Pass
+443652258	PNC	PNC-1	-148			1	1	1	1	Pass
+443900734	PNC	PNC-1	-96		1	1		1	1	Pass
+447184381	PNC	PNC-1	-101		1	1		1	1	Pass
+447775004	PNC	PNC-1	-56	1			1		1	Pass
+448304956	PNC	PNC-1	-111		1	1		1	1	Pass
+451261789	PNC	PNC-1	-101	1	1	1	1	1	1	Pass
+458296344	PNC	PNC-1	-92		1	1		1	1	Pass
+460925240	PNC	PNC-1	-125	1	1				1	Pass
+462702505	PNC	PNC-1	-317	1	0.5	1	1	1	0.9	Artifact
+465465726	PNC	PNC-1	-192	1	1	1	1	1	1	Pass
+467305309	PNC	PNC-1	-174			1	1	1	1	Pass
+470135601	PNC	PNC-1	-96	1	1				1	Pass
+471230479	PNC	PNC-1	-109	1			1		1	Pass
+471903637	PNC	PNC-1	-92	1	1				1	Pass
+473767958	PNC	PNC-1	-214	1			0.5		0.75	Artifact
+476252579	PNC	PNC-1	-113		0.75	1		1	0.916666667	Artifact
+481928384	PNC	PNC-1	-76	1	1	1	1	1	1	Pass
+482239832	PNC	PNC-1	-93		1	1		1	1	Pass
+482294424	PNC	PNC-1	-126	1	1	1	1	1	1	Pass
+485017822	PNC	PNC-1	-59	1	1				1	Pass
+486306438	PNC	PNC-1	-87	1	1	1	1	1	1	Pass
+486404664	PNC	PNC-1	-120			1	1	1	1	Pass
+487664430	PNC	PNC-1	-96	1	1	1			1	Pass
+488302404	PNC	PNC-1	-67	1	1				1	Pass
+490845995	PNC	PNC-1	-82			1	1	1	1	Pass
+49408975	PNC	PNC-1	-115	1	1	1	1	1	1	Pass
+494764211	PNC	PNC-1	-81	1	1				1	Pass
+496203414	PNC	PNC-1	-103		1	1		1	1	Pass
+498628252	PNC	PNC-1	-168	1			1		1	Pass
+499092343	PNC	PNC-1	-144			1	1	1	1	Pass
+500081009	PNC	PNC-1	-110	1	1	1	1	1	1	Pass
+500214245	PNC	PNC-1	-139	1	1				1	Pass
+507224785	PNC	PNC-1	-111	1			0.75		0.875	Artifact
+510706202	PNC	PNC-1	-101	1	1	1	1	1	1	Pass
+51217255	PNC	PNC-1	-46			1	1	1	1	Pass
+517593246	PNC	PNC-1	-138			1	1	1	1	Pass
+520579518	PNC	PNC-1	-108		1	1		1	1	Pass
+52306425	PNC	PNC-1	-72	1			1		1	Pass
+523278137	PNC	PNC-1	-129	1			1		1	Pass
+524958008	PNC	PNC-1	-70		1	1		1	1	Pass
+526023406	PNC	PNC-1	-45		1	1		1	1	Pass
+527463413	PNC	PNC-1	-146			1	1	1	1	Pass
+52835891	PNC	PNC-1	-101		1	1		1	1	Pass
+530789110	PNC	PNC-1	-135	1	1				1	Pass
+533823633	PNC	PNC-1	-135	1			1		1	Pass
+536638696	PNC	PNC-1	-123			1	1	1	1	Pass
+537502840	PNC	PNC-1	-69	1	1	1	1	1	1	Pass
+550810566	PNC	PNC-1	-120	1			1		1	Pass
+55710183	PNC	PNC-1	-109	1			1		1	Pass
+56162563	PNC	PNC-1	-77	1			1		1	Pass
+562992781	PNC	PNC-1	-144			1	1	1	1	Pass
+566745642	PNC	PNC-1	-92	1			1		1	Pass
+568769650	PNC	PNC-1	-164		0.75	1		0.75	0.833333333	Artifact
+571955453	PNC	PNC-1	-165			1	1	0.75	0.916666667	Artifact
+574930953	PNC	PNC-1	-102	1	1	1	1	1	1	Pass
+578652819	PNC	PNC-1	-336	0.5	0.75	0.75	0.75	0.5	0.65	Artifact
+579459470	PNC	PNC-1	-71		1	1		1	1	Pass
+579934409	PNC	PNC-1	-131		1	1		1	1	Pass
+583203611	PNC	PNC-1	-94	1	1	1	1	1	1	Pass
+584328521	PNC	PNC-1	-74			1	1	1	1	Pass
+585579170	PNC	PNC-1	-73	1			1		1	Pass
+594496588	PNC	PNC-1	-104			1	1	1	1	Pass
+595113616	PNC	PNC-1	-337		0.5	0.75		0	0.416666667	Artifact
+597625120	PNC	PNC-1	-84	1	1				1	Pass
+60021964	PNC	PNC-1	-119		1	1		1	1	Pass
+606185341	PNC	PNC-1	-118			1	1	1	1	Pass
+609583468	PNC	PNC-1	-108	1			1		1	Pass
+610158411	PNC	PNC-1	-122	1	1	1	1	1	1	Pass
+612700286	PNC	PNC-1	-51	1			1		1	Pass
+618085604	PNC	PNC-1	-171	1			1		1	Pass
+619623685	PNC	PNC-1	-145	1			1		1	Pass
+619635668	PNC	PNC-1	-233	1	1				1	Pass
+620265516	PNC	PNC-1	-138		1	1		1	1	Pass
+624076698	PNC	PNC-1	-74	1			1		1	Pass
+624155263	PNC	PNC-1	-177	1	1	1	1	0.75	0.95	Artifact
+624204289	PNC	PNC-1	-155			1	1	1	1	Pass
+62582335	PNC	PNC-1	-144	1	1	1			1	Pass
+628144066	PNC	PNC-1	-47	1	1	1	1	1	1	Pass
+628391776	PNC	PNC-1	-70	1	1	1	1	1	1	Pass
+629271662	PNC	PNC-1	-121	1			1		1	Pass
+631348709	PNC	PNC-1	-109		1	1		1	1	Pass
+634597131	PNC	PNC-1	-138		1	1		1	1	Pass
+636218109	PNC	PNC-1	-175	1	1	1	1	1	1	Pass
+646773252	PNC	PNC-1	-67	1	1	1	1	1	1	Pass
+646981992	PNC	PNC-1	-62		1	1		1	1	Pass
+65198031	PNC	PNC-1	-86	1			1		1	Pass
+657998684	PNC	PNC-1	-216			1	1	1	1	Pass
+661364701	PNC	PNC-1	-74		1	1		1	1	Pass
+661613686	PNC	PNC-1	-131		1	1		1	1	Pass
+661770582	PNC	PNC-1	-71			1	1	1	1	Pass
+662466380	PNC	PNC-1	-95	1	1	1	1	1	1	Pass
+666666729	PNC	PNC-1	-175			1	1	1	1	Pass
+669437295	PNC	PNC-1	-76	1	1				1	Pass
+673480448	PNC	PNC-1	-94	1	1				1	Pass
+674306142	PNC	PNC-1	-126	1	1				1	Pass
+676758900	PNC	PNC-1	-145	1	1				1	Pass
+677581716	PNC	PNC-1	-155	1			1		1	Pass
+678139191	PNC	PNC-1	-305	0.25	0.5				0.375	Artifact
+680441334	PNC	PNC-1	-195	1	1				1	Pass
+681935372	PNC	PNC-1	-126		1	1		1	1	Pass
+688334597	PNC	PNC-1	-129		1	1		1	1	Pass
+696727241	PNC	PNC-1	-103	1			1		1	Pass
+698185794	PNC	PNC-1	-134			1	1	1	1	Pass
+699288066	PNC	PNC-1	-133			1	1	1	1	Pass
+699682516	PNC	PNC-1	-136	1			1		1	Pass
+70214854	PNC	PNC-1	-79	1	1	1	1	1	1	Pass
+706517651	PNC	PNC-1	-130	1	1	1	1	1	1	Pass
+707016535	PNC	PNC-1	-129	1	1	1	1	1	1	Pass
+708998859	PNC	PNC-1	-71		1	1		1	1	Pass
+713088600	PNC	PNC-1	-115	1	1				1	Pass
+714036765	PNC	PNC-1	-116	1	1				1	Pass
+716537879	PNC	PNC-1	-153	1	1				1	Pass
+71851847	PNC	PNC-1	-99	1	1	1	1	1	1	Pass
+718830447	PNC	PNC-1	-154			1	1	1	1	Pass
+725712542	PNC	PNC-1	-93	1	1	1	1	1	1	Pass
+725744795	PNC	PNC-1	-73			1	1	1	1	Pass
+731048453	PNC	PNC-1	-140		1	1		1	1	Pass
+733780371	PNC	PNC-1	-275	1	1				1	Pass
+734794291	PNC	PNC-1	-99		1	1		1	1	Pass
+736568905	PNC	PNC-1	-141		1	1		1	1	Pass
+741738961	PNC	PNC-1	-193	1			1		1	Pass
+746172812	PNC	PNC-1	-127	1	1				1	Pass
+746461855	PNC	PNC-1	-52	1	1				1	Pass
+747098283	PNC	PNC-1	-307	0.75	0.5	0.5	0.5	0.5	0.55	Artifact
+74920331	PNC	PNC-1	-88		1	1		1	1	Pass
+749654008	PNC	PNC-1	-103			1	1	1	1	Pass
+749926734	PNC	PNC-1	-76			1	1	1	1	Pass
+754064811	PNC	PNC-1	-102	1	1				1	Pass
+754671892	PNC	PNC-1	-80	1			1		1	Pass
+756380264	PNC	PNC-1	-124	1	1				1	Pass
+759622826	PNC	PNC-1	-193			1	1	0.75	0.916666667	Artifact
+762034957	PNC	PNC-1	-134	1	1	1	1	1	1	Pass
+764315034	PNC	PNC-1	-173		1	1		1	1	Pass
+765502775	PNC	PNC-1	-128	1			1		1	Pass
+765941980	PNC	PNC-1	-112			1	1	1	1	Pass
+766617571	PNC	PNC-1	-136	1			1		1	Pass
+768254884	PNC	PNC-1	-123	1	1				1	Pass
+771616981	PNC	PNC-1	-428	1			0.75		0.875	Artifact
+77390767	PNC	PNC-1	-105	1	1				1	Pass
+779151395	PNC	PNC-1	-93	1	1				1	Pass
+782547571	PNC	PNC-1	-76		1	1		1	1	Pass
+782651188	PNC	PNC-1	-99	1			1		1	Pass
+787911250	PNC	PNC-1	-87		1	1		1	1	Pass
+78982423	PNC	PNC-1	-72		1	1		1	1	Pass
+793702653	PNC	PNC-1	-95	1	1				1	Pass
+794058926	PNC	PNC-1	-88	1	1				1	Pass
+802748205	PNC	PNC-1	-121	1	1				1	Pass
+803514179	PNC	PNC-1	-137	1	0.75				0.875	Artifact
+808262395	PNC	PNC-1	-200		1	0.75		0.5	0.75	Artifact
+808687263	PNC	PNC-1	-113		1	1		1	1	Pass
+809074299	PNC	PNC-1	-85	1	1				1	Pass
+80982198	PNC	PNC-1	-151	1			1		1	Pass
+812909443	PNC	PNC-1	-107	1	1				1	Pass
+813520934	PNC	PNC-1	-88	1	1				1	Pass
+817266153	PNC	PNC-1	-31	1	0.75	1	1	1	0.95	Artifact
+818654763	PNC	PNC-1	-88			1	1	1	1	Pass
+823277717	PNC	PNC-1	-271	1			1		1	Pass
+826730657	PNC	PNC-1	-161	1	1	1	1	1	1	Pass
+826824711	PNC	PNC-1	-69		1	1		1	1	Pass
+82699044	PNC	PNC-1	-91	1	1				1	Pass
+831081379	PNC	PNC-1	-210	1			1		1	Pass
+831211165	PNC	PNC-1	-133	1			1		1	Pass
+834809108	PNC	PNC-1	-53	1	1				1	Pass
+835001493	PNC	PNC-1	-129		1	1		1	1	Pass
+835121147	PNC	PNC-1	-69	1	1	1	1	1	1	Pass
+84407714	PNC	PNC-1	-104	1	1				1	Pass
+8454119	PNC	PNC-1	-145		1	1		1	1	Pass
+845422206	PNC	PNC-1	-89		1	1		1	1	Pass
+850131294	PNC	PNC-1	-54			1	1	1	1	Pass
+851427152	PNC	PNC-1	-178	1	1				1	Pass
+856706691	PNC	PNC-1	-97	1	1				1	Pass
+858211894	PNC	PNC-1	-74	1	1	1			1	Pass
+860165209	PNC	PNC-1	-95	1	1				1	Pass
+860920010	PNC	PNC-1	-121		1	1		1	1	Pass
+861649027	PNC	PNC-1	-92	1	1				1	Pass
+86226939	PNC	PNC-1	-138	1	1				1	Pass
+863570233	PNC	PNC-1	-101			1	1	1	1	Pass
+864032752	PNC	PNC-1	-233	1	1	1	1	1	1	Pass
+865069950	PNC	PNC-1	-115		1	1		1	1	Pass
+865678636	PNC	PNC-1	-89	1	1				1	Pass
+867458668	PNC	PNC-1	-91	1	1				1	Pass
+868703738	PNC	PNC-1	-114	1	1	1	1	1	1	Pass
+872953625	PNC	PNC-1	-217	1			1		1	Pass
+876444031	PNC	PNC-1	-73	1	1				1	Pass
+880296671	PNC	PNC-1	-160	1	1				1	Pass
+881641391	PNC	PNC-1	-74			1	1	1	1	Pass
+890147203	PNC	PNC-1	-126			1	1	1	1	Pass
+893070403	PNC	PNC-1	-129	1	1	1	1	1	1	Pass
+894197507	PNC	PNC-1	-85	1	1	1	1	1	1	Pass
+894864165	PNC	PNC-1	-95	1	1	1	1	1	1	Pass
+898340201	PNC	PNC-1	-100	1	1				1	Pass
+902534154	PNC	PNC-1	-101	1	1				1	Pass
+903529086	PNC	PNC-1	-293	1	1	1	1	1	1	Pass
+905292781	PNC	PNC-1	-117	1			1		1	Pass
+906347615	PNC	PNC-1	-128	1	1				1	Pass
+906771173	PNC	PNC-1	-288	0.5	0.5	0.25			0.416666667	Artifact
+908607262	PNC	PNC-1	-104		1	1		1	1	Pass
+909152050	PNC	PNC-1	-118	1	1				1	Pass
+911677944	PNC	PNC-1	-116	1	1	1	1	1	1	Pass
+915599319	PNC	PNC-1	-69		1	1		1	1	Pass
+915920148	PNC	PNC-1	-361	1			1		1	Pass
+919679140	PNC	PNC-1	-147		1	1		1	1	Pass
+920823026	PNC	PNC-1	-162		1	1		1	1	Pass
+924632425	PNC	PNC-1	-228			1	1	1	1	Pass
+924815264	PNC	PNC-1	-101	1			1		1	Pass
+926616751	PNC	PNC-1	-148	1			1		1	Pass
+93800202	PNC	PNC-1	-148	1	1				1	Pass
+940718928	PNC	PNC-1	-79			1	1	1	1	Pass
+941151156	PNC	PNC-1	-101		1	1		1	1	Pass
+943724490	PNC	PNC-1	-112	1	1				1	Pass
+947782339	PNC	PNC-1	-72	1	1				1	Pass
+950661655	PNC	PNC-1	-134		1	1		1	1	Pass
+951581315	PNC	PNC-1	-154	1	1				1	Pass
+952845911	PNC	PNC-1	-45			1	1	1	1	Pass
+956032422	PNC	PNC-1	-158			1	1	1	1	Pass
+962036104	PNC	PNC-1	-104	1	1				1	Pass
+964422005	PNC	PNC-1	-276	1	1	1	1	1	1	Pass
+965145125	PNC	PNC-1	-103		1	1		1	1	Pass
+969649154	PNC	PNC-1	-146	1	1				1	Pass
+97005004	PNC	PNC-1	-170	1	1				1	Pass
+970890500	PNC	PNC-1	-211	1			1		1	Pass
+972336786	PNC	PNC-1	-91			1	1	1	1	Pass
+974108074	PNC	PNC-1	-139			1	1	1	1	Pass
+975856179	PNC	PNC-1	-176	1			1		1	Pass
+977404127	PNC	PNC-1	-74		1	1		1	1	Pass
+978316517	PNC	PNC-1	-163	1			1		1	Pass
+978838797	PNC	PNC-1	-406	0.5	0	0			0.166666667	Artifact
+978955855	PNC	PNC-1	-239	1	1	1	1	1	1	Pass
+981492397	PNC	PNC-1	-96	1	1	1	1	1	1	Pass
+982522394	PNC	PNC-1	-122		1	1		1	1	Pass
+983504031	PNC	PNC-1	-85	1	1				1	Pass
+984757368	PNC	PNC-1	-238	1			1		1	Pass
+985910486	PNC	PNC-1	-123			1	1	1	1	Pass
+986035435	PNC	PNC-1	-123			1	1	1	1	Pass
+987544292	PNC	PNC-1	-101	1	1				1	Pass
+993394555	PNC	PNC-1	-76	1			1		1	Pass
+997818717	PNC	PNC-1	-89	1	1				1	Pass
