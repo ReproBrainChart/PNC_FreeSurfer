@@ -5,7 +5,7 @@
             "PNC": "PNC"
         }
     },
-    "ses_id": {
+    "session_id": {
         "LongName": "Session identifier",
         "Description": "The session identifier indicates the session during which the subject was scanned."
     },
